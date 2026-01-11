@@ -1,0 +1,25 @@
+#!/bin/bash
+#
+# Pre-commit hook for pixelcade-lcd-updates-r3
+# Automatically updates manifest.json when artwork files change
+#
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+# Check if any artwork files are being committed
+ARTWORK_CHANGES=$(git diff --cached --name-only | grep -E '^(lcdmarquees|metadata)/')
+
+if [ -n "$ARTWORK_CHANGES" ]; then
+    echo "Artwork changes detected, updating manifest..."
+
+    # Run the manifest generator
+    python3 generate-manifest.py
+
+    # Stage the updated manifest
+    git add manifest.json
+
+    echo "Manifest updated and staged."
+fi
+
+exit 0
