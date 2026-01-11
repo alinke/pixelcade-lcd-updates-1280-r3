@@ -1,7 +1,15 @@
 {
-  "version": 20,
+  "version": 21,
   "base_version": 19,
   "files": [
+    {
+      "path": "lcdmarquees/pc-contra operation galuga.jpg",
+      "added": 21
+    },
+    {
+      "path": "lcdmarquees/pc-marvel_cosmic_invasion.jpg",
+      "added": 21
+    },
     {
       "path": "lcdmarquees/teknoparrot_patreon-injustice.jpg",
       "added": 20
@@ -61,6 +69,14 @@
     {
       "path": "lcdmarquees/teknoparrot_patreon-virtua tennis 3.jpg",
       "added": 20
+    },
+    {
+      "path": "lcdmarquees/thumbnails/pc-contra operation galuga-tmb.jpg",
+      "added": 21
+    },
+    {
+      "path": "lcdmarquees/thumbnails/pc-marvel_cosmic_invasion-tmb.jpg",
+      "added": 21
     },
     {
       "path": "lcdmarquees/thumbnails/teknoparrot_patreon-injustice-tmb.jpg",
