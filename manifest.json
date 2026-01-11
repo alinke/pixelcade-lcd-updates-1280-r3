@@ -1,7 +1,15 @@
 {
-  "version": 21,
+  "version": 22,
   "base_version": 19,
   "files": [
+    {
+      "path": "lcdmarquees/default-vintage_commercials.jpg",
+      "added": 22
+    },
+    {
+      "path": "lcdmarquees/mame-omegrace.jpg",
+      "added": 22
+    },
     {
       "path": "lcdmarquees/pc-contra operation galuga.jpg",
       "added": 21
@@ -69,6 +77,14 @@
     {
       "path": "lcdmarquees/teknoparrot_patreon-virtua tennis 3.jpg",
       "added": 20
+    },
+    {
+      "path": "lcdmarquees/thumbnails/default-vintage_commercials-tmb.jpg",
+      "added": 22
+    },
+    {
+      "path": "lcdmarquees/thumbnails/mame-omegrace-tmb.jpg",
+      "added": 22
     },
     {
       "path": "lcdmarquees/thumbnails/pc-contra operation galuga-tmb.jpg",
