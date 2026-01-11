@@ -1,18 +1,20 @@
 #!/usr/bin/env python3
 """
-Manifest generator for pixelcade-lcd-updates-r3 incremental artwork updates.
+Manifest generator for pixelcade-lcd-updates-1280-r3 incremental artwork updates.
 
 This script scans the repo for artwork files and maintains a manifest.json that tracks
 when each file was added. Used by runupdate.sh to enable incremental downloads.
 
 Usage:
-    python3 generate-manifest.py          # Auto-run, bumps version only if new files found
-    python3 generate-manifest.py --force  # Force version bump even if no new files
+    python3 generate-manifest.py              # Auto-run, bumps version only if new files found
+    python3 generate-manifest.py --force      # Force version bump even if no new files
+    python3 generate-manifest.py --reset 25   # Reset manifest with new base version (after moving files to R2)
 """
 
 import json
 import os
 import sys
+import argparse
 from pathlib import Path
 
 # Configuration
@@ -112,25 +114,74 @@ def update_manifest(force_bump=False):
     return len(new_files), len(removed_files), new_version
 
 
+def reset_manifest(new_base_version):
+    """
+    Reset the manifest with a new base version.
+    All existing files are tagged with the new base version.
+    Use this after moving files from R3 to R2.
+
+    Returns:
+        tuple: (file_count, new_version)
+    """
+    current_files = get_all_artwork_files()
+
+    # Build fresh manifest with all files at new base version
+    updated_files = []
+    for path in sorted(current_files):
+        updated_files.append({"path": path, "added": new_base_version})
+
+    manifest = {
+        "version": new_base_version,
+        "base_version": new_base_version,
+        "files": updated_files
+    }
+
+    save_manifest(manifest)
+
+    return len(current_files), new_base_version
+
+
 def main():
-    force_bump = "--force" in sys.argv
+    parser = argparse.ArgumentParser(
+        description="Generate manifest for incremental artwork updates"
+    )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Force version bump even if no new files"
+    )
+    parser.add_argument(
+        "--reset",
+        type=int,
+        metavar="VERSION",
+        help="Reset manifest with new base version (use after moving files to R2)"
+    )
+    args = parser.parse_args()
 
     print(f"Scanning artwork directories: {ARTWORK_DIRS}")
 
-    new_count, removed_count, version = update_manifest(force_bump)
+    if args.reset is not None:
+        # Reset mode - fresh start with new base version
+        file_count, version = reset_manifest(args.reset)
+        print(f"Reset manifest to version {version} with {file_count} files")
+        print(f"All files tagged with base version {version}")
+        return 1  # Always indicate manifest was updated
+
+    # Normal mode - incremental update
+    new_count, removed_count, version = update_manifest(args.force)
 
     if new_count > 0:
         print(f"Added {new_count} new file(s) at version {version}")
     if removed_count > 0:
         print(f"Removed {removed_count} deleted file(s) from manifest")
     if new_count == 0 and removed_count == 0:
-        if force_bump:
+        if args.force:
             print(f"No changes, but forced version bump to {version}")
         else:
             print(f"No changes detected. Manifest at version {version}")
 
     # Return non-zero if manifest was updated (for git hook to know to stage it)
-    return 0 if (new_count == 0 and removed_count == 0 and not force_bump) else 1
+    return 0 if (new_count == 0 and removed_count == 0 and not args.force) else 1
 
 
 if __name__ == "__main__":
