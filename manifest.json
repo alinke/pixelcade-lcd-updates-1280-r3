@@ -1,10 +1,14 @@
 {
-  "version": 22,
+  "version": 23,
   "base_version": 19,
   "files": [
     {
       "path": "lcdmarquees/default-vintage_commercials.jpg",
       "added": 22
+    },
+    {
+      "path": "lcdmarquees/gun_games_(sinden)-nerf arcade.jpg",
+      "added": 23
     },
     {
       "path": "lcdmarquees/mame-omegrace.jpg",
@@ -17,6 +21,10 @@
     {
       "path": "lcdmarquees/pc-marvel_cosmic_invasion.jpg",
       "added": 21
+    },
+    {
+      "path": "lcdmarquees/teknoparrot_patreon-go go strike.jpg",
+      "added": 23
     },
     {
       "path": "lcdmarquees/teknoparrot_patreon-injustice.jpg",
@@ -83,6 +91,10 @@
       "added": 22
     },
     {
+      "path": "lcdmarquees/thumbnails/gun_games_(sinden)-nerf arcade-tmb.jpg",
+      "added": 23
+    },
+    {
       "path": "lcdmarquees/thumbnails/mame-omegrace-tmb.jpg",
       "added": 22
     },
@@ -93,6 +105,10 @@
     {
       "path": "lcdmarquees/thumbnails/pc-marvel_cosmic_invasion-tmb.jpg",
       "added": 21
+    },
+    {
+      "path": "lcdmarquees/thumbnails/teknoparrot_patreon-go go strike-tmb.jpg",
+      "added": 23
     },
     {
       "path": "lcdmarquees/thumbnails/teknoparrot_patreon-injustice-tmb.jpg",
