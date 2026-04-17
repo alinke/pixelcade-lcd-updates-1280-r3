@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "base_version": 19,
   "files": [
     {
@@ -1013,6 +1013,10 @@
     {
       "path": "lcdmarquees/chromatheme-magnavox_odyssey_2.jpg",
       "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-mame.jpg",
+      "added": 26
     },
     {
       "path": "lcdmarquees/chromatheme-mastersystem.jpg",
@@ -22233,6 +22237,10 @@
     {
       "path": "lcdmarquees/thumbnails/chromatheme-magnavox_odyssey_2-tmb.jpg",
       "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-mame-tmb.jpg",
+      "added": 26
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-mastersystem-tmb.jpg",
