@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "base_version": 19,
   "files": [
     {
@@ -743,8 +743,768 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/chromatheme-3do.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-american_laser_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-amiga.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-amstrad_gx4000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-amstradcpc.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-android.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-apf_imagination_machine.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-apple2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-apple_iigs.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-apple_ios.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-arcade.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-arcade_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atari2600.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atari5200.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atari7800.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atari800.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atari_800xl.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atari_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atari_jaguar_cd.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atari_st.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atarijaguar.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atarilynx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-bally_astrocade.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-bandai_wonderswan.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-c64.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-capcom_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-capcom_play_system.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-capcom_play_system_ii.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-capcom_play_system_iii.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-casio_loopy.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-casio_pv-1000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-category_-_arcade.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-category_-_computers.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-category_-_consoles.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-category_-_handhelds.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-category_-_pinball.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-cave.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-clone_hero.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-coleco.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-commodore_128.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-commodore_16.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-commodore_amiga_cd32.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-commodore_cdtv.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-commodore_pet.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-commodore_plus_4.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-commodore_vic-20.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-daphne.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-data_east_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-dos.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-dreamcast.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-epoch_game_pocket_computer.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-epoch_super_cassette_vision.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-fairchild_channel_f.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-favorites.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-fujitsu_fm_towns.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-gamegear.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-gb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-gba.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-gbc.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-genesis.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-gun_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-intellivision.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-irem_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-konami_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-konami_handheld_electronics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-locomalito_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-macintosh.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-magnavox_odyssey_2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-mastersystem.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-megadrive.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-megaduck.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-microsoft_game_pass.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-microsoft_msx2+.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-microsoft_msx_laserdisc.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-microsoft_windows_3.x.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-microsoft_xbox.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-microsoft_xbox_360.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-microsoft_xbox_one.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-microsoft_xbox_series.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-midway_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-msx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-msx2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-mugen.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-n64.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-namco_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-namco_system_11.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-namco_system_22.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nec_pc-9801.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nec_pc_engine_cd.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nec_pc_fx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nec_supergrafx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nec_turbografx-16.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nec_turbografx_cd.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nes.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nesicaxlive.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-ngp.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-ngpc.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_3ds.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_64dd.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_ds.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_dsi.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_famicom.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_famicom_disk_system.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_game_and_watch.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_gamecube.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_satellaview.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_sufami_turbo.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_super_famicom.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_super_game_boy.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_super_game_boy_(eu).jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_switch.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_virtual_boy.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_wii.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_wii_u.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nintendo_wiiware.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-nokia_n-gage.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-openbor.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-pcengine.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-philips_cd-i.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-philips_p2000t.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-philips_videopac_c52.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-phillips_videopac+.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-ps2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-ps4.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-ps5.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-psp.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-psx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-raw_thrills.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sammy_atomiswave.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-saturn.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-scummvm.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega32x.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_cd_32x.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_chihiro.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_dreamcast_(pal).jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_europa-r.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_hikaru.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_lindbergh.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_mega_drive_(jap).jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_model_1.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_model_2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_model_3.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_naomi.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_naomi_2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_pico.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_ringedge.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_ringwide.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_saturn_(jap).jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_st-v.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_system_32.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_triforce.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-segacd.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sg-1000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sharp_x1.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sharp_x68000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-snes.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-snk_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-snk_hyper_neo_geo_64.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-snk_neo_geo_aes.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-snk_neo_geo_cd.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-snk_neo_geo_mvs.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sony_playstation_3.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sony_playstation_minis.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sony_playstation_vita.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-steam.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-steam_deck.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-super_nintendo_entertainment_system_(eu).jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-super_nintendo_entertainment_system_(purple).jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-taito_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-taito_type_x.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-taito_type_x2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-tekno_parrot_subscription.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-teknoparrot.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-texas_instruments_ti-994a.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-thomson_mo5.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-tiger_electronics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-tiger_game.com.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-vectrex.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-watara_supervision.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-williams_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-windows_10.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-windows_11.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-windows_95.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-windows_98.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-wonderswancolor.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-wow_action_max.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/chromatheme-zxspectrum.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/default-fbneo.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/default-n2fun.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/default-vintage_commercials.jpg",
@@ -1353,6 +2113,10 @@
     {
       "path": "lcdmarquees/defaulttheme-favorites_alt.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/defaulttheme-favorites_exit.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/defaulttheme-fba.jpg",
@@ -13911,8 +14675,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-amiga600.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-amigacd32.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-amigacdtv.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-amstrad_gx4000.jpg",
@@ -13971,6 +14743,14 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-atarist.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-atomiswave.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-auto-adult.jpg",
       "added": 24
     },
@@ -13979,8 +14759,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-auto-arcade copy.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-auto-arcade.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-auto-at2players.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-auto-at4players.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-auto-favorites.jpg",
@@ -14011,6 +14803,14 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-c128.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-c20.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-c64.jpg",
       "added": 24
     },
@@ -14023,8 +14823,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-channelf.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-coleco.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-colecovision.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-collections.jpg",
@@ -14041,6 +14849,14 @@
     {
       "path": "lcdmarquees/hypertheme-commodore_vic-20.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-commodore_vic_20.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-commodorevic20.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-cpet.jpg",
@@ -14127,8 +14943,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-genesis.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-gun_games.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-gw.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-gx4000.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-imageviewer.jpg",
@@ -14137,6 +14965,10 @@
     {
       "path": "lcdmarquees/hypertheme-intellivision.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-jaguar.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-kodi.jpg",
@@ -14151,8 +14983,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-lightgun.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-lutro.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-lynx.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-magnavox_odyssey_2.jpg",
@@ -14179,6 +15019,14 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-microsoft_msx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-microsoft_msx2+.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-microsoft_msx2.jpg",
       "added": 24
     },
@@ -14197,6 +15045,18 @@
     {
       "path": "lcdmarquees/hypertheme-msx.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-msx1.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-msx2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-msx_turbo_r.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-msxturbor.jpg",
@@ -14219,12 +15079,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-naomi.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-naomigd.jpg",
       "added": 24
     },
     {
       "path": "lcdmarquees/hypertheme-nds.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-nec_pc-fx.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-nec_pc_engine-cd.jpg",
@@ -14235,8 +15103,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-nec_super_grafx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-nec_supergrafx.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-neogeo.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-neogeocd.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-nes.jpg",
@@ -14263,6 +15143,14 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-nintendo_game_&_watch.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-nintendo_game_&_watch_.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-nintendo_game_and_watch.jpg",
       "added": 24
     },
@@ -14275,8 +15163,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-nintendo_stellaview.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-nintendo_sufami_turbo.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-odyssey2.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-openarena.jpg",
@@ -14307,12 +15203,24 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-pcenginecd.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-pcfx.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-pictures.jpg",
       "added": 24
     },
     {
       "path": "lcdmarquees/hypertheme-pinball.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-pokemini.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-psp.jpg",
@@ -14343,8 +15251,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-samcoupe.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-sammy_atomiswave.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-satellaview.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-scummvm.jpg",
@@ -14355,6 +15271,14 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-sega_mega_drive.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-sega_mega_drive_japan.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-sega_naomi.jpg",
       "added": 24
     },
@@ -14363,12 +15287,28 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-sega_sg-1000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-sega_sg_1000.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-segacd.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-segasaturn.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-sg-1000.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-sg1000.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-sinclair_zx81.jpg",
@@ -14385,6 +15325,10 @@
     {
       "path": "lcdmarquees/hypertheme-spectravideo.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-sufami.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-supergrafx.jpg",
@@ -14419,8 +15363,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/hypertheme-wonderswan.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/hypertheme-wonderswancolor.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-wswan.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/hypertheme-wswanc.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-x1.jpg",
@@ -14429,6 +15385,10 @@
     {
       "path": "lcdmarquees/hypertheme-x68000.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/hypertheme-zx81.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/hypertheme-zxspectrum.jpg",
@@ -14445,6 +15405,30 @@
     {
       "path": "lcdmarquees/pc-marvel_cosmic_invasion.jpg",
       "added": 21
+    },
+    {
+      "path": "lcdmarquees/pinball_fx-Doom.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/pinball_fx-Fallout.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/pinball_fx-Skyrim.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/pinball_m-Doom.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/pinball_m-Fallout.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/pinball_m-Skyrim.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/psp-007 - From Russia with Love (USA).jpg",
@@ -18839,24 +19823,132 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-2-player_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-2048.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-3do.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-4-player_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-Bandai-WonderSwan-Color.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-ColecoVision.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-Commodore-64.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-Microsoft-MSX2+.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-aae.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-aamber_pegasus.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-acorn_archimedes.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-acorn_atom.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-acorn_electron.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-action_max.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-all_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-american_laser_games.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-amiga.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-amiga_.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-amiga__.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-amstrad_gx4000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-amstradcpc.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-android.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-apf_imagination_machine.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-apogee_bk01.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-apple2.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-apple_iigs.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-apple_ios.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-apple_mac.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-arcade.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-arcade_music_trivia_challenger.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-at2players.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-at4players.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-atari2600.jpg",
@@ -18875,6 +19967,26 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-atari_2600.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-atari_5200.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-atari_7800.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-atari_8-bit.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-atari_classics.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-atari_lynx.jpg",
       "added": 24
     },
@@ -18887,16 +19999,56 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-atarilynx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-ball_&_paddle_games.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-bally_astrocade.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-bbc_microcomputer.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-bbcmicrocomputer.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-beat_em_ups.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-big_fish_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-board_&_card_games.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-c128.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-c16.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-c64.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-camputers_lynx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-capcom.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-capcom_play_system.jpg",
@@ -18911,12 +20063,80 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-casino_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-casio_loopy.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-casio_pv-1000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-casio_pv-2000.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-cave.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-cavestory.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-clone_hero.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-clone_hero_alt.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-coleco.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-coleco_adam.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-comics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-commodore_64.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-commodore_cdtv.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-commodore_max.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-commodore_pet.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-commodore_vic-20.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-commodore_vic_20.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-commodorevic20.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-creatronic_mega_duck.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-daphne.jpg",
@@ -18931,8 +20151,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-doom.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-doom2.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-dos.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-doujin_soft.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-dreamcast.jpg",
@@ -18943,6 +20175,22 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-eg2000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-elektonikabk.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-emerson_arcadia_2001.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-entex_adventure_vision.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-epoch_game_pocket.jpg",
       "added": 24
     },
@@ -18951,8 +20199,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-epoch_super_cassette_vision.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-fairchild_channel_f.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-favorites.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-favorites_exit.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-favorties.jpg",
@@ -18971,12 +20231,28 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-fighting_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-flash_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-funtech_super_acan.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-futurepinball.jpg",
       "added": 24
     },
     {
       "path": "lcdmarquees/synththeme-game_&_watch.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-game_&_watch_.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-gamegear.jpg",
@@ -18997,6 +20273,10 @@
     {
       "path": "lcdmarquees/synththeme-genesis.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-gog.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-guitar_hero.jpg",
@@ -19023,6 +20303,10 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-hartung_game_master.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-hbmame.jpg",
       "added": 24
     },
@@ -19031,8 +20315,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-iptv.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-irem_classics.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-jackbox_games.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-jaleco_classics.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-jukebox.jpg",
@@ -19043,12 +20339,32 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-konami_classics.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-konami_handheld.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-locomalito.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-lynx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-macintosh.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-magazines.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-magnavox_odyssey_2.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-mame.jpg",
@@ -19059,6 +20375,10 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-mattel_aquarius.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-megacd.jpg",
       "added": 24
     },
@@ -19067,12 +20387,36 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-megaduck.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-menu.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-mgt_sam_coupe.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-microsoft-msx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-microsoft_ms-dos.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-microsoft_msx.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-microsoft_msx2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-microsoft_msx_turbo-r.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-microsoft_xbox.jpg",
@@ -19087,8 +20431,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-movies.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-mrboom.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-msx.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-mugen.jpg",
@@ -19105,6 +20457,26 @@
     {
       "path": "lcdmarquees/synththeme-n64dd.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-namco_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-namco_system_22.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nec_pc_engine-cd.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nec_pc_fx.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nec_supergrafx.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-nec_turbografx-16.jpg",
@@ -19127,16 +20499,104 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-netsurf.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-ngp.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-ngpc.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_3ds.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_3ds_eshop.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_3ds_eshop_import.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_3ds_import.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_3ds_japan.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_64_japan.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_arcade_systems.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_ds.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-nintendo_entertainment_system_3d.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_entertainment_system_hacks.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_famicom.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_famicom.png",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-nintendo_famicom_disk_system.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-nintendo_gamecube.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_gamecube_asia.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_gamecube_import.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_hacked.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_pokemon_mini.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_satellaview.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_sufami_turbo.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_super_famicom.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_super_game_boy.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_switch.jpg",
@@ -19147,8 +20607,32 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-nintendo_wii_u.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_wii_u_eshop.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_wiiware.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-nokia_n-gage.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-odyssey.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-openbor.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-pacmame.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-pc.jpg",
@@ -19159,6 +20643,22 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-philips_cd-i.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-philips_vg_5000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-philips_videopac.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-pictures.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-pinball_arcade.jpg",
       "added": 24
     },
@@ -19167,8 +20667,28 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-pinball_fx2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-pinball_fx3.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-pinball_m.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-playstation_2_import.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-playstation_import.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-popcap.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-ps2.jpg",
@@ -19179,6 +20699,10 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-psikyo.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-psp.jpg",
       "added": 24
     },
@@ -19187,32 +20711,164 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-puzzle_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-racing_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-rca_studio_ii.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-rhythm_games.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-rickdangerous.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-run_&_gun_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-run_n_gun.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-sammy_atomiswave.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-scummvm.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-search.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-sega32x.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_ages.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_cd_32x.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_dreamcast_import.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_dreamcast_indies.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-sega_game_gear_japan.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-sega_hikaru.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_mega_drive.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_model_1.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_model_2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_model_3.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-sega_naomi.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_naomi_2.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_pico.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-sega_ring.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-sega_ring_alt.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-sega_saturn.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_saturn_import.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_saturn_japan.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_sc-3000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_sc_3000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_sg-1000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_sg_1000.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_st-v.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_st_v.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_system_16.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_system_32.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_triforce.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_vmu.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-segacd.jpg",
@@ -19223,8 +20879,48 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-shmups.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-shoot_em_ups.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-shooter_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sinclair_zx81.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sinclair_zx_81.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-singe.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-slots.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-snes.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-snes_cd.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-snk_classics.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-snk_neo_geo_aes.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-snk_neo_geo_cd.jpg",
@@ -19235,6 +20931,18 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-snk_neo_geo_pocket.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sony_playstation_2_asia.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sony_playstation_3.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-sony_playstation_4.jpg",
       "added": 24
     },
@@ -19243,12 +20951,76 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-sony_playstation_asia.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-sony_playstation_minis.jpg",
       "added": 24
     },
     {
       "path": "lcdmarquees/synththeme-sony_playstation_vita.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-sony_pocketstation.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sord_m5.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-spinner_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-sports_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-steam.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-step_mania.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-super_game_boy.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-super_nintendo_cd.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-super_nintendo_entertainment_system_hacks.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-super_nintendo_entertainment_system_msu-1.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-super_nintendo_hacked.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-survival-horror_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-svector_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-system_357.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-taito_classics.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-taito_type_x.jpg",
@@ -19263,8 +21035,28 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-ti-99-4a.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-ti99.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-ti994a.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-tiger_game-1.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-tiger_game.com.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-tiger_game.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-tiger_handheld_electronics.jpg",
@@ -19275,12 +21067,32 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-trackball_games.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-turbografx-16.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-turbografx_16.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-vectrex.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-vertically_oriented_games.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-video_jukebox.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-vintage_commercials.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-virtualboy.jpg",
@@ -19291,12 +21103,32 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-vtech_creativision.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-vtech_v.smile.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-watara_supervision.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-williams_classics.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-windows.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-windows_expansion.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-windows_playnite.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-wolfenstein3d.jpg",
@@ -19307,8 +21139,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/synththeme-wonderswancolor.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/synththeme-wow_action_max.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-zaccaria_pinball.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/synththeme-zinc.jpg",
@@ -20123,8 +21963,768 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-3do-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-american_laser_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-amiga-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-amstrad_gx4000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-amstradcpc-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-android-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-apf_imagination_machine-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-apple2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-apple_iigs-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-apple_ios-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-arcade-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-arcade_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atari2600-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atari5200-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atari7800-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atari800-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atari_800xl-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atari_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atari_jaguar_cd-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atari_st-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atarijaguar-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atarilynx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-bally_astrocade-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-bandai_wonderswan-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-c64-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-capcom_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-capcom_play_system-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-capcom_play_system_ii-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-capcom_play_system_iii-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-casio_loopy-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-casio_pv-1000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-category_-_arcade-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-category_-_computers-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-category_-_consoles-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-category_-_handhelds-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-category_-_pinball-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-cave-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-clone_hero-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-coleco-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-commodore_128-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-commodore_16-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-commodore_amiga_cd32-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-commodore_cdtv-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-commodore_pet-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-commodore_plus_4-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-commodore_vic-20-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-daphne-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-data_east_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-dos-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-dreamcast-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-epoch_game_pocket_computer-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-epoch_super_cassette_vision-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-fairchild_channel_f-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-favorites-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-fujitsu_fm_towns-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-gamegear-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-gb-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-gba-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-gbc-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-genesis-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-gun_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-intellivision-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-irem_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-konami_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-konami_handheld_electronics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-locomalito_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-macintosh-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-magnavox_odyssey_2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-mastersystem-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-megadrive-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-megaduck-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-microsoft_game_pass-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-microsoft_msx2+-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-microsoft_msx_laserdisc-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-microsoft_windows_3.x-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-microsoft_xbox-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-microsoft_xbox_360-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-microsoft_xbox_one-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-microsoft_xbox_series-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-midway_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-msx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-msx2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-mugen-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-n64-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-namco_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-namco_system_11-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-namco_system_22-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nec_pc-9801-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nec_pc_engine_cd-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nec_pc_fx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nec_supergrafx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nec_turbografx-16-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nec_turbografx_cd-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nes-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nesicaxlive-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-ngp-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-ngpc-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_3ds-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_64dd-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_ds-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_dsi-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_famicom-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_famicom_disk_system-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_game_and_watch-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_gamecube-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_satellaview-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_sufami_turbo-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_super_famicom-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_super_game_boy-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_super_game_boy_(eu)-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_switch-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_virtual_boy-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_wii-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_wii_u-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_wiiware-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-nokia_n-gage-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-openbor-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-pcengine-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-philips_cd-i-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-philips_p2000t-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-philips_videopac_c52-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-phillips_videopac+-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-ps2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-ps4-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-ps5-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-psp-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-psx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-raw_thrills-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sammy_atomiswave-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-saturn-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-scummvm-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega32x-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_cd_32x-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_chihiro-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_dreamcast_(pal)-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_europa-r-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_hikaru-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_lindbergh-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_mega_drive_(jap)-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_model_1-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_model_2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_model_3-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_naomi-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_naomi_2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_pico-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_ringedge-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_ringwide-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_saturn_(jap)-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_st-v-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_system_32-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_triforce-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-segacd-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sg-1000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sharp_x1-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sharp_x68000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-snes-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-snk_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-snk_hyper_neo_geo_64-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-snk_neo_geo_aes-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-snk_neo_geo_cd-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-snk_neo_geo_mvs-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sony_playstation_3-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sony_playstation_minis-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sony_playstation_vita-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-steam-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-steam_deck-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-super_nintendo_entertainment_system_(eu)-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-super_nintendo_entertainment_system_(purple)-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-taito_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-taito_type_x-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-taito_type_x2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-tekno_parrot_subscription-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-teknoparrot-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-texas_instruments_ti-994a-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-thomson_mo5-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-tiger_electronics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-tiger_game.com-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-vectrex-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-watara_supervision-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-williams_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-windows_10-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-windows_11-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-windows_95-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-windows_98-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-wonderswancolor-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-wow_action_max-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-zxspectrum-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/default-fbneo-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/default-n2fun-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/default-vintage_commercials-tmb.jpg",
@@ -20487,6 +23087,10 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/defaulttheme-cavestory-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/defaulttheme-chd_required-tmb.jpg",
       "added": 24
     },
@@ -20623,6 +23227,10 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/defaulttheme-dinothawr-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/defaulttheme-dos-tmb.jpg",
       "added": 24
     },
@@ -20725,6 +23333,10 @@
     {
       "path": "lcdmarquees/thumbnails/defaulttheme-favorites_alt-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/defaulttheme-favorites_exit-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/defaulttheme-fba-tmb.jpg",
@@ -33271,8 +35883,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-amiga600-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-amigacd32-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-amigacdtv-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-amstrad_gx4000-tmb.jpg",
@@ -33331,6 +35951,14 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-atarist-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-atomiswave-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-auto-adult-tmb.jpg",
       "added": 24
     },
@@ -33339,8 +35967,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-auto-arcade copy-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-auto-arcade-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-auto-at2players-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-auto-at4players-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-auto-favorites-tmb.jpg",
@@ -33371,6 +36011,14 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-c128-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-c20-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-c64-tmb.jpg",
       "added": 24
     },
@@ -33383,8 +36031,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-channelf-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-coleco-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-colecovision-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-collections-tmb.jpg",
@@ -33401,6 +36057,14 @@
     {
       "path": "lcdmarquees/thumbnails/hypertheme-commodore_vic-20-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-commodore_vic_20-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-commodorevic20-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-cpet-tmb.jpg",
@@ -33487,8 +36151,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-genesis-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-gun_games-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-gw-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-gx4000-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-imageviewer-tmb.jpg",
@@ -33497,6 +36173,10 @@
     {
       "path": "lcdmarquees/thumbnails/hypertheme-intellivision-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-jaguar-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-kodi-tmb.jpg",
@@ -33511,8 +36191,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-lightgun-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-lutro-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-lynx-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-magnavox_odyssey_2-tmb.jpg",
@@ -33539,6 +36227,14 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-microsoft_msx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-microsoft_msx2+-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-microsoft_msx2-tmb.jpg",
       "added": 24
     },
@@ -33557,6 +36253,18 @@
     {
       "path": "lcdmarquees/thumbnails/hypertheme-msx-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-msx1-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-msx2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-msx_turbo_r-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-msxturbor-tmb.jpg",
@@ -33579,12 +36287,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-naomi-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-naomigd-tmb.jpg",
       "added": 24
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-nds-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-nec_pc-fx-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-nec_pc_engine-cd-tmb.jpg",
@@ -33595,8 +36311,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-nec_super_grafx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-nec_supergrafx-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-neogeo-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-neogeocd-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-nes-tmb.jpg",
@@ -33623,6 +36351,14 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-nintendo_game_&_watch-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-nintendo_game_&_watch_-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-nintendo_game_and_watch-tmb.jpg",
       "added": 24
     },
@@ -33635,8 +36371,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-nintendo_stellaview-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-nintendo_sufami_turbo-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-odyssey2-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-openarena-tmb.jpg",
@@ -33667,12 +36411,24 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-pcenginecd-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-pcfx-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-pictures-tmb.jpg",
       "added": 24
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-pinball-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-pokemini-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-psp-tmb.jpg",
@@ -33703,8 +36459,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-samcoupe-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-sammy_atomiswave-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-satellaview-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-scummvm-tmb.jpg",
@@ -33715,6 +36479,14 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-sega_mega_drive-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-sega_mega_drive_japan-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-sega_naomi-tmb.jpg",
       "added": 24
     },
@@ -33723,12 +36495,28 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-sega_sg-1000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-sega_sg_1000-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-segacd-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-segasaturn-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-sg-1000-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-sg1000-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-sinclair_zx81-tmb.jpg",
@@ -33745,6 +36533,10 @@
     {
       "path": "lcdmarquees/thumbnails/hypertheme-spectravideo-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-sufami-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-supergrafx-tmb.jpg",
@@ -33779,8 +36571,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/hypertheme-wonderswan-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/hypertheme-wonderswancolor-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-wswan-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-wswanc-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-x1-tmb.jpg",
@@ -33789,6 +36593,10 @@
     {
       "path": "lcdmarquees/thumbnails/hypertheme-x68000-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/hypertheme-zx81-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/hypertheme-zxspectrum-tmb.jpg",
@@ -33805,6 +36613,30 @@
     {
       "path": "lcdmarquees/thumbnails/pc-marvel_cosmic_invasion-tmb.jpg",
       "added": 21
+    },
+    {
+      "path": "lcdmarquees/thumbnails/pinball_fx-Doom-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/pinball_fx-Fallout-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/pinball_fx-Skyrim-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/pinball_m-Doom-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/pinball_m-Fallout-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/pinball_m-Skyrim-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/psp-007 - From Russia with Love (USA)-tmb.jpg",
@@ -38199,24 +41031,132 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-2-player_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-2048-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-3do-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-4-player_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-Bandai-WonderSwan-Color-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-ColecoVision-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-Commodore-64-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-Microsoft-MSX2+-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-aae-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-aamber_pegasus-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-acorn_archimedes-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-acorn_atom-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-acorn_electron-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-action_max-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-all_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-american_laser_games-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-amiga-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-amiga_-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-amiga__-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-amstrad_gx4000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-amstradcpc-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-android-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-apf_imagination_machine-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-apogee_bk01-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-apple2-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-apple_iigs-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-apple_ios-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-apple_mac-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-arcade-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-arcade_music_trivia_challenger-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-at2players-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-at4players-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-atari2600-tmb.jpg",
@@ -38235,6 +41175,26 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-atari_2600-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-atari_5200-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-atari_7800-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-atari_8-bit-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-atari_classics-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-atari_lynx-tmb.jpg",
       "added": 24
     },
@@ -38247,16 +41207,56 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-atarilynx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-ball_&_paddle_games-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-bally_astrocade-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-bbc_microcomputer-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-bbcmicrocomputer-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-beat_em_ups-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-big_fish_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-board_&_card_games-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-c128-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-c16-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-c64-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-camputers_lynx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-capcom-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-capcom_play_system-tmb.jpg",
@@ -38271,12 +41271,80 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-casino_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-casio_loopy-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-casio_pv-1000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-casio_pv-2000-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-cave-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-cavestory-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-clone_hero-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-clone_hero_alt-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-coleco-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-coleco_adam-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-comics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-commodore_64-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-commodore_cdtv-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-commodore_max-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-commodore_pet-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-commodore_vic-20-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-commodore_vic_20-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-commodorevic20-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-creatronic_mega_duck-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-daphne-tmb.jpg",
@@ -38291,8 +41359,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-doom-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-doom2-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-dos-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-doujin_soft-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-dreamcast-tmb.jpg",
@@ -38303,6 +41383,22 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-eg2000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-elektonikabk-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-emerson_arcadia_2001-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-entex_adventure_vision-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-epoch_game_pocket-tmb.jpg",
       "added": 24
     },
@@ -38311,8 +41407,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-epoch_super_cassette_vision-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-fairchild_channel_f-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-favorites-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-favorites_exit-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-favorties-tmb.jpg",
@@ -38331,12 +41439,28 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-fighting_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-flash_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-funtech_super_acan-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-futurepinball-tmb.jpg",
       "added": 24
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-game_&_watch-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-game_&_watch_-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-gamegear-tmb.jpg",
@@ -38357,6 +41481,10 @@
     {
       "path": "lcdmarquees/thumbnails/synththeme-genesis-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-gog-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-guitar_hero-tmb.jpg",
@@ -38383,6 +41511,10 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-hartung_game_master-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-hbmame-tmb.jpg",
       "added": 24
     },
@@ -38391,8 +41523,20 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-iptv-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-irem_classics-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-jackbox_games-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-jaleco_classics-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-jukebox-tmb.jpg",
@@ -38403,12 +41547,32 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-konami_classics-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-konami_handheld-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-locomalito-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-lynx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-macintosh-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-magazines-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-magnavox_odyssey_2-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-mame-tmb.jpg",
@@ -38419,6 +41583,10 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-mattel_aquarius-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-megacd-tmb.jpg",
       "added": 24
     },
@@ -38427,12 +41595,36 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-megaduck-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-menu-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-mgt_sam_coupe-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-microsoft-msx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-microsoft_ms-dos-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-microsoft_msx-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-microsoft_msx2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-microsoft_msx_turbo-r-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-microsoft_xbox-tmb.jpg",
@@ -38447,8 +41639,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-movies-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-mrboom-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-msx-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-mugen-tmb.jpg",
@@ -38465,6 +41665,26 @@
     {
       "path": "lcdmarquees/thumbnails/synththeme-n64dd-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-namco_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-namco_system_22-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nec_pc_engine-cd-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nec_pc_fx-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nec_supergrafx-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nec_turbografx-16-tmb.jpg",
@@ -38487,12 +41707,104 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-netsurf-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-ngp-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-ngpc-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_3ds-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_3ds_eshop-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_3ds_eshop_import-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_3ds_import-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_3ds_japan-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_64_japan-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_arcade_systems-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_ds-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_entertainment_system_3d-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_entertainment_system_hacks-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_famicom-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_famicom-tmb.png",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_famicom_disk_system-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_gamecube-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_gamecube_asia-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_gamecube_import-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_hacked-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_pokemon_mini-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_satellaview-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_sufami_turbo-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_super_famicom-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_super_game_boy-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_switch-tmb.jpg",
@@ -38503,8 +41815,32 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_wii_u-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_wii_u_eshop-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_wiiware-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nokia_n-gage-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-odyssey-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-openbor-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-pacmame-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-pc-tmb.jpg",
@@ -38515,6 +41851,22 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-philips_cd-i-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-philips_vg_5000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-philips_videopac-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-pictures-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-pinball_arcade-tmb.jpg",
       "added": 24
     },
@@ -38523,8 +41875,28 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-pinball_fx2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-pinball_fx3-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-pinball_m-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-playstation_2_import-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-playstation_import-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-popcap-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-ps2-tmb.jpg",
@@ -38535,6 +41907,10 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-psikyo-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-psp-tmb.jpg",
       "added": 24
     },
@@ -38543,32 +41919,164 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-puzzle_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-racing_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-rca_studio_ii-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-rhythm_games-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-rickdangerous-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-run_&_gun_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-run_n_gun-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sammy_atomiswave-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-scummvm-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-search-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-sega32x-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_ages-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_cd_32x-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_dreamcast_import-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_dreamcast_indies-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega_game_gear_japan-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_hikaru-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_mega_drive-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_model_1-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_model_2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_model_3-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-sega_naomi-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_naomi_2-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_pico-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega_ring-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_ring_alt-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-sega_saturn-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_saturn_import-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_saturn_japan-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_sc-3000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_sc_3000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_sg-1000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_sg_1000-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_st-v-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_st_v-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_system_16-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_system_32-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_triforce-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_vmu-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-segacd-tmb.jpg",
@@ -38579,8 +42087,48 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-shmups-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-shoot_em_ups-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-shooter_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sinclair_zx81-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sinclair_zx_81-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-singe-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-slots-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-snes-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-snes_cd-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-snk_classics-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-snk_neo_geo_aes-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-snk_neo_geo_cd-tmb.jpg",
@@ -38591,6 +42139,18 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-snk_neo_geo_pocket-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sony_playstation_2_asia-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sony_playstation_3-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-sony_playstation_4-tmb.jpg",
       "added": 24
     },
@@ -38599,12 +42159,76 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-sony_playstation_asia-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-sony_playstation_minis-tmb.jpg",
       "added": 24
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sony_playstation_vita-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sony_pocketstation-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sord_m5-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-spinner_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sports_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-steam-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-step_mania-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-super_game_boy-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-super_nintendo_cd-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-super_nintendo_entertainment_system_hacks-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-super_nintendo_entertainment_system_msu-1-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-super_nintendo_hacked-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-survival-horror_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-svector_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-system_357-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-taito_classics-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-taito_type_x-tmb.jpg",
@@ -38619,8 +42243,28 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-ti-99-4a-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-ti99-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-ti994a-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-tiger_game-1-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-tiger_game-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-tiger_game.com-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-tiger_handheld_electronics-tmb.jpg",
@@ -38631,12 +42275,32 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-trackball_games-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-turbografx-16-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-turbografx_16-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-vectrex-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-vertically_oriented_games-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-video_jukebox-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-vintage_commercials-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-virtualboy-tmb.jpg",
@@ -38647,12 +42311,32 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-vtech_creativision-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-vtech_v.smile-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-watara_supervision-tmb.jpg",
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-williams_classics-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-windows-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-windows_expansion-tmb.jpg",
+      "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-windows_playnite-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-wolfenstein3d-tmb.jpg",
@@ -38663,8 +42347,16 @@
       "added": 24
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-wonderswancolor-tmb.jpg",
+      "added": 25
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-wow_action_max-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-zaccaria_pinball-tmb.jpg",
+      "added": 25
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-zinc-tmb.jpg",
