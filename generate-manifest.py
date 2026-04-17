@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/local/bin/python3.12
 """
 Manifest generator for pixelcade-lcd-updates-1280-r3 incremental artwork updates.
 
