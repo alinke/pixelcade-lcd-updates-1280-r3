@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "base_version": 19,
   "files": [
     {
@@ -19975,6 +19975,10 @@
       "added": 25
     },
     {
+      "path": "lcdmarquees/synththeme-atari_2600_alt.jpg",
+      "added": 27
+    },
+    {
       "path": "lcdmarquees/synththeme-atari_5200.jpg",
       "added": 25
     },
@@ -20493,6 +20497,10 @@
     {
       "path": "lcdmarquees/synththeme-neogeo.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/synththeme-nes-alt.jpg",
+      "added": 27
     },
     {
       "path": "lcdmarquees/synththeme-nes.jpg",
@@ -41187,6 +41195,10 @@
       "added": 25
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-atari_2600_alt-tmb.jpg",
+      "added": 27
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-atari_5200-tmb.jpg",
       "added": 25
     },
@@ -41705,6 +41717,10 @@
     {
       "path": "lcdmarquees/thumbnails/synththeme-neogeo-tmb.jpg",
       "added": 24
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nes-alt-tmb.jpg",
+      "added": 27
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nes-tmb.jpg",
