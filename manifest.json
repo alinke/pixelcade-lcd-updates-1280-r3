@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "base_version": 19,
   "files": [
     {
@@ -20483,6 +20483,10 @@
       "added": 25
     },
     {
+      "path": "lcdmarquees/synththeme-nec_super_grafx.jpg",
+      "added": 28
+    },
+    {
       "path": "lcdmarquees/synththeme-nec_supergrafx.jpg",
       "added": 25
     },
@@ -20725,6 +20729,18 @@
     {
       "path": "lcdmarquees/synththeme-puzzle_games.jpg",
       "added": 25
+    },
+    {
+      "path": "lcdmarquees/synththeme-quake.jpg",
+      "added": 28
+    },
+    {
+      "path": "lcdmarquees/synththeme-quake2.jpg",
+      "added": 28
+    },
+    {
+      "path": "lcdmarquees/synththeme-quake3.jpg",
+      "added": 28
     },
     {
       "path": "lcdmarquees/synththeme-racing_games.jpg",
@@ -41703,6 +41719,10 @@
       "added": 25
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-nec_super_grafx-tmb.jpg",
+      "added": 28
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-nec_supergrafx-tmb.jpg",
       "added": 25
     },
@@ -41945,6 +41965,18 @@
     {
       "path": "lcdmarquees/thumbnails/synththeme-puzzle_games-tmb.jpg",
       "added": 25
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-quake-tmb.jpg",
+      "added": 28
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-quake2-tmb.jpg",
+      "added": 28
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-quake3-tmb.jpg",
+      "added": 28
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-racing_games-tmb.jpg",
