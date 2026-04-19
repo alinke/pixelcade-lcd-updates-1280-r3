@@ -11,6 +11,7 @@ Usage:
     python3 generate-manifest.py --reset 25   # Reset manifest with new base version (after moving files to R2)
 """
 
+import hashlib
 import json
 import os
 import sys
@@ -29,18 +30,26 @@ ARTWORK_DIRS = ["lcdmarquees", "metadata"]
 ARTWORK_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".json", ".mp4"}
 
 
+def file_hash(path):
+    """Return MD5 hex digest of a file (fast, good enough for change detection)."""
+    h = hashlib.md5()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(65536), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
 def get_all_artwork_files():
-    """Scan repo and return set of all artwork file paths (relative to repo root)."""
-    files = set()
+    """Scan repo and return dict of {rel_path: abs_path} for all artwork files."""
+    files = {}
     for dir_name in ARTWORK_DIRS:
         dir_path = REPO_ROOT / dir_name
         if not dir_path.exists():
             continue
         for file_path in dir_path.rglob("*"):
             if file_path.is_file() and file_path.suffix.lower() in ARTWORK_EXTENSIONS:
-                # Store relative path with forward slashes
                 rel_path = str(file_path.relative_to(REPO_ROOT)).replace("\\", "/")
-                files.add(rel_path)
+                files[rel_path] = file_path
     return files
 
 
@@ -69,49 +78,56 @@ def save_manifest(manifest):
 
 def update_manifest(force_bump=False):
     """
-    Update the manifest with any new files.
+    Update the manifest with any new or changed files.
 
     Returns:
-        tuple: (new_file_count, removed_file_count, new_version)
+        tuple: (new_file_count, removed_file_count, changed_file_count, new_version)
     """
     manifest = load_manifest()
     current_version = manifest.get("version", BASE_VERSION)
 
-    # Build lookup of existing files
-    existing_files = {f["path"]: f["added"] for f in manifest.get("files", [])}
+    # Build lookup of existing files: path -> {added, hash}
+    existing_files = {f["path"]: {"added": f["added"], "hash": f.get("hash", "")}
+                      for f in manifest.get("files", [])}
 
     # Get current files in repo
     current_files = get_all_artwork_files()
 
-    # Find new and removed files
     existing_paths = set(existing_files.keys())
-    new_files = current_files - existing_paths
-    removed_files = existing_paths - current_files
+    current_paths = set(current_files.keys())
+    new_files = current_paths - existing_paths
+    removed_files = existing_paths - current_paths
 
-    # Determine if we need to bump version
-    should_bump = force_bump or len(new_files) > 0
+    # Detect content changes for existing files (only if a prior hash exists)
+    changed_files = set()
+    for path in current_paths & existing_paths:
+        prior_hash = existing_files[path]["hash"]
+        if not prior_hash:
+            # No previous hash — first time tracking this file's content, don't count as changed
+            continue
+        current_hash = file_hash(current_files[path])
+        if current_hash != prior_hash:
+            changed_files.add(path)
+
+    should_bump = force_bump or len(new_files) > 0 or len(removed_files) > 0 or len(changed_files) > 0
     new_version = current_version + 1 if should_bump else current_version
 
-    # Build updated file list
     updated_files = []
-
-    # Keep existing files (that still exist)
-    for path in sorted(current_files):
-        if path in existing_files:
-            # File already tracked, keep its original version
-            updated_files.append({"path": path, "added": existing_files[path]})
+    for path in sorted(current_paths):
+        abs_path = current_files[path]
+        current_hash = file_hash(abs_path)
+        if path in new_files or path in changed_files:
+            updated_files.append({"path": path, "added": new_version, "hash": current_hash})
         else:
-            # New file, tag with new version
-            updated_files.append({"path": path, "added": new_version})
+            updated_files.append({"path": path, "added": existing_files[path]["added"], "hash": current_hash})
 
-    # Update manifest
     manifest["version"] = new_version
     manifest["base_version"] = BASE_VERSION
     manifest["files"] = updated_files
 
     save_manifest(manifest)
 
-    return len(new_files), len(removed_files), new_version
+    return len(new_files), len(removed_files), len(changed_files), new_version
 
 
 def reset_manifest(new_base_version):
@@ -128,7 +144,7 @@ def reset_manifest(new_base_version):
     # Build fresh manifest with all files at new base version
     updated_files = []
     for path in sorted(current_files):
-        updated_files.append({"path": path, "added": new_base_version})
+        updated_files.append({"path": path, "added": new_base_version, "hash": file_hash(current_files[path])})
 
     manifest = {
         "version": new_base_version,
@@ -168,20 +184,22 @@ def main():
         return 1  # Always indicate manifest was updated
 
     # Normal mode - incremental update
-    new_count, removed_count, version = update_manifest(args.force)
+    new_count, removed_count, changed_count, version = update_manifest(args.force)
 
     if new_count > 0:
         print(f"Added {new_count} new file(s) at version {version}")
     if removed_count > 0:
         print(f"Removed {removed_count} deleted file(s) from manifest")
-    if new_count == 0 and removed_count == 0:
+    if changed_count > 0:
+        print(f"Updated {changed_count} changed file(s) at version {version}")
+    if new_count == 0 and removed_count == 0 and changed_count == 0:
         if args.force:
             print(f"No changes, but forced version bump to {version}")
         else:
             print(f"No changes detected. Manifest at version {version}")
 
     # Return non-zero if manifest was updated (for git hook to know to stage it)
-    return 0 if (new_count == 0 and removed_count == 0 and not args.force) else 1
+    return 0 if (new_count == 0 and removed_count == 0 and changed_count == 0 and not args.force) else 1
 
 
 if __name__ == "__main__":
