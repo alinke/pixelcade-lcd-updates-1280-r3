@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "base_version": 19,
   "files": [
     {
@@ -25013,6 +25013,16 @@
       "hash": "1f5bda840b064e194b832307965294b4"
     },
     {
+      "path": "lcdmarquees/synththeme-atomiswave.jpg",
+      "added": 31,
+      "hash": "c2437befb91a0bb6cab942f57e3e9ab2"
+    },
+    {
+      "path": "lcdmarquees/synththeme-auto-arcade.jpg",
+      "added": 31,
+      "hash": "2dc3fd103d982413d8d1268b99164141"
+    },
+    {
       "path": "lcdmarquees/synththeme-auto-at2players.jpg",
       "added": 30,
       "hash": "f81011de14f0722eb159cad3d5aae16b"
@@ -25033,9 +25043,19 @@
       "hash": "6b54e6d406c6fc77a136b45550dd0b6d"
     },
     {
+      "path": "lcdmarquees/synththeme-auto-lightgun.jpg",
+      "added": 31,
+      "hash": "0c1a694f3c04c9fbbe22152761ce9c91"
+    },
+    {
       "path": "lcdmarquees/synththeme-auto-neverplayed.jpg",
       "added": 30,
       "hash": "e5ef146817c7ee4836c345e1f3ddb611"
+    },
+    {
+      "path": "lcdmarquees/synththeme-auto-pc.jpg",
+      "added": 31,
+      "hash": "0343dcc802877d7edb1bded4dea5cf56"
     },
     {
       "path": "lcdmarquees/synththeme-ball_&_paddle_games.jpg",
@@ -25046,6 +25066,11 @@
       "path": "lcdmarquees/synththeme-bally_astrocade.jpg",
       "added": 28,
       "hash": "71d23d676144bbea3b13188eb3ce598c"
+    },
+    {
+      "path": "lcdmarquees/synththeme-bandai_wonderswan.jpg",
+      "added": 31,
+      "hash": "594f94079d1b697a2604b0b6f1f6a2fe"
     },
     {
       "path": "lcdmarquees/synththeme-bbc_microcomputer.jpg",
@@ -25083,6 +25108,11 @@
       "hash": "5ca8623378771174adf8b09db372d3a6"
     },
     {
+      "path": "lcdmarquees/synththeme-c20.jpg",
+      "added": 31,
+      "hash": "959d6dd032742c6683d8a9468b115cdb"
+    },
+    {
       "path": "lcdmarquees/synththeme-c64.jpg",
       "added": 28,
       "hash": "4f0123360aac66db78fa1b332ae54825"
@@ -25095,6 +25125,11 @@
     {
       "path": "lcdmarquees/synththeme-capcom.jpg",
       "added": 25,
+      "hash": "e21f81319b57b29324f0be8b5e435a4a"
+    },
+    {
+      "path": "lcdmarquees/synththeme-capcom_classics.jpg",
+      "added": 31,
       "hash": "e21f81319b57b29324f0be8b5e435a4a"
     },
     {
@@ -25143,9 +25178,14 @@
       "hash": "448db9c63b8253de8f8597a6b5c5c23c"
     },
     {
+      "path": "lcdmarquees/synththeme-channelf.jpg",
+      "added": 31,
+      "hash": "e78a0b741816335a97cb47152a3dc585"
+    },
+    {
       "path": "lcdmarquees/synththeme-clone_hero.jpg",
-      "added": 25,
-      "hash": "55a6588f2301199fb064b27b258b68f1"
+      "added": 31,
+      "hash": "0f521ebb950dd2782cc5120065f72a32"
     },
     {
       "path": "lcdmarquees/synththeme-clone_hero_alt.jpg",
@@ -25166,6 +25206,11 @@
       "path": "lcdmarquees/synththeme-comics.jpg",
       "added": 25,
       "hash": "e6f08e747adbbd5c53b9bfe858c12e80"
+    },
+    {
+      "path": "lcdmarquees/synththeme-commodore64 copy.jpg",
+      "added": 31,
+      "hash": "ae4828c19a04119dacae3095ced1b18b"
     },
     {
       "path": "lcdmarquees/synththeme-commodore_64.jpg",
@@ -25214,8 +25259,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-daphne_singe.jpg",
-      "added": 24,
-      "hash": "c48d78a4987acc01fe0fa61b1f273c00"
+      "added": 31,
+      "hash": "2423f50de9a8e60da2d8d1b0c337c690"
     },
     {
       "path": "lcdmarquees/synththeme-dinothawr.jpg",
@@ -25241,6 +25286,11 @@
       "path": "lcdmarquees/synththeme-dos.jpg",
       "added": 28,
       "hash": "fb45c854167d414aa848ec7a0f6b6149"
+    },
+    {
+      "path": "lcdmarquees/synththeme-doujin_games.jpg",
+      "added": 31,
+      "hash": "5eddbc905e7bd462a5c1b5e6c3e09c44"
     },
     {
       "path": "lcdmarquees/synththeme-doujin_soft.jpg",
@@ -25598,6 +25648,11 @@
       "hash": "d7b8193be15ac4360b07b271ae03d616"
     },
     {
+      "path": "lcdmarquees/synththeme-msxturbor.jpg",
+      "added": 31,
+      "hash": "d7b8193be15ac4360b07b271ae03d616"
+    },
+    {
       "path": "lcdmarquees/synththeme-mugen.jpg",
       "added": 28,
       "hash": "6dd40f94a2631bc659c8432d5337367f"
@@ -25626,6 +25681,11 @@
       "path": "lcdmarquees/synththeme-namco_system_22.jpg",
       "added": 25,
       "hash": "0a52e6ce055f7e84bd0d196dde9be142"
+    },
+    {
+      "path": "lcdmarquees/synththeme-naomi.jpg",
+      "added": 31,
+      "hash": "9d166fb3c614b1706408f00e0b5ce62c"
     },
     {
       "path": "lcdmarquees/synththeme-nec_pc_engine-cd.jpg",
@@ -25681,6 +25741,16 @@
       "path": "lcdmarquees/synththeme-netsurf.jpg",
       "added": 25,
       "hash": "e1bf122dd37a2f7d7ec5a00dfe8be3f4"
+    },
+    {
+      "path": "lcdmarquees/synththeme-never.jpg",
+      "added": 31,
+      "hash": "e5ef146817c7ee4836c345e1f3ddb611"
+    },
+    {
+      "path": "lcdmarquees/synththeme-neverplayed.jpg",
+      "added": 31,
+      "hash": "e5ef146817c7ee4836c345e1f3ddb611"
     },
     {
       "path": "lcdmarquees/synththeme-ngp.jpg",
@@ -25978,6 +26048,11 @@
       "hash": "23a9ea38c507530d59799f63af4d62c5"
     },
     {
+      "path": "lcdmarquees/synththeme-rickdanger.jpg",
+      "added": 31,
+      "hash": "f1eaffecb444160a24dfa230683f34df"
+    },
+    {
       "path": "lcdmarquees/synththeme-rickdangerous.jpg",
       "added": 24,
       "hash": "f1eaffecb444160a24dfa230683f34df"
@@ -25991,6 +26066,11 @@
       "path": "lcdmarquees/synththeme-run_n_gun.jpg",
       "added": 30,
       "hash": "d1b8e6ef5ba3358a36dbbcd6d64a3fdf"
+    },
+    {
+      "path": "lcdmarquees/synththeme-samcoupe.jpg",
+      "added": 31,
+      "hash": "aeda819f5398b14626bae0c5d9d4b795"
     },
     {
       "path": "lcdmarquees/synththeme-sammy_atomiswave.jpg",
@@ -26123,6 +26203,11 @@
       "hash": "cf58066a7cbccdc629558a6963f79ca0"
     },
     {
+      "path": "lcdmarquees/synththeme-sega_sg1000.jpg",
+      "added": 31,
+      "hash": "cf58066a7cbccdc629558a6963f79ca0"
+    },
+    {
       "path": "lcdmarquees/synththeme-sega_sg_1000.jpg",
       "added": 30,
       "hash": "cf58066a7cbccdc629558a6963f79ca0"
@@ -26161,6 +26246,16 @@
       "path": "lcdmarquees/synththeme-segacd.jpg",
       "added": 24,
       "hash": "59139e74a27d1f814912fe31a4e66377"
+    },
+    {
+      "path": "lcdmarquees/synththeme-segasaturn.jpg",
+      "added": 31,
+      "hash": "206499bb11a259561d1d8c70af16598a"
+    },
+    {
+      "path": "lcdmarquees/synththeme-sg-1000.jpg",
+      "added": 31,
+      "hash": "cf58066a7cbccdc629558a6963f79ca0"
     },
     {
       "path": "lcdmarquees/synththeme-sharp_x68000.jpg",
@@ -26483,6 +26578,11 @@
       "hash": "21340ba8faa020c2836ea72e07ce38fd"
     },
     {
+      "path": "lcdmarquees/synththeme-wolf3d.jpg",
+      "added": 31,
+      "hash": "a56447786843b151593fb74647eedffb"
+    },
+    {
       "path": "lcdmarquees/synththeme-wolfenstein3d.jpg",
       "added": 30,
       "hash": "a56447786843b151593fb74647eedffb"
@@ -26503,6 +26603,11 @@
       "hash": "f5aff4c98684edc673c9d236b4b697ae"
     },
     {
+      "path": "lcdmarquees/synththeme-wswan.jpg",
+      "added": 31,
+      "hash": "594f94079d1b697a2604b0b6f1f6a2fe"
+    },
+    {
       "path": "lcdmarquees/synththeme-zaccaria_pinball.jpg",
       "added": 25,
       "hash": "4dfdab5eee3783a021fee3e9993813f0"
@@ -26511,6 +26616,11 @@
       "path": "lcdmarquees/synththeme-zinc.jpg",
       "added": 28,
       "hash": "381cae01be532773a1de503380e7cd5a"
+    },
+    {
+      "path": "lcdmarquees/synththeme-zx81.jpg",
+      "added": 31,
+      "hash": "8710f57238773c7996b34eec378193ee"
     },
     {
       "path": "lcdmarquees/synththeme-zxspectrum.jpg",
@@ -51593,6 +51703,16 @@
       "hash": "3ebfff35d146eee7608762b5fa3ffd24"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-atomiswave-tmb.jpg",
+      "added": 31,
+      "hash": "017111064802536852ef7c56be2f771f"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-auto-arcade-tmb.jpg",
+      "added": 31,
+      "hash": "0cdc15e6c2face4010defe494c0e9f69"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-auto-at2players-tmb.jpg",
       "added": 30,
       "hash": "be34effea3f18f382695d5413a6ca739"
@@ -51613,9 +51733,19 @@
       "hash": "3211539812cdaa4f3aeba3d687f20495"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-auto-lightgun-tmb.jpg",
+      "added": 31,
+      "hash": "a091e0e78a33e6ff68738c97e305b61c"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-auto-neverplayed-tmb.jpg",
       "added": 30,
       "hash": "e53fdf647b31fa470e7a34c36f9f2d78"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-auto-pc-tmb.jpg",
+      "added": 31,
+      "hash": "451e5960ce01056e768ac53241a37823"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-ball_&_paddle_games-tmb.jpg",
@@ -51626,6 +51756,11 @@
       "path": "lcdmarquees/thumbnails/synththeme-bally_astrocade-tmb.jpg",
       "added": 28,
       "hash": "a2cdfc449613f97cc2fc5daecc957a0c"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-bandai_wonderswan-tmb.jpg",
+      "added": 31,
+      "hash": "b4586daebd3b85231f3c832feb287321"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-bbc_microcomputer-tmb.jpg",
@@ -51663,6 +51798,11 @@
       "hash": "a5fbfb57884c282088b6c0c73d9f02bf"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-c20-tmb.jpg",
+      "added": 31,
+      "hash": "08ba38f344622d5a9031d5fccd6c73ca"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-c64-tmb.jpg",
       "added": 28,
       "hash": "c5ec9b9702c73d8a285c815b3463bbd7"
@@ -51675,6 +51815,11 @@
     {
       "path": "lcdmarquees/thumbnails/synththeme-capcom-tmb.jpg",
       "added": 25,
+      "hash": "633b9f75909524d86231b171f2f1834b"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-capcom_classics-tmb.jpg",
+      "added": 31,
       "hash": "633b9f75909524d86231b171f2f1834b"
     },
     {
@@ -51723,9 +51868,14 @@
       "hash": "6a77ca2403cd10a615e908c6a72e810b"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-channelf-tmb.jpg",
+      "added": 31,
+      "hash": "c1ff65f79c6ff7547b52779471f931bd"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-clone_hero-tmb.jpg",
-      "added": 25,
-      "hash": "9c417b33c04641aa7ec862a089248c53"
+      "added": 31,
+      "hash": "6becc7151ab37360b2186696fff52e38"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-clone_hero_alt-tmb.jpg",
@@ -51746,6 +51896,11 @@
       "path": "lcdmarquees/thumbnails/synththeme-comics-tmb.jpg",
       "added": 25,
       "hash": "f1828f0e76d8b76e150283de0db04b14"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-commodore64 copy-tmb.jpg",
+      "added": 31,
+      "hash": "d7f62fea20b304787e99460b9b864013"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-commodore_64-tmb.jpg",
@@ -51794,8 +51949,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-daphne_singe-tmb.jpg",
-      "added": 24,
-      "hash": "4afdd43b5c20ba8fd1b484dcfcb3a876"
+      "added": 31,
+      "hash": "9181bd4e2e7681d4269e34c83d44c465"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-dinothawr-tmb.jpg",
@@ -51821,6 +51976,11 @@
       "path": "lcdmarquees/thumbnails/synththeme-dos-tmb.jpg",
       "added": 28,
       "hash": "44113f8536f5746d083e0b6032c601ff"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-doujin_games-tmb.jpg",
+      "added": 31,
+      "hash": "f4b0dc25baf76d6f8b2834c08c0c3556"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-doujin_soft-tmb.jpg",
@@ -52178,6 +52338,11 @@
       "hash": "be120ac1b292858b7baeb8e5239be1c2"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-msxturbor-tmb.jpg",
+      "added": 31,
+      "hash": "be120ac1b292858b7baeb8e5239be1c2"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-mugen-tmb.jpg",
       "added": 28,
       "hash": "837377888ecd2bee1bebda32763a7190"
@@ -52206,6 +52371,11 @@
       "path": "lcdmarquees/thumbnails/synththeme-namco_system_22-tmb.jpg",
       "added": 25,
       "hash": "752fcafdf852ef16643e88e9b09c791d"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-naomi-tmb.jpg",
+      "added": 31,
+      "hash": "2fd2f89e2dd47b28f9b8c0500ec97160"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nec_pc_engine-cd-tmb.jpg",
@@ -52261,6 +52431,16 @@
       "path": "lcdmarquees/thumbnails/synththeme-netsurf-tmb.jpg",
       "added": 25,
       "hash": "3f4ffeeee167a1abf16ada9057170b03"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-never-tmb.jpg",
+      "added": 31,
+      "hash": "e53fdf647b31fa470e7a34c36f9f2d78"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-neverplayed-tmb.jpg",
+      "added": 31,
+      "hash": "e53fdf647b31fa470e7a34c36f9f2d78"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-ngp-tmb.jpg",
@@ -52558,6 +52738,11 @@
       "hash": "ebc884a641ce4e9ae603dffb3dc616d0"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-rickdanger-tmb.jpg",
+      "added": 31,
+      "hash": "0f1564da2c85eaf001f6ae7871264d14"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-rickdangerous-tmb.jpg",
       "added": 24,
       "hash": "0f1564da2c85eaf001f6ae7871264d14"
@@ -52571,6 +52756,11 @@
       "path": "lcdmarquees/thumbnails/synththeme-run_n_gun-tmb.jpg",
       "added": 30,
       "hash": "86630b56b6e58f84510230bf8b5376cb"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-samcoupe-tmb.jpg",
+      "added": 31,
+      "hash": "4bd8f50eacab64014a9d7eaa9abd5f62"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sammy_atomiswave-tmb.jpg",
@@ -52703,6 +52893,11 @@
       "hash": "55a60f3650036741421750006603263a"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_sg1000-tmb.jpg",
+      "added": 31,
+      "hash": "55a60f3650036741421750006603263a"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-sega_sg_1000-tmb.jpg",
       "added": 30,
       "hash": "55a60f3650036741421750006603263a"
@@ -52741,6 +52936,16 @@
       "path": "lcdmarquees/thumbnails/synththeme-segacd-tmb.jpg",
       "added": 24,
       "hash": "560633bf79071c328675b9c162f8680e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-segasaturn-tmb.jpg",
+      "added": 31,
+      "hash": "beee83e7df58d9ffdda0d6830bc05887"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sg-1000-tmb.jpg",
+      "added": 31,
+      "hash": "55a60f3650036741421750006603263a"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sharp_x68000-tmb.jpg",
@@ -53063,6 +53268,11 @@
       "hash": "194f17102f79df4ec3bd12b1bef94b54"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-wolf3d-tmb.jpg",
+      "added": 31,
+      "hash": "dc2dc59acb8eac2df1def001cbd6c03b"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-wolfenstein3d-tmb.jpg",
       "added": 30,
       "hash": "dc2dc59acb8eac2df1def001cbd6c03b"
@@ -53083,6 +53293,11 @@
       "hash": "b7262a18f85638597e7e9f43b5217c04"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-wswan-tmb.jpg",
+      "added": 31,
+      "hash": "b4586daebd3b85231f3c832feb287321"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-zaccaria_pinball-tmb.jpg",
       "added": 25,
       "hash": "3fd2c1b67025b3500961c439a2e1ad20"
@@ -53091,6 +53306,11 @@
       "path": "lcdmarquees/thumbnails/synththeme-zinc-tmb.jpg",
       "added": 28,
       "hash": "c0a852c911bb1026b93b94300cfd64bc"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-zx81-tmb.jpg",
+      "added": 31,
+      "hash": "25cb6a0c73138af854d788fef01d367f"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-zxspectrum-tmb.jpg",
