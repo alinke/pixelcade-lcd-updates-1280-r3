@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "base_version": 19,
   "files": [
     {
@@ -24853,14 +24853,24 @@
       "hash": "5895a501d31fbb80e9fdbe55d9051ac3"
     },
     {
+      "path": "lcdmarquees/synththeme-adult.jpg",
+      "added": 32,
+      "hash": "3f7263cb5fa4306254f231dd24907a0f"
+    },
+    {
       "path": "lcdmarquees/synththeme-all_games.jpg",
       "added": 25,
       "hash": "0d2eec246a418f1baee54fa1a857775d"
     },
     {
+      "path": "lcdmarquees/synththeme-allgames.jpg",
+      "added": 32,
+      "hash": "56ebb8e3ae0bbea7d237e9931e11d1df"
+    },
+    {
       "path": "lcdmarquees/synththeme-american_laser_games.jpg",
-      "added": 25,
-      "hash": "5b892de8fe1267c2c2121fef848d2569"
+      "added": 32,
+      "hash": "2e937ea02e44ea3844dd86e0cc0a6518"
     },
     {
       "path": "lcdmarquees/synththeme-amiga.jpg",
@@ -24879,13 +24889,13 @@
     },
     {
       "path": "lcdmarquees/synththeme-amstrad_gx4000.jpg",
-      "added": 25,
-      "hash": "fd7773ffce42239e89db6d9b15141ee6"
+      "added": 32,
+      "hash": "09dfd3ffbe35803b947e9356cf86bc0f"
     },
     {
       "path": "lcdmarquees/synththeme-amstradcpc.jpg",
-      "added": 25,
-      "hash": "a28b94689875b297a49d3452011191b4"
+      "added": 32,
+      "hash": "9888c8b3c5c8abe441e432cec91b8c11"
     },
     {
       "path": "lcdmarquees/synththeme-android.jpg",
@@ -25018,6 +25028,16 @@
       "hash": "c2437befb91a0bb6cab942f57e3e9ab2"
     },
     {
+      "path": "lcdmarquees/synththeme-auto-adult.jpg",
+      "added": 32,
+      "hash": "3f7263cb5fa4306254f231dd24907a0f"
+    },
+    {
+      "path": "lcdmarquees/synththeme-auto-allgames.jpg",
+      "added": 32,
+      "hash": "56ebb8e3ae0bbea7d237e9931e11d1df"
+    },
+    {
       "path": "lcdmarquees/synththeme-auto-arcade.jpg",
       "added": 31,
       "hash": "2dc3fd103d982413d8d1268b99164141"
@@ -25056,6 +25076,11 @@
       "path": "lcdmarquees/synththeme-auto-pc.jpg",
       "added": 31,
       "hash": "0343dcc802877d7edb1bded4dea5cf56"
+    },
+    {
+      "path": "lcdmarquees/synththeme-auto-pinball.jpg",
+      "added": 32,
+      "hash": "6b82164f476d715e9b3a6890f2531ca1"
     },
     {
       "path": "lcdmarquees/synththeme-ball_&_paddle_games.jpg",
@@ -25203,6 +25228,11 @@
       "hash": "7a99b2acae2fd71b6b1db031a80e09e2"
     },
     {
+      "path": "lcdmarquees/synththeme-collections.jpg",
+      "added": 32,
+      "hash": "deff59e73a036a5e79f96df04f0cc91a"
+    },
+    {
       "path": "lcdmarquees/synththeme-comics.jpg",
       "added": 25,
       "hash": "e6f08e747adbbd5c53b9bfe858c12e80"
@@ -25253,6 +25283,11 @@
       "hash": "face25a3ea3e749abba9f8162497154f"
     },
     {
+      "path": "lcdmarquees/synththeme-custom-collections.jpg",
+      "added": 32,
+      "hash": "deff59e73a036a5e79f96df04f0cc91a"
+    },
+    {
       "path": "lcdmarquees/synththeme-daphne.jpg",
       "added": 24,
       "hash": "29f1c80694b6710d94c3d6574c9c80e2"
@@ -25299,8 +25334,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-dreamcast.jpg",
-      "added": 24,
-      "hash": "38303b52b1111eaf59c165d0a29d299c"
+      "added": 32,
+      "hash": "2c8a0ee1c046ce0568d0c1ed54fc3e77"
     },
     {
       "path": "lcdmarquees/synththeme-driving_games.jpg",
@@ -25514,8 +25549,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-kodi.jpg",
-      "added": 24,
-      "hash": "a4e0e7eab6a62a47a46b2bfef1339b0d"
+      "added": 32,
+      "hash": "d74987c563d8b60574c68cf17996a477"
     },
     {
       "path": "lcdmarquees/synththeme-konami_classics.jpg",
@@ -25526,6 +25561,11 @@
       "path": "lcdmarquees/synththeme-konami_handheld.jpg",
       "added": 24,
       "hash": "ed74b180bf59a8afff968e3eaaf3662d"
+    },
+    {
+      "path": "lcdmarquees/synththeme-lightgun.jpg",
+      "added": 32,
+      "hash": "0c1a694f3c04c9fbbe22152761ce9c91"
     },
     {
       "path": "lcdmarquees/synththeme-locomalito.jpg",
@@ -25584,8 +25624,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-menu.jpg",
-      "added": 24,
-      "hash": "33cb2fb0e0918695eca8729367a54eb3"
+      "added": 32,
+      "hash": "2cda4e980a9aca6c7d3372ba16fdb961"
     },
     {
       "path": "lcdmarquees/synththeme-mgt_sam_coupe.jpg",
@@ -25634,13 +25674,13 @@
     },
     {
       "path": "lcdmarquees/synththeme-movies.jpg",
-      "added": 25,
-      "hash": "9c75ee50b88f3fbe3b18f95995ab287f"
+      "added": 32,
+      "hash": "f43a3585f7b909802d37fdb7d2c73b9f"
     },
     {
       "path": "lcdmarquees/synththeme-mrboom.jpg",
-      "added": 24,
-      "hash": "b45df8ed65313671a3341d89664f7bc2"
+      "added": 32,
+      "hash": "4e1405d5b9aa0a9d9ce57ea66211019f"
     },
     {
       "path": "lcdmarquees/synththeme-msx.jpg",
@@ -25659,8 +25699,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-music.jpg",
-      "added": 24,
-      "hash": "d267aaa41818a84d312585cee5719504"
+      "added": 32,
+      "hash": "ddd78f5ca587c78f874270cd1099a190"
     },
     {
       "path": "lcdmarquees/synththeme-n64.jpg",
@@ -25739,8 +25779,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-netsurf.jpg",
-      "added": 25,
-      "hash": "e1bf122dd37a2f7d7ec5a00dfe8be3f4"
+      "added": 32,
+      "hash": "347ebb0515030b609ecf03a3f6948236"
     },
     {
       "path": "lcdmarquees/synththeme-never.jpg",
@@ -25754,13 +25794,13 @@
     },
     {
       "path": "lcdmarquees/synththeme-ngp.jpg",
-      "added": 25,
-      "hash": "07fa5c2640060ea63bf599b955599ad1"
+      "added": 32,
+      "hash": "aec83c6e756112fe6d510879569300fc"
     },
     {
       "path": "lcdmarquees/synththeme-ngpc.jpg",
-      "added": 25,
-      "hash": "cebcd024365086239a3906da9023a648"
+      "added": 32,
+      "hash": "1a86d2970185e3d75a3323f2331142c0"
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_3ds.jpg",
@@ -25859,8 +25899,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_sufami_turbo.jpg",
-      "added": 25,
-      "hash": "9fe00496782346426376651f162007ee"
+      "added": 32,
+      "hash": "d64a7aa2005abd33379d653f5602d553"
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_super_famicom.jpg",
@@ -25944,8 +25984,13 @@
     },
     {
       "path": "lcdmarquees/synththeme-pictures.jpg",
-      "added": 25,
-      "hash": "29063f00d9916bcf8d09f00055d2ce9c"
+      "added": 32,
+      "hash": "c97410248560b8eed0aeba01f67dfe1c"
+    },
+    {
+      "path": "lcdmarquees/synththeme-pinball.jpg",
+      "added": 32,
+      "hash": "6b82164f476d715e9b3a6890f2531ca1"
     },
     {
       "path": "lcdmarquees/synththeme-pinball_arcade.jpg",
@@ -26049,13 +26094,13 @@
     },
     {
       "path": "lcdmarquees/synththeme-rickdanger.jpg",
-      "added": 31,
-      "hash": "f1eaffecb444160a24dfa230683f34df"
+      "added": 32,
+      "hash": "6276b1ad46db7ec3fea98e05881bb4af"
     },
     {
       "path": "lcdmarquees/synththeme-rickdangerous.jpg",
-      "added": 24,
-      "hash": "f1eaffecb444160a24dfa230683f34df"
+      "added": 32,
+      "hash": "6276b1ad46db7ec3fea98e05881bb4af"
     },
     {
       "path": "lcdmarquees/synththeme-run_&_gun_games.jpg",
@@ -26089,8 +26134,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-sega32x.jpg",
-      "added": 24,
-      "hash": "50c6875aaf017ca783f3a6e60739d4d8"
+      "added": 32,
+      "hash": "14fbc25cc4faee06b2787876ab500ad3"
     },
     {
       "path": "lcdmarquees/synththeme-sega_ages.jpg",
@@ -26244,8 +26289,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-segacd.jpg",
-      "added": 24,
-      "hash": "59139e74a27d1f814912fe31a4e66377"
+      "added": 32,
+      "hash": "76ac53d422f119fe21517644100a1125"
     },
     {
       "path": "lcdmarquees/synththeme-segasaturn.jpg",
@@ -26398,6 +26443,11 @@
       "hash": "ffe68a44188c57b6cb9259d681807fb7"
     },
     {
+      "path": "lcdmarquees/synththeme-sufami.jpg",
+      "added": 32,
+      "hash": "d64a7aa2005abd33379d653f5602d553"
+    },
+    {
       "path": "lcdmarquees/synththeme-super_game_boy.jpg",
       "added": 25,
       "hash": "394d71abc96fe08c52310f7cf74ce400"
@@ -26421,6 +26471,11 @@
       "path": "lcdmarquees/synththeme-super_nintendo_hacked.jpg",
       "added": 25,
       "hash": "f634a547fda15b1d6cb31864a8d7e1d0"
+    },
+    {
+      "path": "lcdmarquees/synththeme-supergrafx.jpg",
+      "added": 32,
+      "hash": "882475dc6c1c160034d7966fbe6756e0"
     },
     {
       "path": "lcdmarquees/synththeme-survival-horror_games.jpg",
@@ -26458,6 +26513,11 @@
       "hash": "c2801970bcced85b9518bda9120943c5"
     },
     {
+      "path": "lcdmarquees/synththeme-thomson.jpg",
+      "added": 32,
+      "hash": "3e1ee4998fc7e26a4224f5032b82970b"
+    },
+    {
       "path": "lcdmarquees/synththeme-ti-99-4a.jpg",
       "added": 25,
       "hash": "9318f508284cbac6f7a8bdbc14dfd8a0"
@@ -26471,6 +26531,11 @@
       "path": "lcdmarquees/synththeme-ti994a.jpg",
       "added": 24,
       "hash": "1eb46dcaa0391341ecb96ec705296b52"
+    },
+    {
+      "path": "lcdmarquees/synththeme-tic80.jpg",
+      "added": 32,
+      "hash": "3e1ee4998fc7e26a4224f5032b82970b"
     },
     {
       "path": "lcdmarquees/synththeme-tiger_game-1.jpg",
@@ -51543,14 +51608,24 @@
       "hash": "97215444ae4a390639a2ef159336fd1e"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-adult-tmb.jpg",
+      "added": 32,
+      "hash": "26be711985c6a7d88b8c0ead453cfce9"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-all_games-tmb.jpg",
       "added": 25,
       "hash": "a2e2a97fb3e39568f2b35dcf5bebcecc"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-allgames-tmb.jpg",
+      "added": 32,
+      "hash": "e18a54378f6923dcb2574f2450644c97"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-american_laser_games-tmb.jpg",
-      "added": 25,
-      "hash": "e35cc51a7435ae6c6631fae9997d4675"
+      "added": 32,
+      "hash": "4547f39e44d2910d5b60364fb77fc750"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-amiga-tmb.jpg",
@@ -51569,13 +51644,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-amstrad_gx4000-tmb.jpg",
-      "added": 25,
-      "hash": "958168a2e4149df6c6c37005a37846c6"
+      "added": 32,
+      "hash": "970e7849eec72ddbf249332b6bfdfff5"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-amstradcpc-tmb.jpg",
-      "added": 25,
-      "hash": "29ec503d8e01ac996cb007101062c9bb"
+      "added": 32,
+      "hash": "9606ed358562969dd3ddda4570466593"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-android-tmb.jpg",
@@ -51708,6 +51783,16 @@
       "hash": "017111064802536852ef7c56be2f771f"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-auto-adult-tmb.jpg",
+      "added": 32,
+      "hash": "26be711985c6a7d88b8c0ead453cfce9"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-auto-allgames-tmb.jpg",
+      "added": 32,
+      "hash": "e18a54378f6923dcb2574f2450644c97"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-auto-arcade-tmb.jpg",
       "added": 31,
       "hash": "0cdc15e6c2face4010defe494c0e9f69"
@@ -51746,6 +51831,11 @@
       "path": "lcdmarquees/thumbnails/synththeme-auto-pc-tmb.jpg",
       "added": 31,
       "hash": "451e5960ce01056e768ac53241a37823"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-auto-pinball-tmb.jpg",
+      "added": 32,
+      "hash": "bdfeac97fc77185a13dfcea2ec26cb87"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-ball_&_paddle_games-tmb.jpg",
@@ -51893,6 +51983,11 @@
       "hash": "b39b8c9d214de02a985804f2ede55121"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-collections-tmb.jpg",
+      "added": 32,
+      "hash": "fe3c4f8acd3548216456920f6411516e"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-comics-tmb.jpg",
       "added": 25,
       "hash": "f1828f0e76d8b76e150283de0db04b14"
@@ -51943,6 +52038,11 @@
       "hash": "7c357d19c981f9262223aac8128d8c08"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-custom-collections-tmb.jpg",
+      "added": 32,
+      "hash": "fe3c4f8acd3548216456920f6411516e"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-daphne-tmb.jpg",
       "added": 24,
       "hash": "fba78e9c94f42e7be15cc21af4139e67"
@@ -51989,8 +52089,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-dreamcast-tmb.jpg",
-      "added": 24,
-      "hash": "e02d6ef49df579817615edaba28a334a"
+      "added": 32,
+      "hash": "4a4c39342859d468dc56ba6d72e948b6"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-driving_games-tmb.jpg",
@@ -52204,8 +52304,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-kodi-tmb.jpg",
-      "added": 24,
-      "hash": "d8904a837836da69908c06396153af55"
+      "added": 32,
+      "hash": "34899ab2f49155c12dae82d0eeb0c7aa"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-konami_classics-tmb.jpg",
@@ -52216,6 +52316,11 @@
       "path": "lcdmarquees/thumbnails/synththeme-konami_handheld-tmb.jpg",
       "added": 24,
       "hash": "5f137ed97c2d202b6a9ce021aadac6f6"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-lightgun-tmb.jpg",
+      "added": 32,
+      "hash": "a091e0e78a33e6ff68738c97e305b61c"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-locomalito-tmb.jpg",
@@ -52274,8 +52379,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-menu-tmb.jpg",
-      "added": 24,
-      "hash": "69a8024ea3238bb2c5f19868f30b9854"
+      "added": 32,
+      "hash": "6a1858d8f163aae63dc25926d6ea5c36"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-mgt_sam_coupe-tmb.jpg",
@@ -52324,13 +52429,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-movies-tmb.jpg",
-      "added": 25,
-      "hash": "cb0810f0108ef9971d7cddfccc8f1c45"
+      "added": 32,
+      "hash": "9594e08655c4fa7202071b792cd2d99f"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-mrboom-tmb.jpg",
-      "added": 24,
-      "hash": "ad4675f11d56645edde55209cfcb5873"
+      "added": 32,
+      "hash": "652e074e7fd2754b0409b983bdbc826f"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-msx-tmb.jpg",
@@ -52349,8 +52454,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-music-tmb.jpg",
-      "added": 24,
-      "hash": "4213dc909cde2af3a2c9a66866ad8c89"
+      "added": 32,
+      "hash": "014844a17b5f1d0920c3c422d37e896f"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-n64-tmb.jpg",
@@ -52429,8 +52534,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-netsurf-tmb.jpg",
-      "added": 25,
-      "hash": "3f4ffeeee167a1abf16ada9057170b03"
+      "added": 32,
+      "hash": "49663fa7d1527ddc98cad41cdefe47be"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-never-tmb.jpg",
@@ -52444,13 +52549,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-ngp-tmb.jpg",
-      "added": 25,
-      "hash": "bc4a62f18481b544f68c3d4930aa774e"
+      "added": 32,
+      "hash": "354d7c0a1bd7343ce0048a5c27fca0b0"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-ngpc-tmb.jpg",
-      "added": 25,
-      "hash": "6be44f1ca3870e56f56844e7eb25e782"
+      "added": 32,
+      "hash": "ad2b3460a13b0a38b6e49fb7cb633693"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_3ds-tmb.jpg",
@@ -52549,8 +52654,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_sufami_turbo-tmb.jpg",
-      "added": 25,
-      "hash": "ffb5600eb2494ae8e97c0a885e86a90c"
+      "added": 32,
+      "hash": "2273531d4ebbd6f77ca583d60226417b"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_super_famicom-tmb.jpg",
@@ -52634,8 +52739,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-pictures-tmb.jpg",
-      "added": 25,
-      "hash": "b2eb9421983f1b4d5483c77c1b1bcdb2"
+      "added": 32,
+      "hash": "5b788b553766a883edfecb6cdf3574ce"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-pinball-tmb.jpg",
+      "added": 32,
+      "hash": "bdfeac97fc77185a13dfcea2ec26cb87"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-pinball_arcade-tmb.jpg",
@@ -52739,13 +52849,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-rickdanger-tmb.jpg",
-      "added": 31,
-      "hash": "0f1564da2c85eaf001f6ae7871264d14"
+      "added": 32,
+      "hash": "40d7cc5618e81b3e1cb619c39fe28f92"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-rickdangerous-tmb.jpg",
-      "added": 24,
-      "hash": "0f1564da2c85eaf001f6ae7871264d14"
+      "added": 32,
+      "hash": "40d7cc5618e81b3e1cb619c39fe28f92"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-run_&_gun_games-tmb.jpg",
@@ -52779,8 +52889,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega32x-tmb.jpg",
-      "added": 24,
-      "hash": "983453afcc850c3addbb5550a7d10529"
+      "added": 32,
+      "hash": "b0a332ee6f3bf080d608ad260e188b41"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega_ages-tmb.jpg",
@@ -52934,8 +53044,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-segacd-tmb.jpg",
-      "added": 24,
-      "hash": "560633bf79071c328675b9c162f8680e"
+      "added": 32,
+      "hash": "b37b506196b3269fdae31c1f37fdc679"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-segasaturn-tmb.jpg",
@@ -53088,6 +53198,11 @@
       "hash": "4cf8a1a5dfbed328e8bb8fe0b0e500f6"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-sufami-tmb.jpg",
+      "added": 32,
+      "hash": "2273531d4ebbd6f77ca583d60226417b"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-super_game_boy-tmb.jpg",
       "added": 25,
       "hash": "20178f7329b92dfe9efc42c07035d1c0"
@@ -53111,6 +53226,11 @@
       "path": "lcdmarquees/thumbnails/synththeme-super_nintendo_hacked-tmb.jpg",
       "added": 25,
       "hash": "8c8bdb7b2d5d5714cdae945a2fcad0b4"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-supergrafx-tmb.jpg",
+      "added": 32,
+      "hash": "ce99320cdda65559890439df4b1070ae"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-survival-horror_games-tmb.jpg",
@@ -53148,6 +53268,11 @@
       "hash": "d003beffb66db60b5e4fedce53ba7c11"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-thomson-tmb.jpg",
+      "added": 32,
+      "hash": "aa27333b4e108be4c9495d02c23fb586"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-ti-99-4a-tmb.jpg",
       "added": 25,
       "hash": "523671c9e4e9e5e43b447c44f5048ac7"
@@ -53161,6 +53286,11 @@
       "path": "lcdmarquees/thumbnails/synththeme-ti994a-tmb.jpg",
       "added": 24,
       "hash": "b280ff4fd3c44448489b26c1fffc55aa"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-tic80-tmb.jpg",
+      "added": 32,
+      "hash": "aa27333b4e108be4c9495d02c23fb586"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-tiger_game-1-tmb.jpg",
