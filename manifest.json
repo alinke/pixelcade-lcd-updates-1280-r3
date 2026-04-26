@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "base_version": 19,
   "files": [
     {
@@ -24874,8 +24874,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-amiga.jpg",
-      "added": 28,
-      "hash": "7d8b34519b681081ed505b02402ad3f6"
+      "added": 34,
+      "hash": "f2211e019c4d7f1ad328b97ca5b6ca5d"
     },
     {
       "path": "lcdmarquees/synththeme-amiga_.jpg",
@@ -24919,8 +24919,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-apple_iigs.jpg",
-      "added": 25,
-      "hash": "109d80779f396a922701153805b1210b"
+      "added": 34,
+      "hash": "6c3b02645c6342a3d1dc93cee23a6f20"
     },
     {
       "path": "lcdmarquees/synththeme-apple_ios.jpg",
@@ -24929,8 +24929,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-apple_mac.jpg",
-      "added": 25,
-      "hash": "7b6af33e28a079610ebc0bcc5d2177a1"
+      "added": 34,
+      "hash": "df58e86b3b6af26cee6b2a902db40aa3"
     },
     {
       "path": "lcdmarquees/synththeme-arcade.jpg",
@@ -25129,13 +25129,18 @@
     },
     {
       "path": "lcdmarquees/synththeme-c16.jpg",
-      "added": 25,
-      "hash": "5ca8623378771174adf8b09db372d3a6"
+      "added": 34,
+      "hash": "26d1a9939a085d1cb41adaafdc5f8fdc"
+    },
+    {
+      "path": "lcdmarquees/synththeme-c20-alt.jpg",
+      "added": 34,
+      "hash": "959d6dd032742c6683d8a9468b115cdb"
     },
     {
       "path": "lcdmarquees/synththeme-c20.jpg",
-      "added": 31,
-      "hash": "959d6dd032742c6683d8a9468b115cdb"
+      "added": 34,
+      "hash": "bb7c8e6fbde74979761b3d07f2b1c25d"
     },
     {
       "path": "lcdmarquees/synththeme-c64.jpg",
@@ -25159,18 +25164,18 @@
     },
     {
       "path": "lcdmarquees/synththeme-capcom_play_system.jpg",
-      "added": 28,
-      "hash": "61e9ed7d92596a99af5c56839461d30b"
+      "added": 34,
+      "hash": "c61bf5e40286f2c8fb94c4d1e598b38f"
     },
     {
       "path": "lcdmarquees/synththeme-capcom_play_system_ii.jpg",
-      "added": 28,
-      "hash": "8e4112015cd1b71ec57a13e2a0bc321c"
+      "added": 34,
+      "hash": "fd658d8c193675da877ab56fb1c12a85"
     },
     {
       "path": "lcdmarquees/synththeme-capcom_play_system_iii.jpg",
-      "added": 28,
-      "hash": "ce2da6492a73fe091f9ba1e66a228fa5"
+      "added": 34,
+      "hash": "e94da59f4cea12f0c5c881cc8d3ed523"
     },
     {
       "path": "lcdmarquees/synththeme-casino_games.jpg",
@@ -25179,8 +25184,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-casio_loopy.jpg",
-      "added": 25,
-      "hash": "5e97c23bfa8eb58f12b81f32184bf80a"
+      "added": 34,
+      "hash": "d255ce2391eb81aa1d198539d209ec2e"
     },
     {
       "path": "lcdmarquees/synththeme-casio_pv-1000.jpg",
@@ -25259,13 +25264,13 @@
     },
     {
       "path": "lcdmarquees/synththeme-commodore_max.jpg",
-      "added": 25,
-      "hash": "100008d49792ae98da5c4ad177dcc1e0"
+      "added": 34,
+      "hash": "33ec2d662b36e32a428e6d2088c71b84"
     },
     {
       "path": "lcdmarquees/synththeme-commodore_pet.jpg",
-      "added": 25,
-      "hash": "f500bd10289a2518684782727d7dd0bc"
+      "added": 34,
+      "hash": "b01ff61cf9c3f77a79917e64832620df"
     },
     {
       "path": "lcdmarquees/synththeme-commodore_vic-20.jpg",
@@ -25524,8 +25529,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-hbmame.jpg",
-      "added": 28,
-      "hash": "2446ca4d0bdb48602a9150aa042a31f4"
+      "added": 34,
+      "hash": "8d2e99d2ad535df7efc05b68124ef123"
     },
     {
       "path": "lcdmarquees/synththeme-intellivision.jpg",
@@ -25579,8 +25584,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-locomalito.jpg",
-      "added": 25,
-      "hash": "5120e03caaf74c7cd60af2dcb9bbee87"
+      "added": 34,
+      "hash": "057676c78bcc79cae3fc60a651ed9989"
     },
     {
       "path": "lcdmarquees/synththeme-lynx.jpg",
@@ -25979,8 +25984,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-pc.jpg",
-      "added": 28,
-      "hash": "0343dcc802877d7edb1bded4dea5cf56"
+      "added": 34,
+      "hash": "f63b9f3be3ff108cf90cd96b689da095"
     },
     {
       "path": "lcdmarquees/synththeme-pcengine.jpg",
@@ -51649,8 +51654,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-amiga-tmb.jpg",
-      "added": 28,
-      "hash": "1ce1b7401091ca9bf3f81494a8849542"
+      "added": 34,
+      "hash": "1378f4c93f4591b89147169312731b84"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-amiga_-tmb.jpg",
@@ -51694,8 +51699,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-apple_iigs-tmb.jpg",
-      "added": 25,
-      "hash": "202037db8265b49a2a44d699be48e2c0"
+      "added": 34,
+      "hash": "fd0efb4fea98d7aaeef331f2f9795e56"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-apple_ios-tmb.jpg",
@@ -51704,8 +51709,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-apple_mac-tmb.jpg",
-      "added": 25,
-      "hash": "d50e81ec328d8e69f47e5d83878e6d3b"
+      "added": 34,
+      "hash": "74283f504a7b58140a5a7ee32d9cf484"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-arcade-tmb.jpg",
@@ -51904,13 +51909,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-c16-tmb.jpg",
-      "added": 25,
-      "hash": "a5fbfb57884c282088b6c0c73d9f02bf"
+      "added": 34,
+      "hash": "fa6e39b681527ebdb8803f72f962af35"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-c20-alt-tmb.jpg",
+      "added": 34,
+      "hash": "08ba38f344622d5a9031d5fccd6c73ca"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-c20-tmb.jpg",
-      "added": 31,
-      "hash": "08ba38f344622d5a9031d5fccd6c73ca"
+      "added": 34,
+      "hash": "b3a6748d0d2762f02ab6696a06969dc9"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-c64-tmb.jpg",
@@ -51934,18 +51944,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-capcom_play_system-tmb.jpg",
-      "added": 28,
-      "hash": "8a939ca6925254a62ec6855a6b94d67b"
+      "added": 34,
+      "hash": "ea14c92373a8fe2501d69e7e328b8ade"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-capcom_play_system_ii-tmb.jpg",
-      "added": 28,
-      "hash": "21610a08b4011d506f2b1525d27d1f04"
+      "added": 34,
+      "hash": "7f0956f2c4f3e8fe0e86af39ac0b9107"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-capcom_play_system_iii-tmb.jpg",
-      "added": 28,
-      "hash": "b32ce0224ecd9434cee8c1fe55f7b28b"
+      "added": 34,
+      "hash": "93b67026317af17f7e50c0f0c6fa47a9"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-casino_games-tmb.jpg",
@@ -51954,8 +51964,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-casio_loopy-tmb.jpg",
-      "added": 25,
-      "hash": "edab1b5fe34ed1f11ed87a222a35efb8"
+      "added": 34,
+      "hash": "bc60402d949b4e8c774f51b96393d269"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-casio_pv-1000-tmb.jpg",
@@ -52034,13 +52044,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-commodore_max-tmb.jpg",
-      "added": 25,
-      "hash": "7618c4af7a4cce973f4b518a60847d80"
+      "added": 34,
+      "hash": "b23d670dae8b003b5eaedf2875094b2b"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-commodore_pet-tmb.jpg",
-      "added": 25,
-      "hash": "32f9a96123eeae6484a2de366b6cf052"
+      "added": 34,
+      "hash": "b34e50b40123554cc717bd2fba8454c1"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-commodore_vic-20-tmb.jpg",
@@ -52299,8 +52309,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-hbmame-tmb.jpg",
-      "added": 28,
-      "hash": "98c1a6a9f7bf4630172e3c9083978498"
+      "added": 34,
+      "hash": "cd3f3d14726b301e6a48d48b572a446f"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-intellivision-tmb.jpg",
@@ -52354,8 +52364,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-locomalito-tmb.jpg",
-      "added": 25,
-      "hash": "c4b1097b019791e6ac484fca4e9cbae7"
+      "added": 34,
+      "hash": "dc61bda5332d376b5d2b65847ccb4c33"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-lynx-tmb.jpg",
@@ -52754,8 +52764,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-pc-tmb.jpg",
-      "added": 28,
-      "hash": "451e5960ce01056e768ac53241a37823"
+      "added": 34,
+      "hash": "330f05b5c63cf1cc2299fb091e0f6dce"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-pcengine-tmb.jpg",
