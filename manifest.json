@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "base_version": 19,
   "files": [
     {
@@ -929,8 +929,18 @@
     },
     {
       "path": "lcdmarquees/chromatheme-3do.jpg",
-      "added": 25,
-      "hash": "3b5f6b3469430e9344d115f0ddcea328"
+      "added": 35,
+      "hash": "0495dfa268f39c410eaeaeb8f6cacfeb"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-4_player_games.jpg",
+      "added": 35,
+      "hash": "4144672d5a30aa27fd312c15d8410f36"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-aae.jpg",
+      "added": 35,
+      "hash": "12e8795bdfab4709952cd6b80ce946b3"
     },
     {
       "path": "lcdmarquees/chromatheme-american_laser_games.jpg",
@@ -939,18 +949,18 @@
     },
     {
       "path": "lcdmarquees/chromatheme-amiga.jpg",
-      "added": 25,
-      "hash": "2411dc3d89b8dbdf3a47cd891b4a998a"
+      "added": 35,
+      "hash": "2aa52d3f09e8588353658c26debb5c7d"
     },
     {
       "path": "lcdmarquees/chromatheme-amstrad_gx4000.jpg",
-      "added": 25,
-      "hash": "b57df5c6f7120381b2ea473aa3b08667"
+      "added": 35,
+      "hash": "7ce5916dca7f8451fc48760a44a25c76"
     },
     {
       "path": "lcdmarquees/chromatheme-amstradcpc.jpg",
-      "added": 25,
-      "hash": "83b663a086607266a6987802dd1681e0"
+      "added": 35,
+      "hash": "10ce00ceb28fe5b66b5eb0a0a95a2628"
     },
     {
       "path": "lcdmarquees/chromatheme-android.jpg",
@@ -964,8 +974,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-apple2.jpg",
-      "added": 25,
-      "hash": "656cce972a436870974dfbc3132750c4"
+      "added": 35,
+      "hash": "97ca10dae4b4131a95102512c1f66392"
     },
     {
       "path": "lcdmarquees/chromatheme-apple_iigs.jpg",
@@ -989,18 +999,18 @@
     },
     {
       "path": "lcdmarquees/chromatheme-atari2600.jpg",
-      "added": 25,
-      "hash": "6f044d6fa27c7575a7f1ebe1603f005c"
+      "added": 35,
+      "hash": "b3824a4cf425f2620a9fc15875824442"
     },
     {
       "path": "lcdmarquees/chromatheme-atari5200.jpg",
-      "added": 25,
-      "hash": "003013e712ad17921be54da935e57ca7"
+      "added": 35,
+      "hash": "7730f19c385a253450b3becd2a31d461"
     },
     {
       "path": "lcdmarquees/chromatheme-atari7800.jpg",
-      "added": 25,
-      "hash": "652786c4553de49447f1e8d5499cabc3"
+      "added": 35,
+      "hash": "b14152d40997ba15fc2731595431a5ab"
     },
     {
       "path": "lcdmarquees/chromatheme-atari800.jpg",
@@ -1029,13 +1039,18 @@
     },
     {
       "path": "lcdmarquees/chromatheme-atarijaguar.jpg",
-      "added": 25,
-      "hash": "5c2acbb243e00e4b9e4a1d1bc6fad4c9"
+      "added": 35,
+      "hash": "713dec5366a9ae64d3806fa26286c22d"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-atarijaguarcd.jpg",
+      "added": 35,
+      "hash": "dca9e59e4811df244e403a52acd1b0a9"
     },
     {
       "path": "lcdmarquees/chromatheme-atarilynx.jpg",
-      "added": 25,
-      "hash": "a28f6126d5e87953316cb4c8141e7418"
+      "added": 35,
+      "hash": "6479310fcfe73a66714daadc1208bdb5"
     },
     {
       "path": "lcdmarquees/chromatheme-bally_astrocade.jpg",
@@ -1044,13 +1059,13 @@
     },
     {
       "path": "lcdmarquees/chromatheme-bandai_wonderswan.jpg",
-      "added": 25,
-      "hash": "84e9617f3406c18079fbf3fceb468907"
+      "added": 35,
+      "hash": "fe5722dad72da45b4c155a5a93940472"
     },
     {
       "path": "lcdmarquees/chromatheme-c64.jpg",
-      "added": 25,
-      "hash": "3b80f049c794d4282a33223acc33edef"
+      "added": 35,
+      "hash": "301c176e83a73313a94234e76a475e91"
     },
     {
       "path": "lcdmarquees/chromatheme-capcom_classics.jpg",
@@ -1059,18 +1074,18 @@
     },
     {
       "path": "lcdmarquees/chromatheme-capcom_play_system.jpg",
-      "added": 25,
-      "hash": "a3bfc71e22397e3d94bb8fc20a61f1b8"
+      "added": 35,
+      "hash": "3329eff731d96e58e5ca90335a965b4c"
     },
     {
       "path": "lcdmarquees/chromatheme-capcom_play_system_ii.jpg",
-      "added": 25,
-      "hash": "323e6f08e31051fed170b36d0fe7d587"
+      "added": 35,
+      "hash": "fdbb0e58b6e5942ec5ce9b9cca116482"
     },
     {
       "path": "lcdmarquees/chromatheme-capcom_play_system_iii.jpg",
-      "added": 25,
-      "hash": "841d422b536ff874f6245c51778d0628"
+      "added": 35,
+      "hash": "6cd900995fd44da2547a03ac9d9811bc"
     },
     {
       "path": "lcdmarquees/chromatheme-casio_loopy.jpg",
@@ -1109,8 +1124,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-cave.jpg",
-      "added": 25,
-      "hash": "f7220244fd6d983d6bd3e9a6f0d06e1d"
+      "added": 35,
+      "hash": "1acf9b909f4cebba15f39dba111e4b3f"
     },
     {
       "path": "lcdmarquees/chromatheme-clone_hero.jpg",
@@ -1119,13 +1134,13 @@
     },
     {
       "path": "lcdmarquees/chromatheme-coleco.jpg",
-      "added": 25,
-      "hash": "48004cfc88e7284cff9772cebfb7cfc1"
+      "added": 35,
+      "hash": "53035ac4751803db857560be4041e862"
     },
     {
       "path": "lcdmarquees/chromatheme-commodore_128.jpg",
-      "added": 25,
-      "hash": "06eca5e2b7e03f5bfbb78f87791c617e"
+      "added": 35,
+      "hash": "3eb8c739b12c4070b01332b27df99261"
     },
     {
       "path": "lcdmarquees/chromatheme-commodore_16.jpg",
@@ -1154,13 +1169,18 @@
     },
     {
       "path": "lcdmarquees/chromatheme-commodore_vic-20.jpg",
-      "added": 25,
-      "hash": "f31b84092afca356dfaed832efcf3ee6"
+      "added": 35,
+      "hash": "f168124aff671a6b7e6916897e14c553"
     },
     {
       "path": "lcdmarquees/chromatheme-daphne.jpg",
-      "added": 25,
-      "hash": "1e2de7f23f54d3aec61b54f216471e69"
+      "added": 35,
+      "hash": "5dd2b2f36bee2fbac03073b54bce7a81"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-daphne_singe.jpg",
+      "added": 35,
+      "hash": "5b097057e66af078cb05c8205a41335d"
     },
     {
       "path": "lcdmarquees/chromatheme-data_east_classics.jpg",
@@ -1169,18 +1189,23 @@
     },
     {
       "path": "lcdmarquees/chromatheme-dos.jpg",
-      "added": 25,
-      "hash": "234cdeac4e2b65809d90c49d59f4b9cc"
+      "added": 35,
+      "hash": "05d70f25cdac98190fffbeb647a30ca5"
     },
     {
       "path": "lcdmarquees/chromatheme-dreamcast.jpg",
-      "added": 25,
-      "hash": "21587cfe5cd037f3a34c63818089f1b2"
+      "added": 35,
+      "hash": "a3c0b1c3e6cb9fca2e4045fac5c8c8b4"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-driving_games.jpg",
+      "added": 35,
+      "hash": "e02791c90319a4cfe6a730957c10c8ff"
     },
     {
       "path": "lcdmarquees/chromatheme-epoch_game_pocket_computer.jpg",
-      "added": 25,
-      "hash": "bf8600579e368fdd1ea2cd0ba4ce4a14"
+      "added": 35,
+      "hash": "aa9c59f6c0429fb4de0c9fc4df420670"
     },
     {
       "path": "lcdmarquees/chromatheme-epoch_super_cassette_vision.jpg",
@@ -1198,44 +1223,59 @@
       "hash": "5ca80974ce0597b5085b12744670ac15"
     },
     {
+      "path": "lcdmarquees/chromatheme-final_burn_alpha.jpg",
+      "added": 35,
+      "hash": "830f7faa800b6464dc8260e7affe9110"
+    },
+    {
       "path": "lcdmarquees/chromatheme-fujitsu_fm_towns.jpg",
       "added": 25,
       "hash": "2f1c03586fb24f9591e8c03ff076984b"
     },
     {
+      "path": "lcdmarquees/chromatheme-futurepinball.jpg",
+      "added": 35,
+      "hash": "b331ddb2fc2d3a5737653a658fa4dd0f"
+    },
+    {
       "path": "lcdmarquees/chromatheme-gamegear.jpg",
-      "added": 25,
-      "hash": "05a0e1213c62d998059cf59d5d6d0ac2"
+      "added": 35,
+      "hash": "daa14b096c5065d24b091b84d39a29bb"
     },
     {
       "path": "lcdmarquees/chromatheme-gb.jpg",
-      "added": 25,
-      "hash": "8c98beba010ec586bb0a7a5f89b362c1"
+      "added": 35,
+      "hash": "efecdfb2226c54babae6306309d6c813"
     },
     {
       "path": "lcdmarquees/chromatheme-gba.jpg",
-      "added": 25,
-      "hash": "b5593639212126717e2d3d083ca94e77"
+      "added": 35,
+      "hash": "664e2b27116dca412df0c9d4838e740a"
     },
     {
       "path": "lcdmarquees/chromatheme-gbc.jpg",
-      "added": 25,
-      "hash": "8eee3b0d40a0dce93113b3184adaad0b"
+      "added": 35,
+      "hash": "ab16e3c4e901aa7dc7379db6500a6297"
     },
     {
       "path": "lcdmarquees/chromatheme-genesis.jpg",
-      "added": 25,
-      "hash": "fedd70afb72de8bcda90628eb13b25c6"
+      "added": 35,
+      "hash": "d2a5b532545d6e8d3fb58949a840426b"
     },
     {
       "path": "lcdmarquees/chromatheme-gun_games.jpg",
-      "added": 25,
-      "hash": "e55711329f2d6af01e71804f81d8ad18"
+      "added": 35,
+      "hash": "0fc5d6659eaa0f1f78c1cdcb9d08eab3"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-gun_games_(sinden).jpg",
+      "added": 35,
+      "hash": "0fc5d6659eaa0f1f78c1cdcb9d08eab3"
     },
     {
       "path": "lcdmarquees/chromatheme-intellivision.jpg",
-      "added": 25,
-      "hash": "e3e34f7614f797f68169398e7b6373e8"
+      "added": 35,
+      "hash": "9e8b24a2f7d15300a744a330ff1e537e"
     },
     {
       "path": "lcdmarquees/chromatheme-irem_classics.jpg",
@@ -1243,9 +1283,19 @@
       "hash": "e48d2d6a7969cd4689722ad5bf575e9c"
     },
     {
+      "path": "lcdmarquees/chromatheme-jackbox_games.jpg",
+      "added": 35,
+      "hash": "46807af95520b4e0116711a352a7b44e"
+    },
+    {
       "path": "lcdmarquees/chromatheme-konami_classics.jpg",
       "added": 25,
       "hash": "9727475dff82099fc52e683e6f31224d"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-konami_handheld.jpg",
+      "added": 35,
+      "hash": "4e685fedcfd92f5c4775d2ac1ca0bcb7"
     },
     {
       "path": "lcdmarquees/chromatheme-konami_handheld_electronics.jpg",
@@ -1263,29 +1313,49 @@
       "hash": "14a5229c14be584535e109cf99f0e5ff"
     },
     {
+      "path": "lcdmarquees/chromatheme-magazines.jpg",
+      "added": 35,
+      "hash": "04e198f86c684543f237ed5bc8e95b4d"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-magnavox_odyssey.jpg",
+      "added": 35,
+      "hash": "62f3095a993641a88ad6756fb2133f58"
+    },
+    {
       "path": "lcdmarquees/chromatheme-magnavox_odyssey_2.jpg",
-      "added": 25,
-      "hash": "984a6f8621faed2077ddd4b70a14bc36"
+      "added": 35,
+      "hash": "0d31e098aaf6b6944f84c8f480765606"
     },
     {
       "path": "lcdmarquees/chromatheme-mame.jpg",
-      "added": 26,
-      "hash": "4859b275bdbfbc04d1fca33afdbfc84e"
+      "added": 35,
+      "hash": "fe8ca8168dd6b672fa46612768149b26"
     },
     {
       "path": "lcdmarquees/chromatheme-mastersystem.jpg",
-      "added": 25,
-      "hash": "62e8f044552990a6c0b2dfc57a654bdd"
+      "added": 35,
+      "hash": "13d57d524d8af6eb5e5699083d9bfbfc"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-mattel_intellivision.jpg",
+      "added": 35,
+      "hash": "9e8b24a2f7d15300a744a330ff1e537e"
     },
     {
       "path": "lcdmarquees/chromatheme-megadrive.jpg",
-      "added": 25,
-      "hash": "ca6532976700fddcbff1ff72f8bef6d0"
+      "added": 35,
+      "hash": "a07ebdb76a1f45306ddbb64e00948f35"
     },
     {
       "path": "lcdmarquees/chromatheme-megaduck.jpg",
       "added": 25,
       "hash": "c56349218ed8c445a60f0855f15361bc"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-micorsoft_windows_3.x.jpg",
+      "added": 35,
+      "hash": "d6931b9ba19d9a2724a389eed099fbf3"
     },
     {
       "path": "lcdmarquees/chromatheme-microsoft_game_pass.jpg",
@@ -1309,8 +1379,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-microsoft_xbox.jpg",
-      "added": 25,
-      "hash": "895bd0b4a5c0b61ff3a64db02278c385"
+      "added": 35,
+      "hash": "2b56b39f7bcb71563cc56485cfe6f9a8"
     },
     {
       "path": "lcdmarquees/chromatheme-microsoft_xbox_360.jpg",
@@ -1334,8 +1404,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-msx.jpg",
-      "added": 25,
-      "hash": "681db3a67bdab64d5e1786fa4bf039f4"
+      "added": 35,
+      "hash": "fa37ab3d109e5c5d61e6abec0f776611"
     },
     {
       "path": "lcdmarquees/chromatheme-msx2.jpg",
@@ -1349,8 +1419,13 @@
     },
     {
       "path": "lcdmarquees/chromatheme-n64.jpg",
-      "added": 25,
-      "hash": "4c849d190e098e0bb1ac9e77a46ed8f9"
+      "added": 35,
+      "hash": "68c35a1e2b181feac9c035c3d2f50908"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-n64dd.jpg",
+      "added": 35,
+      "hash": "967b69f21d1a9ed98a8f24f4f250828d"
     },
     {
       "path": "lcdmarquees/chromatheme-namco_classics.jpg",
@@ -1384,8 +1459,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-nec_supergrafx.jpg",
-      "added": 25,
-      "hash": "3ae1fa38557849ebc8fc402f6432575c"
+      "added": 35,
+      "hash": "be4667cd075e72bc6c3892ef208f0dbc"
     },
     {
       "path": "lcdmarquees/chromatheme-nec_turbografx-16.jpg",
@@ -1393,19 +1468,29 @@
       "hash": "8af7c97e24aa6038655cf1109189b4ed"
     },
     {
+      "path": "lcdmarquees/chromatheme-nec_turbografx_16.jpg",
+      "added": 35,
+      "hash": "9cc33195622a06292ce65cbc4e565566"
+    },
+    {
       "path": "lcdmarquees/chromatheme-nec_turbografx_cd.jpg",
-      "added": 25,
-      "hash": "a14e80230a90ca71f129fa5bb2bb31bf"
+      "added": 35,
+      "hash": "975e4749bf0fc11669293bc6effcaebb"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-neogeo.jpg",
+      "added": 35,
+      "hash": "297d2ba63089676dc0f2cbdfa20d515a"
     },
     {
       "path": "lcdmarquees/chromatheme-nes.jpg",
-      "added": 25,
-      "hash": "9657c93d471b2ba553bc4c9cecb2b5ce"
+      "added": 35,
+      "hash": "678d5c0b2bde97a49b08106eb20de9be"
     },
     {
       "path": "lcdmarquees/chromatheme-nesicaxlive.jpg",
-      "added": 25,
-      "hash": "2ce3ee6e7d70c3cda875b563cc5eb1ef"
+      "added": 35,
+      "hash": "2c2060afbb8668b3127aac9e49f2e5f2"
     },
     {
       "path": "lcdmarquees/chromatheme-ngp.jpg",
@@ -1419,13 +1504,13 @@
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_3ds.jpg",
-      "added": 25,
-      "hash": "f74e4606f8344f3a03111a0e246402fc"
+      "added": 35,
+      "hash": "72a4ae66ad90ac106f2ace89129dde39"
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_64dd.jpg",
-      "added": 25,
-      "hash": "7757907e67f8aa5858a2022e3e576d97"
+      "added": 35,
+      "hash": "967b69f21d1a9ed98a8f24f4f250828d"
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_classics.jpg",
@@ -1443,24 +1528,29 @@
       "hash": "aef98334bbec36d1cab14fea9844acfb"
     },
     {
+      "path": "lcdmarquees/chromatheme-nintendo_entertainment_system_3d.jpg",
+      "added": 35,
+      "hash": "8a75204fb214d24dd812bb46a35826e6"
+    },
+    {
       "path": "lcdmarquees/chromatheme-nintendo_famicom.jpg",
-      "added": 25,
-      "hash": "a0e7b4b53dee296382ea98095733aac4"
+      "added": 35,
+      "hash": "4fd83652c3087ed4417519e05d2f77a9"
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_famicom_disk_system.jpg",
-      "added": 25,
-      "hash": "5e98b997314aa9e46110e34fe62c75d4"
+      "added": 35,
+      "hash": "efd38f5240e7b4ab7bc3b5a2c83f1e4f"
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_game_and_watch.jpg",
-      "added": 25,
-      "hash": "8b5af2f7d9d51497fa605cce89e2b5ed"
+      "added": 35,
+      "hash": "62f77b59c078bc5be3baf5e448605670"
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_gamecube.jpg",
-      "added": 25,
-      "hash": "3ddb8e50d8524db694c11ff1302cc161"
+      "added": 35,
+      "hash": "d45e5c9414c6b0ebdeeee6d55492b55e"
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_satellaview.jpg",
@@ -1479,8 +1569,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_super_game_boy.jpg",
-      "added": 25,
-      "hash": "2abf901dd1e120ac67793ab229e4ec17"
+      "added": 35,
+      "hash": "ad9630225732cb665717ad692af1cb32"
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_super_game_boy_(eu).jpg",
@@ -1489,18 +1579,18 @@
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_switch.jpg",
-      "added": 25,
-      "hash": "11c4c6c9c707830cce52fe8e0858f387"
+      "added": 35,
+      "hash": "3a86bc2e895c4d58b187963a1b6d6a66"
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_virtual_boy.jpg",
-      "added": 25,
-      "hash": "be19aba310594933019fbcaf868c3487"
+      "added": 35,
+      "hash": "adc29b1e0c2bc9d3a1f26cf10b7b0212"
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_wii.jpg",
-      "added": 25,
-      "hash": "b74c8e83329e6becae4f0b4f80f494cd"
+      "added": 35,
+      "hash": "5140fd2186c262ab080155f163b8bd5d"
     },
     {
       "path": "lcdmarquees/chromatheme-nintendo_wii_u.jpg",
@@ -1523,9 +1613,19 @@
       "hash": "5934b45d4d4300b73418ce21d69a0e7b"
     },
     {
+      "path": "lcdmarquees/chromatheme-panasonic_3do.jpg",
+      "added": 35,
+      "hash": "0495dfa268f39c410eaeaeb8f6cacfeb"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-pc.jpg",
+      "added": 35,
+      "hash": "5a9657d1ea66a67727006bce6f279646"
+    },
+    {
       "path": "lcdmarquees/chromatheme-pcengine.jpg",
-      "added": 25,
-      "hash": "0972e4dc661b09697db3f469251e6436"
+      "added": 35,
+      "hash": "cb9f511e03059a8792da2004c1954be7"
     },
     {
       "path": "lcdmarquees/chromatheme-philips_cd-i.jpg",
@@ -1548,9 +1648,39 @@
       "hash": "883d86810c78959cff5f4c2706d262ab"
     },
     {
+      "path": "lcdmarquees/chromatheme-pinball_arcade.jpg",
+      "added": 35,
+      "hash": "279b5a5039cf4a99657b6700f4b20422"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-pinball_fx.jpg",
+      "added": 35,
+      "hash": "8d1ecaabfe04faeda2e1b187d4615963"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-pinball_fx2.jpg",
+      "added": 35,
+      "hash": "10d39d0890aa980395239e019f1e63de"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-pinball_fx3.jpg",
+      "added": 35,
+      "hash": "45afdeef897549c75b99584ec9fe62c9"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-pinball_m.jpg",
+      "added": 35,
+      "hash": "b82ae0d32ecf408d8ac83f6801db3d0e"
+    },
+    {
       "path": "lcdmarquees/chromatheme-ps2.jpg",
-      "added": 25,
-      "hash": "1101b04dc03b13cefaf551fae9d9872b"
+      "added": 35,
+      "hash": "596c7a8f6d016dd1e14298a0f1a77072"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-ps3.jpg",
+      "added": 35,
+      "hash": "cd8244d42156ed5889d906907ecb9323"
     },
     {
       "path": "lcdmarquees/chromatheme-ps4.jpg",
@@ -1563,14 +1693,19 @@
       "hash": "8264d16290d2c60354da008ae564e484"
     },
     {
+      "path": "lcdmarquees/chromatheme-psikyo.jpg",
+      "added": 35,
+      "hash": "69d6cdce5e666075cbf4bbcf35d09548"
+    },
+    {
       "path": "lcdmarquees/chromatheme-psp.jpg",
-      "added": 25,
-      "hash": "05fe04a8d8fe3e8b7a5b2974dc79ac01"
+      "added": 35,
+      "hash": "dac24a35b130bfc38fd6abddb6474c90"
     },
     {
       "path": "lcdmarquees/chromatheme-psx.jpg",
-      "added": 25,
-      "hash": "d3faf0863bb3217dfbc96fc704909adf"
+      "added": 35,
+      "hash": "2d43674c22aa9def250873876a8775f3"
     },
     {
       "path": "lcdmarquees/chromatheme-raw_thrills.jpg",
@@ -1579,8 +1714,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-sammy_atomiswave.jpg",
-      "added": 25,
-      "hash": "7d9d3ae0d73829e06644e6e3dee2d6e2"
+      "added": 35,
+      "hash": "c10a4e90ab1a565ec8c2131e0522d0a9"
     },
     {
       "path": "lcdmarquees/chromatheme-saturn.jpg",
@@ -1589,18 +1724,18 @@
     },
     {
       "path": "lcdmarquees/chromatheme-scummvm.jpg",
-      "added": 25,
-      "hash": "7e00e4a51f6be514e8176d1d5a3c1a84"
+      "added": 35,
+      "hash": "d34daccf46d24a22950ca873370af2d7"
     },
     {
       "path": "lcdmarquees/chromatheme-sega32x.jpg",
-      "added": 25,
-      "hash": "462395a2ff6e1f59b8bc6fb9695457d9"
+      "added": 35,
+      "hash": "391e200f369c063786239f354f924e11"
     },
     {
       "path": "lcdmarquees/chromatheme-sega_cd_32x.jpg",
-      "added": 25,
-      "hash": "dd7484de480e070d52a20905b47172ea"
+      "added": 35,
+      "hash": "7599da2345cd0266d7b45ac7ff7b2e46"
     },
     {
       "path": "lcdmarquees/chromatheme-sega_chihiro.jpg",
@@ -1621,6 +1756,11 @@
       "path": "lcdmarquees/chromatheme-sega_europa-r.jpg",
       "added": 25,
       "hash": "141b55ae8201da27b3b4af9170abda6a"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_game_gear_japan.jpg",
+      "added": 35,
+      "hash": "6ac3907440fdf9e2c407dbf8bb308137"
     },
     {
       "path": "lcdmarquees/chromatheme-sega_hikaru.jpg",
@@ -1654,8 +1794,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-sega_naomi.jpg",
-      "added": 25,
-      "hash": "f992c5d23b0add2389b355d8e210d12c"
+      "added": 35,
+      "hash": "dc925d0c94747f63fd39c861c31ff4bf"
     },
     {
       "path": "lcdmarquees/chromatheme-sega_naomi_2.jpg",
@@ -1668,6 +1808,11 @@
       "hash": "805034d26efe0ac61378d575fd04f1c0"
     },
     {
+      "path": "lcdmarquees/chromatheme-sega_ring.jpg",
+      "added": 35,
+      "hash": "73f68444ecb4217688aab81808d0d23f"
+    },
+    {
       "path": "lcdmarquees/chromatheme-sega_ringedge.jpg",
       "added": 25,
       "hash": "53996013bae1c2957c850cff1e8a7305"
@@ -1678,9 +1823,19 @@
       "hash": "9441e31248438933bc4e5ac49359f39f"
     },
     {
+      "path": "lcdmarquees/chromatheme-sega_saturn.jpg",
+      "added": 35,
+      "hash": "8e9991e5dd9cf5726b90aaf82eefb3b3"
+    },
+    {
       "path": "lcdmarquees/chromatheme-sega_saturn_(jap).jpg",
       "added": 25,
       "hash": "7b8dbd86aa8e35aed9878fe33c0c3cdf"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-sega_sg-1000.jpg",
+      "added": 35,
+      "hash": "71d40c37772c213732b2c8433203b370"
     },
     {
       "path": "lcdmarquees/chromatheme-sega_st-v.jpg",
@@ -1699,8 +1854,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-segacd.jpg",
-      "added": 25,
-      "hash": "ce8683158bd6ac6349bed1c498630aff"
+      "added": 35,
+      "hash": "50973ff0a5b36b04f78b491370953492"
     },
     {
       "path": "lcdmarquees/chromatheme-sg-1000.jpg",
@@ -1719,8 +1874,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-snes.jpg",
-      "added": 25,
-      "hash": "c83869d9359a00f25b1da8dfb68496d2"
+      "added": 35,
+      "hash": "835e7789a18d70c80dddf6d6ea08ed0d"
     },
     {
       "path": "lcdmarquees/chromatheme-snk_classics.jpg",
@@ -1734,18 +1889,18 @@
     },
     {
       "path": "lcdmarquees/chromatheme-snk_neo_geo_aes.jpg",
-      "added": 25,
-      "hash": "8bd62cda9d5bd7c597e90abe86a0c949"
+      "added": 35,
+      "hash": "e3d1d91691bd4d9f66266efd4925ffa9"
     },
     {
       "path": "lcdmarquees/chromatheme-snk_neo_geo_cd.jpg",
-      "added": 25,
-      "hash": "4bd375e223ee3d88fc33aa614f457143"
+      "added": 35,
+      "hash": "29596aafb56c6e85ca508d8a3148ed52"
     },
     {
       "path": "lcdmarquees/chromatheme-snk_neo_geo_mvs.jpg",
-      "added": 25,
-      "hash": "4e3b6f30204e1c56033f549df6805a4f"
+      "added": 35,
+      "hash": "297d2ba63089676dc0f2cbdfa20d515a"
     },
     {
       "path": "lcdmarquees/chromatheme-sony_playstation_3.jpg",
@@ -1753,14 +1908,19 @@
       "hash": "1d6de3321e8a0f26d481b9581a85be3b"
     },
     {
+      "path": "lcdmarquees/chromatheme-sony_playstation_5.jpg",
+      "added": 35,
+      "hash": "ed712ca537a55badde0df6bbc8da4316"
+    },
+    {
       "path": "lcdmarquees/chromatheme-sony_playstation_minis.jpg",
-      "added": 25,
-      "hash": "0b8b77e7a758622d44cb28b46cddb2c4"
+      "added": 35,
+      "hash": "10a86b05451932cb313812e2fd601aec"
     },
     {
       "path": "lcdmarquees/chromatheme-sony_playstation_vita.jpg",
-      "added": 25,
-      "hash": "d610c1f350bdeb2327bee6ce9e49ccc9"
+      "added": 35,
+      "hash": "aebdb1dc48480358f9a2063fb169545a"
     },
     {
       "path": "lcdmarquees/chromatheme-steam.jpg",
@@ -1789,8 +1949,8 @@
     },
     {
       "path": "lcdmarquees/chromatheme-taito_type_x.jpg",
-      "added": 25,
-      "hash": "c3a0e52551db162f6ee79bd40593354c"
+      "added": 35,
+      "hash": "14d8e0a6e6ae463edd44328c1133155f"
     },
     {
       "path": "lcdmarquees/chromatheme-taito_type_x2.jpg",
@@ -1806,6 +1966,11 @@
       "path": "lcdmarquees/chromatheme-teknoparrot.jpg",
       "added": 25,
       "hash": "a8d605709a988f6e5d510714130c5f31"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-teknoparrot_patreon.jpg",
+      "added": 35,
+      "hash": "a83ff604a6bc9ed98ca4e483a3417707"
     },
     {
       "path": "lcdmarquees/chromatheme-texas_instruments_ti-994a.jpg",
@@ -1828,9 +1993,24 @@
       "hash": "4a00ff2798db5c581f0d5ae3fd54a369"
     },
     {
+      "path": "lcdmarquees/chromatheme-tiger_handheld_electronics.jpg",
+      "added": 35,
+      "hash": "1b3dab933f5e5a618e0ad61bededc46e"
+    },
+    {
       "path": "lcdmarquees/chromatheme-vectrex.jpg",
-      "added": 25,
-      "hash": "f201639197f6d90245e7f1928d0ed2ea"
+      "added": 35,
+      "hash": "e5896c5ef1a42fb15fde39452462d66a"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-virtualboy.jpg",
+      "added": 35,
+      "hash": "adc29b1e0c2bc9d3a1f26cf10b7b0212"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-visualpinball.jpg",
+      "added": 35,
+      "hash": "f0185afacfd3a9f59c61149d5bba4dd7"
     },
     {
       "path": "lcdmarquees/chromatheme-watara_supervision.jpg",
@@ -1871,6 +2051,16 @@
       "path": "lcdmarquees/chromatheme-wow_action_max.jpg",
       "added": 25,
       "hash": "2c0f5d6e01bfb0234a699bc5e4ffd56c"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-zaccaria_pinball.jpg",
+      "added": 35,
+      "hash": "be522444ebfe220ee94810b73090e05f"
+    },
+    {
+      "path": "lcdmarquees/chromatheme-zinc.jpg",
+      "added": 35,
+      "hash": "5c663f013f22b5f3178a1cfd8e0f7cfb"
     },
     {
       "path": "lcdmarquees/chromatheme-zxspectrum.jpg",
@@ -27724,8 +27914,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-3do-tmb.jpg",
-      "added": 25,
-      "hash": "5417d7b4be4af16b50af25ff57626fe8"
+      "added": 35,
+      "hash": "d6ce7286f123aad30e486045b8504eaf"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-4_player_games-tmb.jpg",
+      "added": 35,
+      "hash": "aa74de8df2d42265b830f6c5bc2ea5a7"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-aae-tmb.jpg",
+      "added": 35,
+      "hash": "89c5e737428baa878c7126d022dc5da0"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-american_laser_games-tmb.jpg",
@@ -27734,18 +27934,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-amiga-tmb.jpg",
-      "added": 25,
-      "hash": "d15bbb128cae61bc33c1e08c73bc451c"
+      "added": 35,
+      "hash": "8851e6bc0d80d88679c770d8523b383c"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-amstrad_gx4000-tmb.jpg",
-      "added": 25,
-      "hash": "ade16113371fe7e06c2fcbb9da19a7c7"
+      "added": 35,
+      "hash": "0bef8ce07fcac9fae75295dcd430d08f"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-amstradcpc-tmb.jpg",
-      "added": 25,
-      "hash": "97ea87b0d43e2db22f68d59bf1fad651"
+      "added": 35,
+      "hash": "958593c1fe6ab84b68b9946cbdba9f62"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-android-tmb.jpg",
@@ -27759,8 +27959,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-apple2-tmb.jpg",
-      "added": 25,
-      "hash": "7c1905f47d099bab4ed2a280a1400bdd"
+      "added": 35,
+      "hash": "f06c86ed2d6e6437427ba86552486bf8"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-apple_iigs-tmb.jpg",
@@ -27784,18 +27984,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-atari2600-tmb.jpg",
-      "added": 25,
-      "hash": "1523cb4aa5283bf61d1e00a9c9de34b3"
+      "added": 35,
+      "hash": "52d7a72f69cfbf6b032bd14a576901f2"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-atari5200-tmb.jpg",
-      "added": 25,
-      "hash": "57dcb834a02be50328accdf779366a83"
+      "added": 35,
+      "hash": "d2fbd0839b5a15dae035f8ede559a81e"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-atari7800-tmb.jpg",
-      "added": 25,
-      "hash": "3ff1fd46f391cadac68e372b62be74f9"
+      "added": 35,
+      "hash": "1c5255f867eed9bb7fe4d9b72c9c94a5"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-atari800-tmb.jpg",
@@ -27824,13 +28024,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-atarijaguar-tmb.jpg",
-      "added": 25,
-      "hash": "83f95b45efd3c605552183540e0e4859"
+      "added": 35,
+      "hash": "56919d609c7712d4fcc60f38ae6c9753"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-atarijaguarcd-tmb.jpg",
+      "added": 35,
+      "hash": "7d9a330fa22a4876ff9dc867c3fae0b5"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-atarilynx-tmb.jpg",
-      "added": 25,
-      "hash": "4016d1dcde94e80cb85be374a5e21889"
+      "added": 35,
+      "hash": "6ab24b32e263dc03f26234405e1a4168"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-bally_astrocade-tmb.jpg",
@@ -27839,13 +28044,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-bandai_wonderswan-tmb.jpg",
-      "added": 25,
-      "hash": "1727c0af0d5365caf27c300704dddc78"
+      "added": 35,
+      "hash": "d98f6e69693afc9f4e92427482f9d7bd"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-c64-tmb.jpg",
-      "added": 25,
-      "hash": "b0d4371072a99e585c9f452bbf132620"
+      "added": 35,
+      "hash": "c5738d04fbf43ccb66720100defdb0ee"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-capcom_classics-tmb.jpg",
@@ -27854,18 +28059,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-capcom_play_system-tmb.jpg",
-      "added": 25,
-      "hash": "06cb3318b692ea3e8a53ed2d4af6e621"
+      "added": 35,
+      "hash": "daa50a1abd22e45ef791df976c56c297"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-capcom_play_system_ii-tmb.jpg",
-      "added": 25,
-      "hash": "493d2ae7b9939f5711267e57615c70a4"
+      "added": 35,
+      "hash": "f53267edbcf846c8463d2227a3e1e9ff"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-capcom_play_system_iii-tmb.jpg",
-      "added": 25,
-      "hash": "3523fe9ac0110183410dafd223a02533"
+      "added": 35,
+      "hash": "12d042c8719140d1149d6debd267859b"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-casio_loopy-tmb.jpg",
@@ -27904,8 +28109,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-cave-tmb.jpg",
-      "added": 25,
-      "hash": "3e6fdf5366cfb3d13c9e8d567d4f789c"
+      "added": 35,
+      "hash": "9522d897a7ea1ec758bdd672ae8a0bce"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-clone_hero-tmb.jpg",
@@ -27914,13 +28119,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-coleco-tmb.jpg",
-      "added": 25,
-      "hash": "7cd8fbcd33886b0a4d3e2da5106884fb"
+      "added": 35,
+      "hash": "576fb7531aa915b30018b66a7afcfdc9"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-commodore_128-tmb.jpg",
-      "added": 25,
-      "hash": "f2d1945c6cf02d7472e2b8de7038e66f"
+      "added": 35,
+      "hash": "f9d5d98892228f73e54096e6fd62b6af"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-commodore_16-tmb.jpg",
@@ -27949,13 +28154,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-commodore_vic-20-tmb.jpg",
-      "added": 25,
-      "hash": "43fce390b3220688b2a4e95a95e95aa0"
+      "added": 35,
+      "hash": "7c74d5f8429a2f5c461493c62f410f36"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-daphne-tmb.jpg",
-      "added": 25,
-      "hash": "c6c001d43141474039c212824ecf118d"
+      "added": 35,
+      "hash": "8b2e43e65d518f0e4125edaa4006ea22"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-daphne_singe-tmb.jpg",
+      "added": 35,
+      "hash": "32301d73c9ffecc736f9031ea8abee8e"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-data_east_classics-tmb.jpg",
@@ -27964,18 +28174,23 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-dos-tmb.jpg",
-      "added": 25,
-      "hash": "9d6966f4abafcee428cfe40e34a2e130"
+      "added": 35,
+      "hash": "29c1001c824dddaab8d252c16313b4e7"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-dreamcast-tmb.jpg",
-      "added": 25,
-      "hash": "8b24e91ce026be79ebb1d4c5681329df"
+      "added": 35,
+      "hash": "e0f30a41dbed0772f713bd789eaf57ca"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-driving_games-tmb.jpg",
+      "added": 35,
+      "hash": "1b0d0c427f64dc15bd39099c391f25fc"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-epoch_game_pocket_computer-tmb.jpg",
-      "added": 25,
-      "hash": "5b740bb7d5ba846c7828cbef7683d9b8"
+      "added": 35,
+      "hash": "d6bf52ba04256013f61a62e6ccd7321c"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-epoch_super_cassette_vision-tmb.jpg",
@@ -27993,44 +28208,59 @@
       "hash": "d445570073e4fd34288f734eafa99ee3"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-final_burn_alpha-tmb.jpg",
+      "added": 35,
+      "hash": "2a741e3873b400c110aff3cd2c3bfaa1"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-fujitsu_fm_towns-tmb.jpg",
       "added": 25,
       "hash": "1bdb8cea46f3e59486fc3f5184e8fd87"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-futurepinball-tmb.jpg",
+      "added": 35,
+      "hash": "d7bd9ee8f4dac76e14362f40988cbe83"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-gamegear-tmb.jpg",
-      "added": 25,
-      "hash": "05c349a6a5eaf431e73c9ce7919bb449"
+      "added": 35,
+      "hash": "981737fdd3fc03b097f94e6b63784131"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-gb-tmb.jpg",
-      "added": 25,
-      "hash": "797a498c67240a149901721a123dc729"
+      "added": 35,
+      "hash": "3226c3184da6513f6c1c757b39f81cbf"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-gba-tmb.jpg",
-      "added": 25,
-      "hash": "d8791cad663d187b8c695205d01c4eaa"
+      "added": 35,
+      "hash": "d8d2163819601e8472421c5cba4b643f"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-gbc-tmb.jpg",
-      "added": 25,
-      "hash": "72bad81e10701672bb817b71beb93c0e"
+      "added": 35,
+      "hash": "85b23415c1ee725ed1ad91de7d814295"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-genesis-tmb.jpg",
-      "added": 25,
-      "hash": "0e35204c653e52695a99c99eeeb25115"
+      "added": 35,
+      "hash": "a34782c3bcdace90ef922c6f1a8ac8d2"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-gun_games-tmb.jpg",
-      "added": 25,
-      "hash": "e0fedbe8a0fdbc32f3194c341209bc04"
+      "added": 35,
+      "hash": "580197818ce5cef60458628215ba23ab"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-gun_games_(sinden)-tmb.jpg",
+      "added": 35,
+      "hash": "580197818ce5cef60458628215ba23ab"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-intellivision-tmb.jpg",
-      "added": 25,
-      "hash": "b9ea3f55e994dea6aaf4f6c7e25b8540"
+      "added": 35,
+      "hash": "04d2609df2e23f50cf36da2bef312031"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-irem_classics-tmb.jpg",
@@ -28038,9 +28268,19 @@
       "hash": "9d9c92e771de352f3eb74fe219f39ba7"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-jackbox_games-tmb.jpg",
+      "added": 35,
+      "hash": "428e5844b20cd6f58cdd625904e70303"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-konami_classics-tmb.jpg",
       "added": 25,
       "hash": "58d626f84237841342bae6dc593e95a7"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-konami_handheld-tmb.jpg",
+      "added": 35,
+      "hash": "343999bca103ae077b072bbe52969b19"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-konami_handheld_electronics-tmb.jpg",
@@ -28058,29 +28298,49 @@
       "hash": "b72c2e48ce1c2f70366a7113e6763274"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-magazines-tmb.jpg",
+      "added": 35,
+      "hash": "ec43a2cb985f288a8cb9ad82a2e9e183"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-magnavox_odyssey-tmb.jpg",
+      "added": 35,
+      "hash": "2513e75e5ddeaa9efe8645909ba71e1f"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-magnavox_odyssey_2-tmb.jpg",
-      "added": 25,
-      "hash": "3b5d2da06834d587c1614554f5253909"
+      "added": 35,
+      "hash": "754c302e9bd70898918d635facf78ea1"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-mame-tmb.jpg",
-      "added": 26,
-      "hash": "55a93951929bedcf13463a62731cd108"
+      "added": 35,
+      "hash": "a52649dffac247a8b4d657aee77dceae"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-mastersystem-tmb.jpg",
-      "added": 25,
-      "hash": "3b751730ab7569ed330c249be881c5d0"
+      "added": 35,
+      "hash": "8de86e4c1fa15af9ac24a16577ba40f1"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-mattel_intellivision-tmb.jpg",
+      "added": 35,
+      "hash": "04d2609df2e23f50cf36da2bef312031"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-megadrive-tmb.jpg",
-      "added": 25,
-      "hash": "eb7bd785a7fdb776f0618bb2fe8c72c4"
+      "added": 35,
+      "hash": "1ab846ead71ed2eee46d48a47077ede2"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-megaduck-tmb.jpg",
       "added": 25,
       "hash": "8085a0dd449e30aad1b918d410916b04"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-micorsoft_windows_3.x-tmb.jpg",
+      "added": 35,
+      "hash": "7c8d3c79cd00ecdcb75d304e4ab2fb31"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-microsoft_game_pass-tmb.jpg",
@@ -28104,8 +28364,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-microsoft_xbox-tmb.jpg",
-      "added": 25,
-      "hash": "fcc23e86fe16a3a0a72732fa959ff3a7"
+      "added": 35,
+      "hash": "0a203fb8895509f0f0f244c91df13e64"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-microsoft_xbox_360-tmb.jpg",
@@ -28129,8 +28389,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-msx-tmb.jpg",
-      "added": 25,
-      "hash": "90102a526f9e1a7592c2ee0b3105c138"
+      "added": 35,
+      "hash": "1e9e6d7cc9de88d849628aa1d1e45cca"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-msx2-tmb.jpg",
@@ -28144,8 +28404,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-n64-tmb.jpg",
-      "added": 25,
-      "hash": "cf7d02028857c000eab5a7aafa5d19b2"
+      "added": 35,
+      "hash": "555b93fe8a5341e0bf2d92acde577617"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-n64dd-tmb.jpg",
+      "added": 35,
+      "hash": "364eb89c36d1d0acfb6f3eaa0c505b78"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-namco_classics-tmb.jpg",
@@ -28179,8 +28444,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nec_supergrafx-tmb.jpg",
-      "added": 25,
-      "hash": "d54fbd57034b536b44d490212ceecb25"
+      "added": 35,
+      "hash": "277f9bf43e781f6c4b1e1c0f3ed7eec0"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nec_turbografx-16-tmb.jpg",
@@ -28188,19 +28453,29 @@
       "hash": "1cba62be0cb207a889577360ffb1fe7f"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-nec_turbografx_16-tmb.jpg",
+      "added": 35,
+      "hash": "c9f13ea7cfbc2ff524492862926338a7"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-nec_turbografx_cd-tmb.jpg",
-      "added": 25,
-      "hash": "68a551ccce70938fb08a3340312391f1"
+      "added": 35,
+      "hash": "7a87da50dcfd34b546066c49450df6bc"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-neogeo-tmb.jpg",
+      "added": 35,
+      "hash": "ee4f605e3f9df2961cbffaa0b33db0d6"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nes-tmb.jpg",
-      "added": 25,
-      "hash": "22025c9b378606b3b8ef2071dcce8ca3"
+      "added": 35,
+      "hash": "ecfac649c01acf118c9adaa88bb1b7af"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nesicaxlive-tmb.jpg",
-      "added": 25,
-      "hash": "0a50f7d13b70b9604b5e65e304e33907"
+      "added": 35,
+      "hash": "da62a79cacd602bd44c6b6b2ac574d17"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-ngp-tmb.jpg",
@@ -28214,13 +28489,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_3ds-tmb.jpg",
-      "added": 25,
-      "hash": "92b152a4f32b033b540888adf56525c0"
+      "added": 35,
+      "hash": "d1270034a4bc212b30350377371aa114"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_64dd-tmb.jpg",
-      "added": 25,
-      "hash": "b809bd571b5122b386bb5d84eb045167"
+      "added": 35,
+      "hash": "364eb89c36d1d0acfb6f3eaa0c505b78"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_classics-tmb.jpg",
@@ -28238,24 +28513,29 @@
       "hash": "aa90d4f7b17fd495d500d19d7624481d"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-nintendo_entertainment_system_3d-tmb.jpg",
+      "added": 35,
+      "hash": "f79613b4bc66a36249d5277ba6474e64"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_famicom-tmb.jpg",
-      "added": 25,
-      "hash": "f3dc14f10145716824363e20b4494b5b"
+      "added": 35,
+      "hash": "839895a0826d98c09b6a8591c87716bb"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_famicom_disk_system-tmb.jpg",
-      "added": 25,
-      "hash": "5c0947cec08d2984710e4c9edc74fb82"
+      "added": 35,
+      "hash": "adfc20f00966642bcff2c6aa3392e49f"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_game_and_watch-tmb.jpg",
-      "added": 25,
-      "hash": "84f4f8516f6922f06d1ecb7619de7621"
+      "added": 35,
+      "hash": "3c53ce8c78df1331c102f7f934fb3911"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_gamecube-tmb.jpg",
-      "added": 25,
-      "hash": "57031a572aa6629fb2868c4862164cf1"
+      "added": 35,
+      "hash": "03e24f401f5e4232d97d1efa445ce228"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_satellaview-tmb.jpg",
@@ -28274,8 +28554,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_super_game_boy-tmb.jpg",
-      "added": 25,
-      "hash": "75ff9a5e2f540275b72eb6ce4be430da"
+      "added": 35,
+      "hash": "50be3733f4a285f08fdd20be7304819e"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_super_game_boy_(eu)-tmb.jpg",
@@ -28284,18 +28564,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_switch-tmb.jpg",
-      "added": 25,
-      "hash": "b0a47e86ec6098ca75a48569a52fbe91"
+      "added": 35,
+      "hash": "acd79426acc1089c448a42ccd58347d1"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_virtual_boy-tmb.jpg",
-      "added": 25,
-      "hash": "313db1678a54f6ee9ee9636757328bb0"
+      "added": 35,
+      "hash": "34ee4713867265d800c3c46c248bd7b6"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_wii-tmb.jpg",
-      "added": 25,
-      "hash": "8a4a9cc72f10851d3cb97491963789a1"
+      "added": 35,
+      "hash": "ef6a21797f902135591258634c37514e"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-nintendo_wii_u-tmb.jpg",
@@ -28318,9 +28598,19 @@
       "hash": "036ddb50766485673efdf7b45cff65ed"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-panasonic_3do-tmb.jpg",
+      "added": 35,
+      "hash": "d6ce7286f123aad30e486045b8504eaf"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-pc-tmb.jpg",
+      "added": 35,
+      "hash": "a0c87e229bb5a577f613ac5c3366a496"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-pcengine-tmb.jpg",
-      "added": 25,
-      "hash": "bf9077859ae64d2843980e0930aa34e2"
+      "added": 35,
+      "hash": "e8d00eb0bf25dd1098bc8d54afbe3d0d"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-philips_cd-i-tmb.jpg",
@@ -28343,9 +28633,39 @@
       "hash": "c6022f8add4daee21b1dfc9ac3577047"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-pinball_arcade-tmb.jpg",
+      "added": 35,
+      "hash": "2ccaf4fc59c94ca15eb2925a93dad758"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-pinball_fx-tmb.jpg",
+      "added": 35,
+      "hash": "bd2200d1b755d9f55ecc1cc35f342f70"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-pinball_fx2-tmb.jpg",
+      "added": 35,
+      "hash": "cd8bf8a2b9c506a9f20e66e2ad13be16"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-pinball_fx3-tmb.jpg",
+      "added": 35,
+      "hash": "fdf28474af2eb302e11e8e8865f56ac8"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-pinball_m-tmb.jpg",
+      "added": 35,
+      "hash": "d0260e540ee4a3fd2b44b2312e75d6b4"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-ps2-tmb.jpg",
-      "added": 25,
-      "hash": "f4c9d98b5ac5d25e0432ba42176e2ebe"
+      "added": 35,
+      "hash": "5981343521f1b529e618084c347549e0"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-ps3-tmb.jpg",
+      "added": 35,
+      "hash": "7122d63e7b87377baebbcea983207746"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-ps4-tmb.jpg",
@@ -28358,14 +28678,19 @@
       "hash": "77bb9892297392de40631a8441d50a64"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-psikyo-tmb.jpg",
+      "added": 35,
+      "hash": "067b86d78248b9abe6ae1701d15cea17"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-psp-tmb.jpg",
-      "added": 25,
-      "hash": "8c481e1357e43dd60f0ee458d30b7275"
+      "added": 35,
+      "hash": "fa7f5399669f21c5e9b239dd4484d56c"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-psx-tmb.jpg",
-      "added": 25,
-      "hash": "9eb40fb99b85628d1993082aa5459817"
+      "added": 35,
+      "hash": "62ee273ed81263e4ba0fabda585809bf"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-raw_thrills-tmb.jpg",
@@ -28374,8 +28699,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sammy_atomiswave-tmb.jpg",
-      "added": 25,
-      "hash": "527e3e59b4aa1ebb7e5ec26900a15b85"
+      "added": 35,
+      "hash": "40f97a8f472a486d24994669d338cd62"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-saturn-tmb.jpg",
@@ -28384,18 +28709,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-scummvm-tmb.jpg",
-      "added": 25,
-      "hash": "dc7e0aaeb0ec76fb0cae37e4cb6a4732"
+      "added": 35,
+      "hash": "6f14882e9beb6d44f1385a40789c458d"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sega32x-tmb.jpg",
-      "added": 25,
-      "hash": "469d9a35e043a666465efbd9fef110ea"
+      "added": 35,
+      "hash": "d0529f5549b7fea9e3f2bddecda381a0"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sega_cd_32x-tmb.jpg",
-      "added": 25,
-      "hash": "be76b54e108d89651b8e7302205f69f1"
+      "added": 35,
+      "hash": "a2796a0c73d69c7b82a9cf8589bb3940"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sega_chihiro-tmb.jpg",
@@ -28416,6 +28741,11 @@
       "path": "lcdmarquees/thumbnails/chromatheme-sega_europa-r-tmb.jpg",
       "added": 25,
       "hash": "3bc467785c5d686efc53b5eb67a1d027"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_game_gear_japan-tmb.jpg",
+      "added": 35,
+      "hash": "132f5dd9f8bc33c09019f9b88b0f052c"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sega_hikaru-tmb.jpg",
@@ -28449,8 +28779,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sega_naomi-tmb.jpg",
-      "added": 25,
-      "hash": "86fda087f00ea45141ad687592921f12"
+      "added": 35,
+      "hash": "7639b13f6219bd8099d71953fc8af40a"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sega_naomi_2-tmb.jpg",
@@ -28463,6 +28793,11 @@
       "hash": "2b6eba25517e14ac3b32d88ffd8361c0"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_ring-tmb.jpg",
+      "added": 35,
+      "hash": "b7f1e3b6b32429a22a894ed39a2f4053"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-sega_ringedge-tmb.jpg",
       "added": 25,
       "hash": "39ce1382010f0579f36cc1a2ebdc494c"
@@ -28473,9 +28808,19 @@
       "hash": "9080afdc1e43824692ff3d581d56aed9"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_saturn-tmb.jpg",
+      "added": 35,
+      "hash": "7d63ac660af3b8077be02dea9486ec20"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-sega_saturn_(jap)-tmb.jpg",
       "added": 25,
       "hash": "a5ac6fd5f5d34a7b8a84f222d61e7083"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-sega_sg-1000-tmb.jpg",
+      "added": 35,
+      "hash": "ca22dec61ce25153cbae8d881c66b16a"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sega_st-v-tmb.jpg",
@@ -28494,8 +28839,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-segacd-tmb.jpg",
-      "added": 25,
-      "hash": "7aeff0723d8b8b3c2be3f204c00cbe4d"
+      "added": 35,
+      "hash": "39fb82b561c381a2716fd1d1b03f6d08"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sg-1000-tmb.jpg",
@@ -28514,8 +28859,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-snes-tmb.jpg",
-      "added": 25,
-      "hash": "519fe7146c8dd54eb33b6cf8f6c79e5e"
+      "added": 35,
+      "hash": "7e4bed068d6daf53b315b03c9d4b1039"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-snk_classics-tmb.jpg",
@@ -28529,18 +28874,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-snk_neo_geo_aes-tmb.jpg",
-      "added": 25,
-      "hash": "cfe2ab43376550d84f099b72a4affa1d"
+      "added": 35,
+      "hash": "fd62544617d1345434720439c316bd6a"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-snk_neo_geo_cd-tmb.jpg",
-      "added": 25,
-      "hash": "137d8f134aeb7b38ff675ea279ad36fc"
+      "added": 35,
+      "hash": "4584f603360a6a396e5769fbec71b608"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-snk_neo_geo_mvs-tmb.jpg",
-      "added": 25,
-      "hash": "615bf8011356808397b7da1bc451af28"
+      "added": 35,
+      "hash": "ee4f605e3f9df2961cbffaa0b33db0d6"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sony_playstation_3-tmb.jpg",
@@ -28548,14 +28893,19 @@
       "hash": "5312c4efa317fa492121be5e8a951e1c"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-sony_playstation_5-tmb.jpg",
+      "added": 35,
+      "hash": "9c6fce8bc31db531d6cd1ffb69a62f88"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-sony_playstation_minis-tmb.jpg",
-      "added": 25,
-      "hash": "5ac019cbd28d68e78685e771636a7d97"
+      "added": 35,
+      "hash": "a12d94d4f33b44d0e8d90d1856810f0f"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-sony_playstation_vita-tmb.jpg",
-      "added": 25,
-      "hash": "aedeb189dadf63da817c1c35bd7f6607"
+      "added": 35,
+      "hash": "ca3263e30d84569d7e0eaaf860a22037"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-steam-tmb.jpg",
@@ -28584,8 +28934,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-taito_type_x-tmb.jpg",
-      "added": 25,
-      "hash": "2e6022558d5192971175b4d894024205"
+      "added": 35,
+      "hash": "58c6e62ac52789796aec7db101155f9f"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-taito_type_x2-tmb.jpg",
@@ -28601,6 +28951,11 @@
       "path": "lcdmarquees/thumbnails/chromatheme-teknoparrot-tmb.jpg",
       "added": 25,
       "hash": "8ebd14719cf69b697fc0eb91b159b95f"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-teknoparrot_patreon-tmb.jpg",
+      "added": 35,
+      "hash": "11236dae1e46f06d7aaa54a9b5e72fe2"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-texas_instruments_ti-994a-tmb.jpg",
@@ -28623,9 +28978,24 @@
       "hash": "f51d0a7f35169a702c241a86f558a9a0"
     },
     {
+      "path": "lcdmarquees/thumbnails/chromatheme-tiger_handheld_electronics-tmb.jpg",
+      "added": 35,
+      "hash": "981d050f566f3e033d3f1bb123415d0c"
+    },
+    {
       "path": "lcdmarquees/thumbnails/chromatheme-vectrex-tmb.jpg",
-      "added": 25,
-      "hash": "84fd9d2236f7efd26ca9fa63d0fbe70b"
+      "added": 35,
+      "hash": "c49fe5febac4b782d6e3ab38f2f8c28e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-virtualboy-tmb.jpg",
+      "added": 35,
+      "hash": "34ee4713867265d800c3c46c248bd7b6"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-visualpinball-tmb.jpg",
+      "added": 35,
+      "hash": "ec1784092a4e344321f6c57da0bf7ceb"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-watara_supervision-tmb.jpg",
@@ -28666,6 +29036,16 @@
       "path": "lcdmarquees/thumbnails/chromatheme-wow_action_max-tmb.jpg",
       "added": 25,
       "hash": "ba3d86ffa63c47e4074925cacef53bea"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-zaccaria_pinball-tmb.jpg",
+      "added": 35,
+      "hash": "acddad720843036e146f6adac1f7e672"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/chromatheme-zinc-tmb.jpg",
+      "added": 35,
+      "hash": "ee3b559c1b8256cd9c35151a6a882d03"
     },
     {
       "path": "lcdmarquees/thumbnails/chromatheme-zxspectrum-tmb.jpg",
