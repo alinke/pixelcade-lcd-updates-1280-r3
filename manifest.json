@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "base_version": 19,
   "files": [
     {
@@ -25149,8 +25149,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-atari5200.jpg",
-      "added": 28,
-      "hash": "31a95206358049861faa3c5a479d174f"
+      "added": 36,
+      "hash": "34ceba5ac78f94d3cbef9d5d3cafc9b3"
     },
     {
       "path": "lcdmarquees/synththeme-atari7800.jpg",
@@ -25174,8 +25174,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-atari_5200.jpg",
-      "added": 28,
-      "hash": "31a95206358049861faa3c5a479d174f"
+      "added": 36,
+      "hash": "34ceba5ac78f94d3cbef9d5d3cafc9b3"
     },
     {
       "path": "lcdmarquees/synththeme-atari_7800.jpg",
@@ -25214,8 +25214,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-atomiswave.jpg",
-      "added": 31,
-      "hash": "c2437befb91a0bb6cab942f57e3e9ab2"
+      "added": 36,
+      "hash": "7da7c46d5c13e28fa8475872cfa69947"
     },
     {
       "path": "lcdmarquees/synththeme-auto-adult.jpg",
@@ -25609,8 +25609,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-fbneo.jpg",
-      "added": 28,
-      "hash": "15e8a7eaaf131dd86a3ab3d2789b9083"
+      "added": 36,
+      "hash": "754e7076d68317f8fa1e4039f6ca4f5b"
     },
     {
       "path": "lcdmarquees/synththeme-fightcade.jpg",
@@ -25679,8 +25679,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-gog.jpg",
-      "added": 25,
-      "hash": "fdedeee2064745901c68fd48fc6dfd94"
+      "added": 36,
+      "hash": "d002c9c40326e5e751f4731c19160007"
     },
     {
       "path": "lcdmarquees/synththeme-guitar_hero.jpg",
@@ -25729,8 +25729,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-iptv.jpg",
-      "added": 33,
-      "hash": "d10d0785aae0372c406276802e48ca5f"
+      "added": 36,
+      "hash": "b89c20570ef9cf552c17eb009c95116c"
     },
     {
       "path": "lcdmarquees/synththeme-irem_classics.jpg",
@@ -25774,8 +25774,13 @@
     },
     {
       "path": "lcdmarquees/synththeme-locomalito.jpg",
-      "added": 34,
-      "hash": "057676c78bcc79cae3fc60a651ed9989"
+      "added": 36,
+      "hash": "3aa51aedffcab1e09f85d0deb382fca1"
+    },
+    {
+      "path": "lcdmarquees/synththeme-locomalito_games.jpg",
+      "added": 36,
+      "hash": "3aa51aedffcab1e09f85d0deb382fca1"
     },
     {
       "path": "lcdmarquees/synththeme-lynx.jpg",
@@ -26169,8 +26174,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-pacmame.jpg",
-      "added": 25,
-      "hash": "c88205fb30e9765f01d46890ccbab3d0"
+      "added": 36,
+      "hash": "6fab66881ad254b24ad2c53050ad0504"
     },
     {
       "path": "lcdmarquees/synththeme-pc.jpg",
@@ -26334,8 +26339,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-sammy_atomiswave.jpg",
-      "added": 30,
-      "hash": "c2437befb91a0bb6cab942f57e3e9ab2"
+      "added": 36,
+      "hash": "7da7c46d5c13e28fa8475872cfa69947"
     },
     {
       "path": "lcdmarquees/synththeme-scummvm.jpg",
@@ -26379,8 +26384,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-sega_game_gear_japan.jpg",
-      "added": 24,
-      "hash": "632ee44abbf76104bb57f2a1f02b64f1"
+      "added": 36,
+      "hash": "9bbe187bc990314416605e16d3c9f6e7"
     },
     {
       "path": "lcdmarquees/synththeme-sega_hikaru.jpg",
@@ -26494,8 +26499,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-sega_triforce.jpg",
-      "added": 25,
-      "hash": "29805b9f5b4db9d0e089d64bbe4c5c97"
+      "added": 36,
+      "hash": "eaf51fdaa62aaa69f2c4612e19c1a0e8"
     },
     {
       "path": "lcdmarquees/synththeme-sega_vmu.jpg",
@@ -26584,8 +26589,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-snk_neo_geo_mvs.jpg",
-      "added": 24,
-      "hash": "75886b7a8decdf86b444648947c2e6f3"
+      "added": 36,
+      "hash": "fa16add88616b2e993cc57bbd0ff6e17"
     },
     {
       "path": "lcdmarquees/synththeme-snk_neo_geo_pocket.jpg",
@@ -26654,8 +26659,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-step_mania.jpg",
-      "added": 25,
-      "hash": "ffe68a44188c57b6cb9259d681807fb7"
+      "added": 36,
+      "hash": "bfbc1ae75ba064e344573ad95ef23480"
     },
     {
       "path": "lcdmarquees/synththeme-sufami.jpg",
@@ -26714,8 +26719,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-taito_type_x.jpg",
-      "added": 24,
-      "hash": "e85b476e1bbb203caf2bdf662a3f64d0"
+      "added": 36,
+      "hash": "16befa121e9e4a14d826de1280ff6298"
     },
     {
       "path": "lcdmarquees/synththeme-teknoparrot.jpg",
@@ -26794,8 +26799,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-vectrex.jpg",
-      "added": 24,
-      "hash": "b6c7ce376a0ee9bb14341d6e96c79180"
+      "added": 36,
+      "hash": "704e009477dfd3a592df9ba06aa6e2e5"
     },
     {
       "path": "lcdmarquees/synththeme-vertically_oriented_games.jpg",
@@ -52119,8 +52124,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-atari5200-tmb.jpg",
-      "added": 28,
-      "hash": "1e81459a9b35a1b055f1699e077901ce"
+      "added": 36,
+      "hash": "61cff448b6b828a2d4756be3117b6eb5"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-atari7800-tmb.jpg",
@@ -52144,8 +52149,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-atari_5200-tmb.jpg",
-      "added": 28,
-      "hash": "1e81459a9b35a1b055f1699e077901ce"
+      "added": 36,
+      "hash": "61cff448b6b828a2d4756be3117b6eb5"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-atari_7800-tmb.jpg",
@@ -52184,8 +52189,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-atomiswave-tmb.jpg",
-      "added": 31,
-      "hash": "017111064802536852ef7c56be2f771f"
+      "added": 36,
+      "hash": "a907e3defef174a2aac999aefbbf1d34"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-auto-adult-tmb.jpg",
@@ -52579,8 +52584,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-fbneo-tmb.jpg",
-      "added": 28,
-      "hash": "eb6c5b6b6312958689f8625a27d6b3b4"
+      "added": 36,
+      "hash": "892deb33d5d563f844eedde241b99073"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-fightcade-tmb.jpg",
@@ -52649,8 +52654,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-gog-tmb.jpg",
-      "added": 25,
-      "hash": "784dec74e89f38e6282ebcbca3a7dde4"
+      "added": 36,
+      "hash": "377f8dc9c89d474d5e80b790468b19f8"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-guitar_hero-tmb.jpg",
@@ -52699,8 +52704,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-iptv-tmb.jpg",
-      "added": 33,
-      "hash": "7dc2467e89b22897c6f98045919971c2"
+      "added": 36,
+      "hash": "f95e90718ebeb3d465c76efc73c6cb44"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-irem_classics-tmb.jpg",
@@ -52744,8 +52749,13 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-locomalito-tmb.jpg",
-      "added": 34,
-      "hash": "dc61bda5332d376b5d2b65847ccb4c33"
+      "added": 36,
+      "hash": "ea0fd4a97001c6720d4003ea2307866e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-locomalito_games-tmb.jpg",
+      "added": 36,
+      "hash": "ea0fd4a97001c6720d4003ea2307866e"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-lynx-tmb.jpg",
@@ -53139,8 +53149,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-pacmame-tmb.jpg",
-      "added": 25,
-      "hash": "f33510770377cb44e87b6f3bedcb97d8"
+      "added": 36,
+      "hash": "5d6f6aa4a691f41419db12bac51d4320"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-pc-tmb.jpg",
@@ -53304,8 +53314,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sammy_atomiswave-tmb.jpg",
-      "added": 30,
-      "hash": "017111064802536852ef7c56be2f771f"
+      "added": 36,
+      "hash": "a907e3defef174a2aac999aefbbf1d34"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-scummvm-tmb.jpg",
@@ -53349,8 +53359,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega_game_gear_japan-tmb.jpg",
-      "added": 24,
-      "hash": "88131243c219975f286f864d4010db2c"
+      "added": 36,
+      "hash": "9901ddefc8827f19d7e53d212b8a6b9c"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega_hikaru-tmb.jpg",
@@ -53464,8 +53474,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega_triforce-tmb.jpg",
-      "added": 25,
-      "hash": "9e6a9b66cdd2accc461b400f8eececbd"
+      "added": 36,
+      "hash": "fd643a1812684fb86adc389d4679c07b"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega_vmu-tmb.jpg",
@@ -53554,8 +53564,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-snk_neo_geo_mvs-tmb.jpg",
-      "added": 24,
-      "hash": "46bddda6d09730bd0fac3c1eb1764728"
+      "added": 36,
+      "hash": "3642150011425bffb28a10ce50042f58"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-snk_neo_geo_pocket-tmb.jpg",
@@ -53624,8 +53634,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-step_mania-tmb.jpg",
-      "added": 25,
-      "hash": "4cf8a1a5dfbed328e8bb8fe0b0e500f6"
+      "added": 36,
+      "hash": "befcb73904b82aa92ce4089d6a39563c"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sufami-tmb.jpg",
@@ -53684,8 +53694,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-taito_type_x-tmb.jpg",
-      "added": 24,
-      "hash": "9d8d8d28b412618b4be99afa31190603"
+      "added": 36,
+      "hash": "1630c92bdd8458cc23d6cb3c47b4b43b"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-teknoparrot-tmb.jpg",
@@ -53764,8 +53774,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-vectrex-tmb.jpg",
-      "added": 24,
-      "hash": "232309b480fac97c3e91da9e2ae39703"
+      "added": 36,
+      "hash": "12a96a85da67721d573936edf3bb882a"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-vertically_oriented_games-tmb.jpg",
