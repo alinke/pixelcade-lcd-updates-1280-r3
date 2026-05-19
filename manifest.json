@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "base_version": 19,
   "files": [
     {
@@ -25564,8 +25564,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-entex_adventure_vision.jpg",
-      "added": 25,
-      "hash": "37d5b4228c5d339edd6ed22c32ab9a49"
+      "added": 37,
+      "hash": "f516224821f53d4fdd7729b35d0712c0"
     },
     {
       "path": "lcdmarquees/synththeme-epoch_game_pocket.jpg",
@@ -25954,8 +25954,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-nec_supergrafx.jpg",
-      "added": 25,
-      "hash": "d0c0a09859163f5d78bc382235095152"
+      "added": 37,
+      "hash": "1c5ee834d4fc5ebbe35fd225ac6a2ce9"
     },
     {
       "path": "lcdmarquees/synththeme-nec_turbografx-16.jpg",
@@ -25963,9 +25963,19 @@
       "hash": "b23e5120ab25430d8521a27e9a6e2952"
     },
     {
+      "path": "lcdmarquees/synththeme-nec_turbografx-cd 2.jpg",
+      "added": 37,
+      "hash": "9a8953a367b8b08249cc9683f3fa57f3"
+    },
+    {
+      "path": "lcdmarquees/synththeme-nec_turbografx-cd.jpg",
+      "added": 37,
+      "hash": "9a8953a367b8b08249cc9683f3fa57f3"
+    },
+    {
       "path": "lcdmarquees/synththeme-nec_turbografx_cd.jpg",
-      "added": 28,
-      "hash": "dfe74c41596c687248d7c03283503610"
+      "added": 37,
+      "hash": "9a8953a367b8b08249cc9683f3fa57f3"
     },
     {
       "path": "lcdmarquees/synththeme-neogeo.jpg",
@@ -26014,8 +26024,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_3ds.jpg",
-      "added": 25,
-      "hash": "3d0953e3587ea127e632656b2e80f07d"
+      "added": 37,
+      "hash": "a02d0f4247aac9e75a446a87d0b48e1c"
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_3ds_eshop.jpg",
@@ -26049,8 +26059,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_ds.jpg",
-      "added": 25,
-      "hash": "6ba375cdd05995cf9bca3324798912fa"
+      "added": 37,
+      "hash": "f97028a25559b61369b04fef8286f68c"
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_entertainment_system_3d.jpg",
@@ -26089,8 +26099,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_gamecube.jpg",
-      "added": 24,
-      "hash": "df698918c5c50d99bd5d0bc7a52cfcbc"
+      "added": 37,
+      "hash": "aaba373e207c4f38a6462615cf1faa8a"
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_gamecube_asia.jpg",
@@ -26119,8 +26129,18 @@
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_sufami_turbo.jpg",
-      "added": 32,
-      "hash": "d64a7aa2005abd33379d653f5602d553"
+      "added": 37,
+      "hash": "4277d98bfd015769315cbef7f6127b89"
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_sufami_turbo_ 2.jpg",
+      "added": 37,
+      "hash": "4277d98bfd015769315cbef7f6127b89"
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_sufami_turbo_.jpg",
+      "added": 37,
+      "hash": "4277d98bfd015769315cbef7f6127b89"
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_super_famicom.jpg",
@@ -26129,18 +26149,38 @@
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_super_game_boy.jpg",
-      "added": 25,
-      "hash": "4c55ef313730102e6ba4c8298eef3916"
+      "added": 37,
+      "hash": "5733f09850c9bd206f377ad4856d9e79"
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_super_gameboy 2.jpg",
+      "added": 37,
+      "hash": "5733f09850c9bd206f377ad4856d9e79"
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_super_gameboy.jpg",
+      "added": 37,
+      "hash": "5733f09850c9bd206f377ad4856d9e79"
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_switch.jpg",
-      "added": 24,
-      "hash": "da5449b4f523fd109926a5bb187bc8c8"
+      "added": 37,
+      "hash": "a6a761182c6d11d73cb1c26b3d3870e7"
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_wii.jpg",
-      "added": 28,
-      "hash": "9bdf03b6979ea7d57697aa3971a9ad4f"
+      "added": 37,
+      "hash": "7e91a20fb4c7b5d5e7cfb9705ee8d15d"
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_wii_classic 2.jpg",
+      "added": 37,
+      "hash": "7e91a20fb4c7b5d5e7cfb9705ee8d15d"
+    },
+    {
+      "path": "lcdmarquees/synththeme-nintendo_wii_classic.jpg",
+      "added": 37,
+      "hash": "7e91a20fb4c7b5d5e7cfb9705ee8d15d"
     },
     {
       "path": "lcdmarquees/synththeme-nintendo_wii_u.jpg",
@@ -26254,8 +26294,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-ps2.jpg",
-      "added": 28,
-      "hash": "48993ae57adc2459e760a3002fcca433"
+      "added": 37,
+      "hash": "cf6e619845553b929cb267296d1601b3"
     },
     {
       "path": "lcdmarquees/synththeme-ps3.jpg",
@@ -26359,8 +26399,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-sega_ages.jpg",
-      "added": 25,
-      "hash": "06f2d8d4220997e0a3e99765db016afa"
+      "added": 37,
+      "hash": "e7fbaa619ac53a9eb1b73b42cb514ee3"
     },
     {
       "path": "lcdmarquees/synththeme-sega_cd_32x.jpg",
@@ -26381,6 +26421,16 @@
       "path": "lcdmarquees/synththeme-sega_dreamcast_indies.jpg",
       "added": 25,
       "hash": "ecd092315d4d51c1f41095ca36c75401"
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_game_gear 2.jpg",
+      "added": 37,
+      "hash": "e08bd699f6058ea05d619d5fead44140"
+    },
+    {
+      "path": "lcdmarquees/synththeme-sega_game_gear.jpg",
+      "added": 37,
+      "hash": "e08bd699f6058ea05d619d5fead44140"
     },
     {
       "path": "lcdmarquees/synththeme-sega_game_gear_japan.jpg",
@@ -26624,18 +26674,28 @@
     },
     {
       "path": "lcdmarquees/synththeme-sony_playstation_minis.jpg",
-      "added": 24,
-      "hash": "92ef0d493839181743041393215b95d4"
+      "added": 37,
+      "hash": "66723ac41f2371d12ea34c7cc75c0d62"
     },
     {
       "path": "lcdmarquees/synththeme-sony_playstation_vita.jpg",
-      "added": 24,
-      "hash": "26022782f69556e7fd495874fca8013d"
+      "added": 37,
+      "hash": "464202676c5e999585047dac5f4674de"
     },
     {
       "path": "lcdmarquees/synththeme-sony_pocketstation.jpg",
       "added": 25,
       "hash": "c3b7dc06f964b8147e7cf3c4126bb289"
+    },
+    {
+      "path": "lcdmarquees/synththeme-sony_psp_minis 2.jpg",
+      "added": 37,
+      "hash": "66723ac41f2371d12ea34c7cc75c0d62"
+    },
+    {
+      "path": "lcdmarquees/synththeme-sony_psp_minis.jpg",
+      "added": 37,
+      "hash": "66723ac41f2371d12ea34c7cc75c0d62"
     },
     {
       "path": "lcdmarquees/synththeme-sord_m5.jpg",
@@ -26664,8 +26724,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-sufami.jpg",
-      "added": 32,
-      "hash": "d64a7aa2005abd33379d653f5602d553"
+      "added": 37,
+      "hash": "4277d98bfd015769315cbef7f6127b89"
     },
     {
       "path": "lcdmarquees/synththeme-super_game_boy.jpg",
@@ -26814,8 +26874,8 @@
     },
     {
       "path": "lcdmarquees/synththeme-vintage_commercials.jpg",
-      "added": 25,
-      "hash": "e70e886eefe1e787ef0426059f9b905e"
+      "added": 37,
+      "hash": "70744e45971163eaeabc2dd665d0b01e"
     },
     {
       "path": "lcdmarquees/synththeme-virtualboy.jpg",
@@ -52539,8 +52599,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-entex_adventure_vision-tmb.jpg",
-      "added": 25,
-      "hash": "097f3afc2b8668c7577cd5ae75eb1784"
+      "added": 37,
+      "hash": "cc4911388453e6a17313ae918d228be6"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-epoch_game_pocket-tmb.jpg",
@@ -52929,8 +52989,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nec_supergrafx-tmb.jpg",
-      "added": 25,
-      "hash": "55f4c341fb79a737934e9d2e80843136"
+      "added": 37,
+      "hash": "5064350dca3bec23548c342accd1214f"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nec_turbografx-16-tmb.jpg",
@@ -52938,9 +52998,19 @@
       "hash": "fe4031903e26b38ae3ea2f9a7705d841"
     },
     {
+      "path": "lcdmarquees/thumbnails/synththeme-nec_turbografx-cd 2-tmb.jpg",
+      "added": 37,
+      "hash": "752f94c42d3682268aafef085bbdb581"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nec_turbografx-cd-tmb.jpg",
+      "added": 37,
+      "hash": "752f94c42d3682268aafef085bbdb581"
+    },
+    {
       "path": "lcdmarquees/thumbnails/synththeme-nec_turbografx_cd-tmb.jpg",
-      "added": 28,
-      "hash": "4e2ec2afc6f74104db09f003095b73c4"
+      "added": 37,
+      "hash": "752f94c42d3682268aafef085bbdb581"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-neogeo-tmb.jpg",
@@ -52989,8 +53059,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_3ds-tmb.jpg",
-      "added": 25,
-      "hash": "f88aff968a3c2126717b1e2b45bd89b3"
+      "added": 37,
+      "hash": "ccdab84cca2b19b3615df23cb0c79713"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_3ds_eshop-tmb.jpg",
@@ -53024,8 +53094,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_ds-tmb.jpg",
-      "added": 25,
-      "hash": "25c296a6d72c564b4304313c629fb883"
+      "added": 37,
+      "hash": "d761b4c4619bb2230be68f7bd2393844"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_entertainment_system_3d-tmb.jpg",
@@ -53064,8 +53134,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_gamecube-tmb.jpg",
-      "added": 24,
-      "hash": "5d72b95a5d44baedfe5abcb5bd96b96c"
+      "added": 37,
+      "hash": "546e837181557f98b85153f779ed2685"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_gamecube_asia-tmb.jpg",
@@ -53094,8 +53164,18 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_sufami_turbo-tmb.jpg",
-      "added": 32,
-      "hash": "2273531d4ebbd6f77ca583d60226417b"
+      "added": 37,
+      "hash": "a90baf7d63fa069ca873b9e0193b47e4"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_sufami_turbo_ 2-tmb.jpg",
+      "added": 37,
+      "hash": "a90baf7d63fa069ca873b9e0193b47e4"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_sufami_turbo_-tmb.jpg",
+      "added": 37,
+      "hash": "a90baf7d63fa069ca873b9e0193b47e4"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_super_famicom-tmb.jpg",
@@ -53104,18 +53184,38 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_super_game_boy-tmb.jpg",
-      "added": 25,
-      "hash": "d913acd6f2b9bb76049e888a1326b66f"
+      "added": 37,
+      "hash": "e580c4dcf12e0d57a10b285510e592fa"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_super_gameboy 2-tmb.jpg",
+      "added": 37,
+      "hash": "e580c4dcf12e0d57a10b285510e592fa"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_super_gameboy-tmb.jpg",
+      "added": 37,
+      "hash": "e580c4dcf12e0d57a10b285510e592fa"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_switch-tmb.jpg",
-      "added": 24,
-      "hash": "4b8474c98492e235600f17ad5db3caca"
+      "added": 37,
+      "hash": "0247ea0c1090031987ce0f3ae6182d69"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_wii-tmb.jpg",
-      "added": 28,
-      "hash": "165f7f971f1edd9180fc740063e193fd"
+      "added": 37,
+      "hash": "d0e54952a6fec398ff6173a7e53be01c"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_wii_classic 2-tmb.jpg",
+      "added": 37,
+      "hash": "d0e54952a6fec398ff6173a7e53be01c"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-nintendo_wii_classic-tmb.jpg",
+      "added": 37,
+      "hash": "d0e54952a6fec398ff6173a7e53be01c"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-nintendo_wii_u-tmb.jpg",
@@ -53229,8 +53329,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-ps2-tmb.jpg",
-      "added": 28,
-      "hash": "07cfaafdd1a836e3e38b75fd4afe8f38"
+      "added": 37,
+      "hash": "0cff3080b564d2349f57f9f312d1b855"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-ps3-tmb.jpg",
@@ -53334,8 +53434,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega_ages-tmb.jpg",
-      "added": 25,
-      "hash": "a48b93f6db27de3042e3603caabe5e24"
+      "added": 37,
+      "hash": "28eb4e1444ec3f25dccc448e518a8c68"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega_cd_32x-tmb.jpg",
@@ -53356,6 +53456,16 @@
       "path": "lcdmarquees/thumbnails/synththeme-sega_dreamcast_indies-tmb.jpg",
       "added": 25,
       "hash": "20c56daf164d27f252974f5faaae0005"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_game_gear 2-tmb.jpg",
+      "added": 37,
+      "hash": "fe0736b12e38f5830e078d357da3f663"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sega_game_gear-tmb.jpg",
+      "added": 37,
+      "hash": "fe0736b12e38f5830e078d357da3f663"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sega_game_gear_japan-tmb.jpg",
@@ -53599,18 +53709,28 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sony_playstation_minis-tmb.jpg",
-      "added": 24,
-      "hash": "e7bb03c5502e36b75c8e8089cebca2a5"
+      "added": 37,
+      "hash": "0d242183f637319193f1f92d7ae31a14"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sony_playstation_vita-tmb.jpg",
-      "added": 24,
-      "hash": "fd8ae5d0f5ad21effa0c1b93bbf54c87"
+      "added": 37,
+      "hash": "a900f9c31e968987f07eafa8f3645def"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sony_pocketstation-tmb.jpg",
       "added": 25,
       "hash": "b9fff22696c4e9eb6fa677ea1f5d5338"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sony_psp_minis 2-tmb.jpg",
+      "added": 37,
+      "hash": "0d242183f637319193f1f92d7ae31a14"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/synththeme-sony_psp_minis-tmb.jpg",
+      "added": 37,
+      "hash": "0d242183f637319193f1f92d7ae31a14"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sord_m5-tmb.jpg",
@@ -53639,8 +53759,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-sufami-tmb.jpg",
-      "added": 32,
-      "hash": "2273531d4ebbd6f77ca583d60226417b"
+      "added": 37,
+      "hash": "a90baf7d63fa069ca873b9e0193b47e4"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-super_game_boy-tmb.jpg",
@@ -53789,8 +53909,8 @@
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-vintage_commercials-tmb.jpg",
-      "added": 25,
-      "hash": "160343be35cbfd11fd7f4e45e090123c"
+      "added": 37,
+      "hash": "62bd425253e7d6c10027cc43632ce807"
     },
     {
       "path": "lcdmarquees/thumbnails/synththeme-virtualboy-tmb.jpg",
