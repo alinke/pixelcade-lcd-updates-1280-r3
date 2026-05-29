@@ -1,0 +1,1805 @@
+{
+  "category": "console",
+  "facts": [
+    {
+      "id": "con_002",
+      "text": "Combat was the pack-in game for the Atari 2600 at launch in 1977, offering 27 game variations in a single cartridge",
+      "system": "atari2600",
+      "rom": "combat"
+    },
+    {
+      "id": "con_003",
+      "text": "Pitfall! on the Atari 2600 sold over 4 million copies and was one of the first true action-adventure games",
+      "system": "atari2600",
+      "rom": "pitfall"
+    },
+    {
+      "id": "con_005",
+      "text": "E.T. the Extra-Terrestrial cartridges were famously buried in a New Mexico landfill in 1983",
+      "system": "atari2600",
+      "rom": "et"
+    },
+    {
+      "id": "con_007",
+      "text": "Crash Bandicoot used a streaming technique to load levels without visible load screens",
+      "system": "psx",
+      "rom": "crash_bandicoot"
+    },
+    {
+      "id": "con_009",
+      "text": "Tomb Raider's Lara Croft was originally conceived as a male archaeologist before the team switched to a female lead",
+      "system": "psx",
+      "rom": "tomb_raider"
+    },
+    {
+      "id": "con_013",
+      "text": "Alien vs. Predator for the Jaguar was praised as one of the best first-person shooters of 1994",
+      "system": "atarijaguar",
+      "rom": "alien_vs_predator"
+    },
+    {
+      "id": "con_016",
+      "text": "The Atari 2600 launched in 1977 at $199, which is equivalent to over $900 in today's money, making it a significant household investment",
+      "system": "atari2600",
+      "rom": "default"
+    },
+    {
+      "id": "con_018",
+      "text": "Mega Man 2 was turned down by Capcom, so the team built it on personal time — it became the series' best-selling game",
+      "system": "nes",
+      "rom": "megaman2"
+    },
+    {
+      "id": "con_019",
+      "text": "The Konami Code debuted in Gradius on NES, granting players full power-ups — it became the most famous cheat code in gaming",
+      "system": "nes",
+      "rom": "gradius"
+    },
+    {
+      "id": "con_020",
+      "text": "EarthBound on SNES had aggressive anti-piracy code that crashed the game near the final boss if piracy was detected",
+      "system": "snes",
+      "rom": "earthbound"
+    },
+    {
+      "id": "con_021",
+      "text": "Star Fox used the Super FX chip — a custom graphics co-processor built into the cartridge — to render 3D polygons",
+      "system": "snes",
+      "rom": "starfox"
+    },
+    {
+      "id": "con_022",
+      "text": "Donkey Kong Country used pre-rendered 3D graphics that gave it a look unlike anything else on 16-bit hardware",
+      "system": "snes",
+      "rom": "donkey_kong_country"
+    },
+    {
+      "id": "con_023",
+      "text": "The SNES version of Mortal Kombat replaced blood with grey sweat and altered fatalities",
+      "system": "snes",
+      "rom": "mortal_kombat"
+    },
+    {
+      "id": "con_024",
+      "text": "Secret of Mana's ring-based menu system could be opened mid-action",
+      "system": "snes",
+      "rom": "secret_of_mana"
+    },
+    {
+      "id": "con_025",
+      "text": "Chrono Trigger featured 13 different endings depending on when and how the player defeated the final boss",
+      "system": "snes",
+      "rom": "chrono_trigger"
+    },
+    {
+      "id": "con_028",
+      "text": "Sonic & Knuckles used 'lock-on technology' to physically combine with Sonic 2 or 3 cartridges for expanded content",
+      "system": "genesis",
+      "rom": "sonic_and_knuckles"
+    },
+    {
+      "id": "con_030",
+      "text": "NBA Jam on Genesis contained hidden unlockable characters including Bill Clinton and the Beastie Boys",
+      "system": "genesis",
+      "rom": "nba_jam"
+    },
+    {
+      "id": "con_032",
+      "text": "GoldenEye 007 was developed by a team with almost no prior game development experience",
+      "system": "n64",
+      "rom": "goldeneye_007"
+    },
+    {
+      "id": "con_033",
+      "text": "Ocarina of Time's Z-targeting system was so influential it became the standard for 3D action-adventure games",
+      "system": "n64",
+      "rom": "ocarina_of_time"
+    },
+    {
+      "id": "con_035",
+      "text": "Conker's Bad Fur Day on N64 was initially designed as a family platformer before being completely redesigned",
+      "system": "n64",
+      "rom": "conkers_bad_fur_day"
+    },
+    {
+      "id": "con_036",
+      "text": "Shenmue was the most expensive video game ever made at the time of its 1999 release",
+      "system": "dreamcast",
+      "rom": "shenmue"
+    },
+    {
+      "id": "con_037",
+      "text": "Seaman for the Dreamcast used the microphone peripheral and voice recognition to let players hold conversations",
+      "system": "dreamcast",
+      "rom": "seaman"
+    },
+    {
+      "id": "con_038",
+      "text": "Jet Set Radio was one of the first games to use cel-shading to create a stylized animated look in 3D",
+      "system": "dreamcast",
+      "rom": "jet_set_radio"
+    },
+    {
+      "id": "con_040",
+      "text": "Power Stone on Dreamcast pioneered the arena brawler genre, influencing games like Super Smash Bros",
+      "system": "dreamcast",
+      "rom": "power_stone"
+    },
+    {
+      "id": "con_042",
+      "text": "Shadow of the Colossus featured only 16 enemies across its entire world, each one a full environmental puzzle",
+      "system": "ps2",
+      "rom": "shadow_of_the_colossus"
+    },
+    {
+      "id": "con_043",
+      "text": "Guitar Hero launched on PS2 in 2005 and popularized the plastic instrument genre that dominated living rooms for years",
+      "system": "ps2",
+      "rom": "guitar_hero"
+    },
+    {
+      "id": "con_044",
+      "text": "The 32X was marketed as a cost-effective upgrade to extend the Genesis into 32-bit gaming but was abandoned within a year as Sega rushed the Saturn to market",
+      "system": "sega32x",
+      "rom": "default"
+    },
+    {
+      "id": "con_046",
+      "text": "Panzer Dragoon Saga is one of the rarest Saturn games, with only 6,000 copies printed in North America",
+      "system": "saturn",
+      "rom": "panzer_dragoon_saga"
+    },
+    {
+      "id": "con_048",
+      "text": "Guardian Heroes on Saturn featured a complex branching story and battles with dozens of enemies on screen",
+      "system": "saturn",
+      "rom": "guardian_heroes"
+    },
+    {
+      "id": "con_049",
+      "text": "Radiant Silvergun for Saturn is considered one of the greatest shoot-em-ups ever made and commands very high collector prices",
+      "system": "saturn",
+      "rom": "radiant_silvergun"
+    },
+    {
+      "id": "con_050",
+      "text": "Dragon Force on Saturn featured battles with up to 100 soldiers fighting simultaneously on screen",
+      "system": "saturn",
+      "rom": "dragon_force"
+    },
+    {
+      "id": "con_053",
+      "text": "Fatal Fury introduced a two-plane fighting system where characters could dodge between a foreground and background",
+      "system": "neogeo",
+      "rom": "fatal_fury"
+    },
+    {
+      "id": "con_062",
+      "text": "The PlayStation 2 remained in production until January 2013, giving it the longest production run of any home console in history — over 12 years",
+      "system": "ps2",
+      "rom": "default"
+    },
+    {
+      "id": "con_064",
+      "text": "Castlevania: Aria of Sorrow introduced the soul system, letting players absorb enemy abilities as power-ups",
+      "system": "gba",
+      "rom": "aria_of_sorrow"
+    },
+    {
+      "id": "con_067",
+      "text": "Crisis Core: Final Fantasy VII on PSP served as a prequel to the PS1 classic and was critically acclaimed worldwide",
+      "system": "psp",
+      "rom": "crisis_core"
+    },
+    {
+      "id": "con_069",
+      "text": "Lumines was the PSP's killer app at launch — a music-based puzzle game designed by Rez creator Tetsuya Mizuguchi",
+      "system": "psp",
+      "rom": "lumines"
+    },
+    {
+      "id": "con_070",
+      "text": "Monster Hunter became a cultural phenomenon on PSP in Japan, popularizing local wireless multiplayer in cafes, trains, and public spaces",
+      "system": "psp",
+      "rom": "monster_hunter"
+    },
+    {
+      "id": "con_073",
+      "text": "Road Rash on 3DO featured full-motion video cutscenes and was considered a showcase title for the system",
+      "system": "3do",
+      "rom": "road_rash"
+    },
+    {
+      "id": "con_080",
+      "text": "Elite on the C64 used procedural generation to create a galaxy of 256 star systems within a tiny memory footprint",
+      "system": "c64",
+      "rom": "elite"
+    },
+    {
+      "id": "con_086",
+      "text": "The ColecoVision launched with Donkey Kong as a pack-in game",
+      "system": "coleco",
+      "rom": "donkey_kong"
+    },
+    {
+      "id": "con_089",
+      "text": "Zaxxon on ColecoVision was one of the first home ports of an isometric arcade game and showcased the system's power",
+      "system": "coleco",
+      "rom": "zaxxon"
+    },
+    {
+      "id": "con_104",
+      "text": "Bonk's Adventure served as the TurboGrafx-16's mascot game",
+      "system": "pcengine",
+      "rom": "bonks_adventure"
+    },
+    {
+      "id": "con_109",
+      "text": "Alex Kidd in Miracle World was built into many Master System consoles as a pack-in game",
+      "system": "mastersystem",
+      "rom": "alex_kidd"
+    },
+    {
+      "id": "con_111",
+      "text": "The original Xbox was the first console to ship with an internal hard drive, allowing for game saves, custom soundtracks, and system updates without memory cards",
+      "system": "microsoft_xbox",
+      "rom": "default"
+    },
+    {
+      "id": "con_112",
+      "text": "Sonic CD introduced time travel as a core mechanic and is considered by many to be the finest Sonic game ever made",
+      "system": "segacd",
+      "rom": "sonic_cd"
+    },
+    {
+      "id": "con_113",
+      "text": "Snatcher, Hideo Kojima's cyberpunk visual novel, was released on Sega CD and is now extremely rare and valuable",
+      "system": "segacd",
+      "rom": "snatcher"
+    },
+    {
+      "id": "con_119",
+      "text": "Doom on the 32X was a marquee title but was considered inferior to the PC version due to missing levels and music",
+      "system": "sega32x",
+      "rom": "doom"
+    },
+    {
+      "id": "con_122",
+      "text": "Metroid Prime was developed by Retro Studios and received near-perfect reviews, proving a 2D series could make a seamless leap to first-person",
+      "system": "nintendo_gamecube",
+      "rom": "metroid_prime"
+    },
+    {
+      "id": "con_123",
+      "text": "The Wii U suffered from poor sales largely because consumers confused the GamePad for a Wii accessory rather than a new standalone console",
+      "system": "nintendo_wii_u",
+      "rom": "default"
+    },
+    {
+      "id": "con_128",
+      "text": "Pokemon Gold and Silver pushed the GBC so far that the developers secretly fit the entire Kanto region in as a post-game bonus",
+      "system": "gbc",
+      "rom": "pokemon_gold"
+    },
+    {
+      "id": "con_130",
+      "text": "Dragon Warrior Monsters on GBC was a surprise hit that launched a long-running monster-collecting spinoff series",
+      "system": "gbc",
+      "rom": "dragon_warrior_monsters"
+    },
+    {
+      "id": "con_139",
+      "text": "Final Fantasy I through VI were all remade exclusively for the WonderSwan Color in Japan",
+      "system": "wonderswancolor",
+      "rom": "final_fantasy"
+    },
+    {
+      "id": "con_143",
+      "text": "SNK vs. Capcom: Card Fighters Clash was a card strategy game for the NGPC blending characters from both companies",
+      "system": "ngpc",
+      "rom": "snk_vs_capcom"
+    },
+    {
+      "id": "con_149",
+      "text": "Wario Land was considered the Virtual Boy's strongest title",
+      "system": "virtualboy",
+      "rom": "wario_land"
+    },
+    {
+      "id": "con_152",
+      "text": "New Super Mario Bros. was the first new 2D Mario platformer in over a decade when it launched on DS in 2006",
+      "system": "nintendo_ds",
+      "rom": "new_super_mario_bros"
+    },
+    {
+      "id": "con_153",
+      "text": "The DS microphone was used creatively in Nintendogs, where players could call their dog by speaking its name aloud",
+      "system": "nintendo_ds",
+      "rom": "nintendogs"
+    },
+    {
+      "id": "con_155",
+      "text": "Brain Age on DS became a surprise phenomenon, attracting an older audience and selling over 19 million copies worldwide",
+      "system": "nintendo_ds",
+      "rom": "brain_age"
+    },
+    {
+      "id": "con_157",
+      "text": "Fire Emblem Awakening was planned as the last entry if it sold poorly, but its success saved the series and launched a global revival",
+      "system": "nintendo_3ds",
+      "rom": "fire_emblem_awakening"
+    },
+    {
+      "id": "con_162",
+      "text": "Halo: Combat Evolved was designed as a launch title to showcase the Xbox and largely defined the console",
+      "system": "microsoft_xbox",
+      "rom": "halo"
+    },
+    {
+      "id": "con_167",
+      "text": "Wii Sports was included with the Wii in North America and became the best-selling Wii game of all time",
+      "system": "nintendo_wii",
+      "rom": "wii_sports"
+    },
+    {
+      "id": "con_175",
+      "text": "Pole Position was one of the Atari 5200's most popular titles and featured an impressive driving simulation",
+      "system": "atari5200",
+      "rom": "pole_position"
+    },
+    {
+      "id": "con_179",
+      "text": "Commando was one of the most praised arcade ports on the Atari 7800 for its faithful recreation of the cabinet",
+      "system": "atari7800",
+      "rom": "commando"
+    },
+    {
+      "id": "con_185",
+      "text": "LittleBigPlanet pioneered user-generated content on consoles at mass scale",
+      "system": "sony_playstation_3",
+      "rom": "littlebigplanet"
+    },
+    {
+      "id": "con_188",
+      "text": "Splatoon debuted on the Wii U in 2015, marking Nintendo's first successful new major IP in many years",
+      "system": "nintendo_wii_u",
+      "rom": "splatoon"
+    },
+    {
+      "id": "con_190",
+      "text": "Super Smash Bros. for Wii U supported 8-player simultaneous battles on large stages",
+      "system": "nintendo_wii_u",
+      "rom": "super_smash_bros_wii_u"
+    },
+    {
+      "id": "con_201",
+      "text": "Super Mario Bros. featured a 'minus world' — World -1 — reached via a wall-clipping glitch in World 1-2",
+      "system": "nes",
+      "rom": "super_mario_bros"
+    },
+    {
+      "id": "con_202",
+      "text": "Super Mario Bros. 2 was a reskin of Doki Doki Panic — the Japanese SMB2 was deemed too hard for the West",
+      "system": "nes",
+      "rom": "super_mario_bros2"
+    },
+    {
+      "id": "con_203",
+      "text": "The Legend of Zelda on NES was the first cartridge with a battery save to preserve progress between sessions",
+      "system": "nes",
+      "rom": "zelda"
+    },
+    {
+      "id": "con_204",
+      "text": "Metroid on NES hid Samus's gender — she appeared without a helmet only when players finished fast enough",
+      "system": "nes",
+      "rom": "metroid"
+    },
+    {
+      "id": "con_205",
+      "text": "Contra's 30-lives Konami Code is one of the most memorized cheat codes in gaming history",
+      "system": "nes",
+      "rom": "contra"
+    },
+    {
+      "id": "con_206",
+      "text": "Mike Tyson's Punch-Out!! used a second NES CPU dedicated entirely to the boxing simulation",
+      "system": "nes",
+      "rom": "mike_tysons_punchout"
+    },
+    {
+      "id": "con_207",
+      "text": "Mega Man 2's Metal Man saw blade could defeat almost every boss — the most overpowered weapon in the series",
+      "system": "nes",
+      "rom": "megaman2"
+    },
+    {
+      "id": "con_208",
+      "text": "Battletoads' Turbo Tunnel is still cited as one of the hardest levels ever put in a home console game",
+      "system": "nes",
+      "rom": "battletoads"
+    },
+    {
+      "id": "con_209",
+      "text": "Duck Hunt's Zapper detected screen flashes — pressing it to the TV let players cheat by hitting anything",
+      "system": "nes",
+      "rom": "duck_hunt"
+    },
+    {
+      "id": "con_210",
+      "text": "Excitebike had a built-in track editor — one of the earliest level designers offered in a console game",
+      "system": "nes",
+      "rom": "excitebike"
+    },
+    {
+      "id": "con_211",
+      "text": "Ninja Gaiden on NES was among the first console games to use cinematic cutscenes between stages to drive its story",
+      "system": "nes",
+      "rom": "ninja_gaiden"
+    },
+    {
+      "id": "con_212",
+      "text": "Bionic Commando is one of the few NES games where the player cannot jump — the grapple replaced it entirely",
+      "system": "nes",
+      "rom": "bionic_commando"
+    },
+    {
+      "id": "con_213",
+      "text": "DuckTales on NES let Scrooge pogo on his cane and collect treasures tied to a final wealth score",
+      "system": "nes",
+      "rom": "ducktales"
+    },
+    {
+      "id": "con_214",
+      "text": "Tecmo Super Bowl featured real NFL players and teams and is still played in competitive retro leagues today",
+      "system": "nes",
+      "rom": "tecmo_super_bowl"
+    },
+    {
+      "id": "con_215",
+      "text": "Castlevania III added branching paths and multiple playable characters, expanding far beyond the first game",
+      "system": "nes",
+      "rom": "castlevania3"
+    },
+    {
+      "id": "con_216",
+      "text": "Kirby's Adventure on NES introduced the copy ability mechanic that defines every Kirby game",
+      "system": "nes",
+      "rom": "kirbys_adventure"
+    },
+    {
+      "id": "con_217",
+      "text": "Blaster Master mixed overhead exploration with side-scrolling tank combat in a Metroidvania-style hybrid",
+      "system": "nes",
+      "rom": "blaster_master"
+    },
+    {
+      "id": "con_218",
+      "text": "Final Fantasy on NES let players fully customize a party of four from six classes at the very start",
+      "system": "nes",
+      "rom": "final_fantasy"
+    },
+    {
+      "id": "con_219",
+      "text": "Adventures of Lolo was a HAL Laboratory puzzle game that influenced the design thinking behind Kirby",
+      "system": "nes",
+      "rom": "adventures_of_lolo"
+    },
+    {
+      "id": "con_220",
+      "text": "Castlevania II: Simon's Quest added a day/night cycle and towns, unlike the original's linear structure",
+      "system": "nes",
+      "rom": "castlevania2"
+    },
+    {
+      "id": "con_221",
+      "text": "Super Mario World introduced Yoshi, who was planned for the NES original but cut due to hardware limits",
+      "system": "snes",
+      "rom": "super_mario_world"
+    },
+    {
+      "id": "con_222",
+      "text": "Super Metroid is regularly cited as one of the greatest games ever made and perfected the Metroidvania formula",
+      "system": "snes",
+      "rom": "super_metroid"
+    },
+    {
+      "id": "con_223",
+      "text": "F-Zero on SNES used Mode 7 scaling to simulate a 3D racing track and was one of the first games to showcase the SNES Mode 7 effect",
+      "system": "snes",
+      "rom": "fzero"
+    },
+    {
+      "id": "con_224",
+      "text": "Street Fighter II Turbo on SNES sold over 6 million copies, making it one of the platform's best-selling games",
+      "system": "snes",
+      "rom": "street_fighter_ii_turbo"
+    },
+    {
+      "id": "con_225",
+      "text": "Yoshi's Island's hand-drawn art was criticized in previews but became one of the most praised SNES games",
+      "system": "snes",
+      "rom": "yoshis_island"
+    },
+    {
+      "id": "con_226",
+      "text": "Super Mario Kart invented the kart racing genre and introduced the red shell, banana peel, and star power-up",
+      "system": "snes",
+      "rom": "super_mario_kart"
+    },
+    {
+      "id": "con_227",
+      "text": "Final Fantasy VI's opera scene is widely considered the most ambitious narrative set piece of the 16-bit era",
+      "system": "snes",
+      "rom": "final_fantasy_vi"
+    },
+    {
+      "id": "con_228",
+      "text": "Kirby Super Star packed eight complete games into one cartridge and remains a fan-favorite entry in the series",
+      "system": "snes",
+      "rom": "kirby_super_star"
+    },
+    {
+      "id": "con_229",
+      "text": "A Link to the Past's Dark World mirrored Hyrule with corrupted versions of every location and dungeon",
+      "system": "snes",
+      "rom": "link_to_the_past"
+    },
+    {
+      "id": "con_230",
+      "text": "Super Mario RPG was a collaboration with Square and was the first RPG set in the Mushroom Kingdom",
+      "system": "snes",
+      "rom": "super_mario_rpg"
+    },
+    {
+      "id": "con_231",
+      "text": "Actraiser alternated between a side-scrolling action game and a city-building sim — an unusual SNES hybrid",
+      "system": "snes",
+      "rom": "actraiser"
+    },
+    {
+      "id": "con_232",
+      "text": "Super Castlevania IV gave Simon Belmont the ability to swing his whip in all eight directions",
+      "system": "snes",
+      "rom": "super_castlevania_iv"
+    },
+    {
+      "id": "con_233",
+      "text": "Illusion of Gaia followed a world-spanning adventure across real-world locations and is a SNES cult classic",
+      "system": "snes",
+      "rom": "illusion_of_gaia"
+    },
+    {
+      "id": "con_234",
+      "text": "Terranigma ended with one of the most melancholy finales on SNES — a fitting close to Quintet's Soul Blazer trilogy",
+      "system": "snes",
+      "rom": "terranigma"
+    },
+    {
+      "id": "con_235",
+      "text": "Lufia II featured a 99-floor randomly generated dungeon — one of the earliest roguelike elements on SNES",
+      "system": "snes",
+      "rom": "lufia2"
+    },
+    {
+      "id": "con_236",
+      "text": "Streets of Rage 2 is considered the greatest beat-em-up ever made and its Yuzo Koshiro soundtrack is legendary",
+      "system": "genesis",
+      "rom": "streets_of_rage2"
+    },
+    {
+      "id": "con_237",
+      "text": "Gunstar Heroes let players combine any two weapons for new attack types — a freeform system unlike other shooters",
+      "system": "genesis",
+      "rom": "gunstar_heroes"
+    },
+    {
+      "id": "con_238",
+      "text": "ToeJam & Earl was a roguelike before the term was widely used, with alien protagonists on a randomized Earth",
+      "system": "genesis",
+      "rom": "toejam_and_earl"
+    },
+    {
+      "id": "con_239",
+      "text": "Phantasy Star IV's macro system let players program battle sequences to replay automatically in fights",
+      "system": "genesis",
+      "rom": "phantasy_star_iv"
+    },
+    {
+      "id": "con_240",
+      "text": "Bloodlines was the only Castlevania on Genesis and starred two characters with completely different move sets",
+      "system": "genesis",
+      "rom": "castlevania_bloodlines"
+    },
+    {
+      "id": "con_241",
+      "text": "Comix Zone let players punch through comic panels as the game stage — a unique mechanic unlike any other",
+      "system": "genesis",
+      "rom": "comix_zone"
+    },
+    {
+      "id": "con_242",
+      "text": "Ecco the Dolphin tasked players with navigating as a dolphin in one of the most cryptically difficult Genesis games",
+      "system": "genesis",
+      "rom": "ecco_the_dolphin"
+    },
+    {
+      "id": "con_243",
+      "text": "Earthworm Jim used pre-rendered animations to give its protagonist unusually fluid movement for a 1994 console game",
+      "system": "genesis",
+      "rom": "earthworm_jim"
+    },
+    {
+      "id": "con_244",
+      "text": "Ristar was designed by the Sonic team and used a grapple-stretch mechanic instead of speed",
+      "system": "genesis",
+      "rom": "ristar"
+    },
+    {
+      "id": "con_245",
+      "text": "Final Fantasy VII's death of Aerith in Disc 1 is the most discussed story moment in video game history",
+      "system": "psx",
+      "rom": "final_fantasy_vii"
+    },
+    {
+      "id": "con_246",
+      "text": "Metal Gear Solid hid Meryl's codec frequency on the back of the CD case, breaking the fourth wall",
+      "system": "psx",
+      "rom": "metal_gear_solid"
+    },
+    {
+      "id": "con_247",
+      "text": "Symphony of the Night reversed Castlevania's formula with RPG leveling and an enormous explorable castle map",
+      "system": "psx",
+      "rom": "castlevania_sotn"
+    },
+    {
+      "id": "con_248",
+      "text": "Resident Evil's fixed cameras were a technical workaround that became a defining feature of survival horror",
+      "system": "psx",
+      "rom": "resident_evil"
+    },
+    {
+      "id": "con_249",
+      "text": "Tony Hawk's Pro Skater defined trick combos and proved licensed soundtracks could define a game's identity",
+      "system": "psx",
+      "rom": "tony_hawks_pro_skater"
+    },
+    {
+      "id": "con_250",
+      "text": "Spyro the Dragon was designed to showcase the PS1's ability to render seamless 3D worlds without loading",
+      "system": "psx",
+      "rom": "spyro"
+    },
+    {
+      "id": "con_251",
+      "text": "Gran Turismo introduced the driving simulator genre with a full car license progression system on PS1",
+      "system": "psx",
+      "rom": "gran_turismo"
+    },
+    {
+      "id": "con_252",
+      "text": "Silent Hill used fog to hide PS1's draw distance, accidentally creating one of gaming's most iconic atmospheres",
+      "system": "psx",
+      "rom": "silent_hill"
+    },
+    {
+      "id": "con_253",
+      "text": "Suikoden II is among the rarest PS1 games in North America — original copies often sell for hundreds of dollars",
+      "system": "psx",
+      "rom": "suikoden2"
+    },
+    {
+      "id": "con_254",
+      "text": "Final Fantasy Tactics brought a political story darker than mainline FF to a tactical RPG framework on PS1",
+      "system": "psx",
+      "rom": "final_fantasy_tactics"
+    },
+    {
+      "id": "con_255",
+      "text": "PaRappa the Rapper invented the rhythm game genre on home consoles before Guitar Hero or Dance Dance Revolution",
+      "system": "psx",
+      "rom": "parappa_the_rapper"
+    },
+    {
+      "id": "con_256",
+      "text": "Vagrant Story featured a weapon-crafting system of extraordinary depth in a single-player PS1 action RPG",
+      "system": "psx",
+      "rom": "vagrant_story"
+    },
+    {
+      "id": "con_257",
+      "text": "MediEvil's Sir Daniel was listed as a fallen hero — he was actually killed by the very first arrow fired",
+      "system": "psx",
+      "rom": "medievil"
+    },
+    {
+      "id": "con_258",
+      "text": "Xenogears had its second disc converted to narrative summaries after the team ran out of development budget",
+      "system": "psx",
+      "rom": "xenogears"
+    },
+    {
+      "id": "con_259",
+      "text": "Star Ocean: The Second Story had over 80 possible endings based on relationship points between characters",
+      "system": "psx",
+      "rom": "star_ocean2"
+    },
+    {
+      "id": "con_260",
+      "text": "Klonoa: Door to Phantomile hid a tearful story beneath its cheerful exterior — a shock at the finale",
+      "system": "psx",
+      "rom": "klonoa"
+    },
+    {
+      "id": "con_261",
+      "text": "Super Mario 64 was the first 3D platformer to use a fully analog stick for 360-degree free movement",
+      "system": "n64",
+      "rom": "super_mario_64"
+    },
+    {
+      "id": "con_262",
+      "text": "Banjo-Kazooie by Rare is praised as one of the N64's greatest 3D platformers for its charm and design",
+      "system": "n64",
+      "rom": "banjo_kazooie"
+    },
+    {
+      "id": "con_263",
+      "text": "Majora's Mask was developed in just 18 months reusing Ocarina of Time's engine and assets",
+      "system": "n64",
+      "rom": "majoras_mask"
+    },
+    {
+      "id": "con_264",
+      "text": "Perfect Dark was the first console FPS to include bots in multiplayer and offered a 50fps high-resolution mode",
+      "system": "n64",
+      "rom": "perfect_dark"
+    },
+    {
+      "id": "con_265",
+      "text": "Mario Kart 64's four-player split-screen defined local multiplayer nights throughout the late 1990s",
+      "system": "n64",
+      "rom": "mario_kart_64"
+    },
+    {
+      "id": "con_266",
+      "text": "Donkey Kong 64 is the only game that required the N64 Expansion Pak just to start — no other game mandated it",
+      "system": "n64",
+      "rom": "donkey_kong_64"
+    },
+    {
+      "id": "con_267",
+      "text": "Wave Race 64's water physics influenced realistic water simulation in games for years after its 1996 release",
+      "system": "n64",
+      "rom": "wave_race_64"
+    },
+    {
+      "id": "con_268",
+      "text": "Banjo-Tooie connected to Banjo-Kazooie — items transferred between carts and each game referenced the other",
+      "system": "n64",
+      "rom": "banjo_tooie"
+    },
+    {
+      "id": "con_269",
+      "text": "Sonic Adventure was the first 3D main-series Sonic game and featured six characters with separate stories",
+      "system": "dreamcast",
+      "rom": "sonic_adventure"
+    },
+    {
+      "id": "con_270",
+      "text": "Crazy Taxi had players racing fares through an open city, popularizing punk-rock licensed soundtracks in games",
+      "system": "dreamcast",
+      "rom": "crazy_taxi"
+    },
+    {
+      "id": "con_271",
+      "text": "Phantasy Star Online was the first online RPG built for consoles, letting players team up via the Dreamcast modem",
+      "system": "dreamcast",
+      "rom": "phantasy_star_online"
+    },
+    {
+      "id": "con_272",
+      "text": "Skies of Arcadia featured airship combat among floating islands and is remembered for its joyful exploration",
+      "system": "dreamcast",
+      "rom": "skies_of_arcadia"
+    },
+    {
+      "id": "con_273",
+      "text": "Power Stone 2 supported four-player arena combat with interactive destructible environments",
+      "system": "dreamcast",
+      "rom": "power_stone2"
+    },
+    {
+      "id": "con_274",
+      "text": "The Wind Waker used cel-shading that was criticized at first but is now widely praised for its timeless look",
+      "system": "nintendo_gamecube",
+      "rom": "wind_waker"
+    },
+    {
+      "id": "con_275",
+      "text": "Super Smash Bros. Melee became a competitive esport with a thriving tournament scene lasting over 20 years",
+      "system": "nintendo_gamecube",
+      "rom": "ssbmelee"
+    },
+    {
+      "id": "con_276",
+      "text": "Luigi's Mansion was the first game to star Luigi as the sole protagonist and launched alongside the GameCube",
+      "system": "nintendo_gamecube",
+      "rom": "luigis_mansion"
+    },
+    {
+      "id": "con_277",
+      "text": "Pikmin required players to command up to 100 ant-like creatures in real time across a single in-game day",
+      "system": "nintendo_gamecube",
+      "rom": "pikmin"
+    },
+    {
+      "id": "con_278",
+      "text": "Animal Crossing on GameCube ran on the console's real-time clock so events changed based on the actual date",
+      "system": "nintendo_gamecube",
+      "rom": "animal_crossing"
+    },
+    {
+      "id": "con_279",
+      "text": "Eternal Darkness faked system errors and TV shutoff to mess with the player's sense of reality",
+      "system": "nintendo_gamecube",
+      "rom": "eternal_darkness"
+    },
+    {
+      "id": "con_280",
+      "text": "F-Zero GX was co-developed by Sega's AM2 team and is widely considered the best entry in the series",
+      "system": "nintendo_gamecube",
+      "rom": "fzero_gx"
+    },
+    {
+      "id": "con_281",
+      "text": "Halo 2 introduced online multiplayer through Xbox Live and formed the first major online console shooter community",
+      "system": "microsoft_xbox",
+      "rom": "halo2"
+    },
+    {
+      "id": "con_282",
+      "text": "Star Wars: Knights of the Old Republic featured a story twist as impactful as any film in gaming history",
+      "system": "microsoft_xbox",
+      "rom": "kotor"
+    },
+    {
+      "id": "con_283",
+      "text": "Ninja Gaiden on Xbox was revived by Team Ninja as one of the hardest polished action games of its era",
+      "system": "microsoft_xbox",
+      "rom": "ninja_gaiden"
+    },
+    {
+      "id": "con_284",
+      "text": "Jade Empire's branching moral system led to genuinely different story outcomes depending on your chosen path",
+      "system": "microsoft_xbox",
+      "rom": "jade_empire"
+    },
+    {
+      "id": "con_285",
+      "text": "Grand Theft Auto III transformed open-world game design and spawned a generation of sandbox crime titles",
+      "system": "ps2",
+      "rom": "gta3"
+    },
+    {
+      "id": "con_286",
+      "text": "GTA Vice City's 1980s Miami setting and licensed soundtrack became one of gaming's most beloved combinations",
+      "system": "ps2",
+      "rom": "gta_vice_city"
+    },
+    {
+      "id": "con_287",
+      "text": "Kingdom Hearts combined Disney and Final Fantasy to create an action RPG that sold over 35 million units",
+      "system": "ps2",
+      "rom": "kingdom_hearts"
+    },
+    {
+      "id": "con_288",
+      "text": "God of War's fixed camera framed Kratos as an unstoppable force — a deliberate cinematic design choice",
+      "system": "ps2",
+      "rom": "god_of_war"
+    },
+    {
+      "id": "con_289",
+      "text": "Devil May Cry was born when Resident Evil 4's prototype was too action-focused — Mikami spun it into its own game",
+      "system": "ps2",
+      "rom": "devil_may_cry"
+    },
+    {
+      "id": "con_290",
+      "text": "Ratchet & Clank introduced weapon upgrade trees that made every new gun immediately satisfying to earn and use",
+      "system": "ps2",
+      "rom": "ratchet_and_clank"
+    },
+    {
+      "id": "con_291",
+      "text": "Jak and Daxter was one of the first PS2 games to load an entire open world without a single loading screen",
+      "system": "ps2",
+      "rom": "jak_and_daxter"
+    },
+    {
+      "id": "con_292",
+      "text": "Metal Gear Solid 2 replaced Snake with Raiden mid-game — a twist that shocked players expecting Snake throughout",
+      "system": "ps2",
+      "rom": "metal_gear_solid2"
+    },
+    {
+      "id": "con_293",
+      "text": "Okami used watercolor visuals and a painting mechanic to let players draw attacks and solutions into the world",
+      "system": "ps2",
+      "rom": "okami"
+    },
+    {
+      "id": "con_294",
+      "text": "Katamari Damacy was designed as a critique of complexity — a ball that grows by rolling over everyday objects",
+      "system": "ps2",
+      "rom": "katamari_damacy"
+    },
+    {
+      "id": "con_295",
+      "text": "Psychonauts let players enter NPCs' minds, each one a unique platformer level reflecting their inner personality",
+      "system": "ps2",
+      "rom": "psychonauts"
+    },
+    {
+      "id": "con_296",
+      "text": "GTA San Andreas introduced weight, muscle, and respect stats into a game that dwarfed Vice City in scope",
+      "system": "ps2",
+      "rom": "gta_san_andreas"
+    },
+    {
+      "id": "con_297",
+      "text": "Prince of Persia: Sands of Time introduced the rewind mechanic — if you fell you could rewind time to fix it",
+      "system": "ps2",
+      "rom": "prince_of_persia_sands"
+    },
+    {
+      "id": "con_298",
+      "text": "Gears of War popularized cover-based shooting and the roadie-run that defined a generation of action games",
+      "system": "microsoft_xbox",
+      "rom": "gears_of_war"
+    },
+    {
+      "id": "con_299",
+      "text": "Mass Effect was the first trilogy where player choices carried across all three games as continuous narrative",
+      "system": "microsoft_xbox",
+      "rom": "mass_effect"
+    },
+    {
+      "id": "con_300",
+      "text": "BioShock's 'would you kindly' reveal is considered one of the greatest story twists in a video game",
+      "system": "microsoft_xbox",
+      "rom": "bioshock"
+    },
+    {
+      "id": "con_301",
+      "text": "The Orange Box bundled five games including Portal and Half-Life 2 for one price — gaming's best value deal",
+      "system": "pc",
+      "rom": "orange_box"
+    },
+    {
+      "id": "con_302",
+      "text": "Portal's Weighted Companion Cube and 'the cake is a lie' meme spread globally within weeks of the 2007 release",
+      "system": "pc",
+      "rom": "portal"
+    },
+    {
+      "id": "con_303",
+      "text": "Dark Souls introduced bonfire respawns and proved games could teach through death rather than tutorials",
+      "system": "microsoft_xbox",
+      "rom": "dark_souls"
+    },
+    {
+      "id": "con_304",
+      "text": "Borderlands invented the looter-shooter by combining FPS gameplay with Diablo-style randomized loot drops",
+      "system": "microsoft_xbox",
+      "rom": "borderlands"
+    },
+    {
+      "id": "con_305",
+      "text": "Batman: Arkham Asylum proved licensed superhero games could match or exceed original franchise quality",
+      "system": "microsoft_xbox",
+      "rom": "batman_arkham_asylum"
+    },
+    {
+      "id": "con_306",
+      "text": "Fallout 3 brought the isometric PC RPG into a fully 3D open world, introducing the franchise to a new generation",
+      "system": "microsoft_xbox",
+      "rom": "fallout3"
+    },
+    {
+      "id": "con_307",
+      "text": "Mass Effect 2's suicide mission is shaped entirely by every relationship choice made throughout the game",
+      "system": "microsoft_xbox",
+      "rom": "mass_effect2"
+    },
+    {
+      "id": "con_308",
+      "text": "Red Dead Redemption brought the open-world Western to life more convincingly than any previous game",
+      "system": "microsoft_xbox",
+      "rom": "red_dead_redemption"
+    },
+    {
+      "id": "con_309",
+      "text": "Uncharted 2 opened with Drake dangling from a train on a cliff — a scripted moment that redefined cinematic games",
+      "system": "sony_playstation_3",
+      "rom": "uncharted2"
+    },
+    {
+      "id": "con_310",
+      "text": "The Last of Us is credited with elevating video game storytelling to a level comparable to prestige television",
+      "system": "sony_playstation_3",
+      "rom": "last_of_us"
+    },
+    {
+      "id": "con_311",
+      "text": "Demon's Souls established the Soulslike genre — death is expected and learning the world's secrets is the reward",
+      "system": "sony_playstation_3",
+      "rom": "demons_souls"
+    },
+    {
+      "id": "con_312",
+      "text": "Journey on PS3 used only chirps for communication — strangers could appear with no names or explanatory text",
+      "system": "sony_playstation_3",
+      "rom": "journey"
+    },
+    {
+      "id": "con_313",
+      "text": "Super Mario Galaxy used gravity manipulation to build levels that wrapped around spherical planetoids",
+      "system": "nintendo_wii",
+      "rom": "super_mario_galaxy"
+    },
+    {
+      "id": "con_314",
+      "text": "No More Heroes had players travel a city map by moped between ranked assassination missions",
+      "system": "nintendo_wii",
+      "rom": "no_more_heroes"
+    },
+    {
+      "id": "con_315",
+      "text": "Xenoblade Chronicles launched in Europe before North America — fans ran Operation Rainfall for the US release",
+      "system": "nintendo_wii",
+      "rom": "xenoblade_chronicles"
+    },
+    {
+      "id": "con_316",
+      "text": "Punch-Out!! Wii revived the series using motion controls while keeping the rhythm-reading core intact",
+      "system": "nintendo_wii",
+      "rom": "punchout_wii"
+    },
+    {
+      "id": "con_317",
+      "text": "Super Mario Maker let players build and share NES- and SNES-style Mario levels with anyone online",
+      "system": "nintendo_wii_u",
+      "rom": "super_mario_maker"
+    },
+    {
+      "id": "con_318",
+      "text": "The TurboGrafx-16 was technically an 8-bit system with a 16-bit video chip, allowing it to punch above its weight graphically despite the misleading branding",
+      "system": "pcengine",
+      "rom": "default"
+    },
+    {
+      "id": "con_319",
+      "text": "Super Mario Odyssey's Cappy mechanic let Mario possess enemies and objects to reach otherwise inaccessible areas",
+      "system": "nintendo_switch",
+      "rom": "super_mario_odyssey"
+    },
+    {
+      "id": "con_320",
+      "text": "Hades became the first roguelike to win a Hugo Award, praised for integrating story into every run",
+      "system": "nintendo_switch",
+      "rom": "hades"
+    },
+    {
+      "id": "con_321",
+      "text": "Hollow Knight's map was revealed gradually as players explored — the developers added content mid-development",
+      "system": "nintendo_switch",
+      "rom": "hollow_knight"
+    },
+    {
+      "id": "con_322",
+      "text": "Metroid Fusion introduced SA-X, an AI rival that could appear and hunt the player at any moment in the game",
+      "system": "gba",
+      "rom": "metroid_fusion"
+    },
+    {
+      "id": "con_323",
+      "text": "Golden Sun's Djinn magic system could be set and removed to completely change any character's class on the fly",
+      "system": "gba",
+      "rom": "golden_sun"
+    },
+    {
+      "id": "con_324",
+      "text": "Advance Wars was the first Western release of the Wars franchise and brought turn-based strategy to GBA players",
+      "system": "gba",
+      "rom": "advance_wars"
+    },
+    {
+      "id": "con_325",
+      "text": "Fire Emblem on GBA was the first Fire Emblem released outside Japan — titled simply 'Fire Emblem' in 2003",
+      "system": "gba",
+      "rom": "fire_emblem"
+    },
+    {
+      "id": "con_326",
+      "text": "Mother 3 was finished on GBA and never officially localized for Western markets despite years of fan demand",
+      "system": "gba",
+      "rom": "mother3"
+    },
+    {
+      "id": "con_327",
+      "text": "Crisis Core: Final Fantasy VII revealed Zack Fair's fate and became one of the most emotional PSP games made",
+      "system": "psp",
+      "rom": "crisis_core"
+    },
+    {
+      "id": "con_328",
+      "text": "Lumines by Tetsuya Mizuguchi was a music puzzle game that defined the PSP's launch and showcased its screen",
+      "system": "psp",
+      "rom": "lumines"
+    },
+    {
+      "id": "con_329",
+      "text": "Phoenix Wright: Ace Attorney became a cult hit in the West after originally only launching in Japan on GBA",
+      "system": "nintendo_ds",
+      "rom": "phoenix_wright"
+    },
+    {
+      "id": "con_330",
+      "text": "The World Ends With You used both DS screens simultaneously — the player fought on both screens at once",
+      "system": "nintendo_ds",
+      "rom": "world_ends_with_you"
+    },
+    {
+      "id": "con_331",
+      "text": "Kirby Canvas Curse required only the stylus — the first DS game designed entirely around the touch screen",
+      "system": "nintendo_ds",
+      "rom": "kirby_canvas_curse"
+    },
+    {
+      "id": "con_332",
+      "text": "Pokemon X and Y were the first main-series Pokemon games rendered in full 3D on a handheld system",
+      "system": "nintendo_3ds",
+      "rom": "pokemon_x"
+    },
+    {
+      "id": "con_333",
+      "text": "Super Mario 3D Land combined 3D Mario's open style with the linear stage structure from classic 2D games",
+      "system": "nintendo_3ds",
+      "rom": "super_mario_3d_land"
+    },
+    {
+      "id": "con_334",
+      "text": "Bravely Default let players set their own random encounter rates and toggle combat animation lengths",
+      "system": "nintendo_3ds",
+      "rom": "bravely_default"
+    },
+    {
+      "id": "con_335",
+      "text": "NiGHTS into Dreams used an analog pad before analog sticks were standard and is praised for its fluid flight",
+      "system": "saturn",
+      "rom": "nights_into_dreams"
+    },
+    {
+      "id": "con_336",
+      "text": "Burning Rangers was Sonic Team's futuristic firefighting game and one of the last great Saturn exclusives",
+      "system": "saturn",
+      "rom": "burning_rangers"
+    },
+    {
+      "id": "con_337",
+      "text": "Shining Force III told one story split across three discs — only available in its complete form in Japan",
+      "system": "saturn",
+      "rom": "shining_force_iii"
+    },
+    {
+      "id": "con_338",
+      "text": "The King of Fighters '98 is still played competitively in South America and Asia as the series' peak entry",
+      "system": "neogeo",
+      "rom": "kof98"
+    },
+    {
+      "id": "con_339",
+      "text": "Garou: Mark of the Wolves introduced Just Defend and is considered the finest Fatal Fury game ever made",
+      "system": "neogeo",
+      "rom": "garou_mark_of_wolves"
+    },
+    {
+      "id": "con_340",
+      "text": "Metal Slug 3's final boss is widely regarded as the hardest and most spectacular in the Metal Slug series",
+      "system": "neogeo",
+      "rom": "metal_slug3"
+    },
+    {
+      "id": "con_341",
+      "text": "Tetris on NES sold over 8 million copies and established puzzle games as a mainstream console genre",
+      "system": "nes",
+      "rom": "tetris"
+    },
+    {
+      "id": "con_342",
+      "text": "The original Zelda had a full second quest after credits — a completely redesigned dungeon layout in the same cart",
+      "system": "nes",
+      "rom": "zelda"
+    },
+    {
+      "id": "con_343",
+      "text": "Punch-Out!! replaced Mike Tyson with Mr. Dream after Nintendo's license expired — same character, new name",
+      "system": "nes",
+      "rom": "punchout"
+    },
+    {
+      "id": "con_344",
+      "text": "River City Ransom added RPG stat growth to a beat-em-up and featured two-player simultaneous brawling on NES",
+      "system": "nes",
+      "rom": "river_city_ransom"
+    },
+    {
+      "id": "con_345",
+      "text": "Super Mario Land gave Mario a submarine and a plane — his only canonical piloted vehicles in mainline games",
+      "system": "gb",
+      "rom": "super_mario_land"
+    },
+    {
+      "id": "con_346",
+      "text": "Kirby's Dream Land was intentionally easy — Masahiro Sakurai designed it as the most accessible game possible",
+      "system": "gb",
+      "rom": "kirbys_dream_land"
+    },
+    {
+      "id": "con_347",
+      "text": "Super Mario RPG introduced Geno and Mallow, characters fans have campaigned to return to the series for decades",
+      "system": "snes",
+      "rom": "super_mario_rpg"
+    },
+    {
+      "id": "con_348",
+      "text": "Chrono Trigger's New Game+ was one of the first console games to let players replay with all stats and items kept",
+      "system": "snes",
+      "rom": "chrono_trigger"
+    },
+    {
+      "id": "con_349",
+      "text": "Secret of Mana allowed three-player simultaneous play via the SNES multitap — unusual for an action RPG",
+      "system": "snes",
+      "rom": "secret_of_mana"
+    },
+    {
+      "id": "con_350",
+      "text": "Demon's Crest on SNES is a cult masterpiece of the Gargoyle's Quest series and now commands high collector prices",
+      "system": "snes",
+      "rom": "demons_crest"
+    },
+    {
+      "id": "con_351",
+      "text": "Treasure's Alien Soldier is considered the hardest Genesis game — it is composed almost entirely of boss fights",
+      "system": "genesis",
+      "rom": "alien_soldier"
+    },
+    {
+      "id": "con_352",
+      "text": "Shining Force II is praised for its lengthy campaign and for introducing Centaur and Pegasus knight classes",
+      "system": "genesis",
+      "rom": "shining_force_ii"
+    },
+    {
+      "id": "con_353",
+      "text": "Road Rash on Genesis let players punch and whip opponents off their bikes in a racing game with open brawling",
+      "system": "genesis",
+      "rom": "road_rash"
+    },
+    {
+      "id": "con_354",
+      "text": "Parasite Eve blended survival horror with turn-based RPG combat and was based on a hit Japanese novel",
+      "system": "psx",
+      "rom": "parasite_eve"
+    },
+    {
+      "id": "con_355",
+      "text": "Wild Arms launched the Wild West RPG aesthetic and became a long-running franchise starting on PS1",
+      "system": "psx",
+      "rom": "wild_arms"
+    },
+    {
+      "id": "con_356",
+      "text": "Alundra was praised as a spiritual successor to A Link to the Past with exceptionally difficult puzzles",
+      "system": "psx",
+      "rom": "alundra"
+    },
+    {
+      "id": "con_357",
+      "text": "Clock Tower on PS1 featured a helpless protagonist who could only run and hide — she had no weapons",
+      "system": "psx",
+      "rom": "clock_tower"
+    },
+    {
+      "id": "con_358",
+      "text": "Symphony of the Night's inverted castle doubled the map and was discovered by most players entirely by accident",
+      "system": "psx",
+      "rom": "castlevania_sotn"
+    },
+    {
+      "id": "con_359",
+      "text": "Burnout 3: Takedown rewarded spectacular crashes as much as winning, popularizing crash physics as gameplay",
+      "system": "ps2",
+      "rom": "burnout3"
+    },
+    {
+      "id": "con_360",
+      "text": "We Love Katamari was built directly from fan letters — one of the few sequels driven entirely by audience feedback",
+      "system": "ps2",
+      "rom": "we_love_katamari"
+    },
+    {
+      "id": "con_361",
+      "text": "Shadow of the Colossus began as an Ico sequel before evolving into a game about guilt and sacrifice",
+      "system": "ps2",
+      "rom": "shadow_of_the_colossus"
+    },
+    {
+      "id": "con_362",
+      "text": "Dragon Age: Origins brought dense party-based tactics to consoles, recalling the depth of Baldur's Gate",
+      "system": "microsoft_xbox",
+      "rom": "dragon_age_origins"
+    },
+    {
+      "id": "con_363",
+      "text": "Valkyria Chronicles used a watercolor aesthetic and tactical gameplay unlike anything else when it launched in 2008",
+      "system": "sony_playstation_3",
+      "rom": "valkyria_chronicles"
+    },
+    {
+      "id": "con_364",
+      "text": "Bayonetta's combo system set a new action game benchmark — developed in just 18 months by PlatinumGames",
+      "system": "microsoft_xbox",
+      "rom": "bayonetta"
+    },
+    {
+      "id": "con_365",
+      "text": "Minecraft on Xbox 360 was a console port that eventually outsold every other platform version of the game",
+      "system": "microsoft_xbox",
+      "rom": "minecraft"
+    },
+    {
+      "id": "con_366",
+      "text": "Super Mario Galaxy 2 was considered unnecessary before release but became one of the highest-rated games ever",
+      "system": "nintendo_wii",
+      "rom": "super_mario_galaxy2"
+    },
+    {
+      "id": "con_367",
+      "text": "Splatoon was created because a Tofu character prototype was too fun to abandon — Nintendo kept the mechanic",
+      "system": "nintendo_wii_u",
+      "rom": "splatoon"
+    },
+    {
+      "id": "con_368",
+      "text": "Ring Fit Adventure turned a resistance ring into a full RPG workout game and sold out globally in the pandemic",
+      "system": "nintendo_switch",
+      "rom": "ring_fit_adventure"
+    },
+    {
+      "id": "con_369",
+      "text": "Fire Emblem: Three Houses had players build bonds during a school semester before sending students into war",
+      "system": "nintendo_switch",
+      "rom": "fire_emblem_three_houses"
+    },
+    {
+      "id": "con_370",
+      "text": "Xenoblade Chronicles 2 sold over 2 million copies on Switch — far more than all previous Xenoblade entries",
+      "system": "nintendo_switch",
+      "rom": "xenoblade_chronicles2"
+    },
+    {
+      "id": "con_371",
+      "text": "Pokemon Red and Blue required trading between cartridges to complete the Pokedex — designed for social play",
+      "system": "gb",
+      "rom": "pokemon_red"
+    },
+    {
+      "id": "con_372",
+      "text": "Pokemon Gold and Silver secretly included the entire Kanto region from Red and Blue as a post-game bonus",
+      "system": "gbc",
+      "rom": "pokemon_gold"
+    },
+    {
+      "id": "con_373",
+      "text": "Metroid II: Return of Samus took place entirely on the alien planet SR388 and added the Spider Ball ability",
+      "system": "gb",
+      "rom": "metroid2"
+    },
+    {
+      "id": "con_374",
+      "text": "Kirby's Dream Land 2 introduced three animal friends that changed Kirby's abilities when ridden",
+      "system": "gb",
+      "rom": "kirbys_dream_land2"
+    },
+    {
+      "id": "con_375",
+      "text": "Golden Sun: The Lost Age required a password or link cable to transfer save data from the first game",
+      "system": "gba",
+      "rom": "golden_sun_lost_age"
+    },
+    {
+      "id": "con_376",
+      "text": "Contra: Hard Corps on Genesis offered four playable characters and five branching endings based on choices",
+      "system": "genesis",
+      "rom": "contra_hard_corps"
+    },
+    {
+      "id": "con_377",
+      "text": "Strider on Genesis is praised as one of the finest arcade ports on the system with slick, fast action",
+      "system": "genesis",
+      "rom": "strider"
+    },
+    {
+      "id": "con_378",
+      "text": "Vectorman on Genesis used pre-rendered 3D orb sprites and was bundled as a technical showcase in some regions",
+      "system": "genesis",
+      "rom": "vectorman"
+    },
+    {
+      "id": "con_379",
+      "text": "Tombi! on PS1 is one of the rarest games in North America due to a very limited print run",
+      "system": "psx",
+      "rom": "tombi"
+    },
+    {
+      "id": "con_380",
+      "text": "Tactics Ogre is widely considered the greatest strategy RPG and directly inspired Final Fantasy Tactics",
+      "system": "psx",
+      "rom": "tactics_ogre"
+    },
+    {
+      "id": "con_381",
+      "text": "Vagrant Story's weapon-affinity crafting system is so deep that players still share optimized strategies today",
+      "system": "psx",
+      "rom": "vagrant_story"
+    },
+    {
+      "id": "con_382",
+      "text": "Gradius on NES popularized the power-up bar where players chose upgrades mid-level in a shoot-em-up",
+      "system": "nes",
+      "rom": "gradius"
+    },
+    {
+      "id": "con_383",
+      "text": "The original Mega Man sold so poorly that Capcom nearly cancelled the series before Mega Man 2 saved it",
+      "system": "nes",
+      "rom": "megaman"
+    },
+    {
+      "id": "con_384",
+      "text": "Battletoads and Double Dragon crossed two Rare franchises in a beat-em-up with two-player co-op on NES",
+      "system": "nes",
+      "rom": "battletoads_double_dragon"
+    },
+    {
+      "id": "con_385",
+      "text": "Conker's Bad Fur Day parodied every popular game and film of the 1990s using adult humor on an N64 cartridge",
+      "system": "n64",
+      "rom": "conkers_bad_fur_day"
+    },
+    {
+      "id": "con_386",
+      "text": "Ikaruga used a polarity-switching mechanic where bullets matching your color healed instead of dealing damage",
+      "system": "nintendo_gamecube",
+      "rom": "ikaruga"
+    },
+    {
+      "id": "con_387",
+      "text": "Soul Calibur on Dreamcast received near-perfect scores and is remembered as a near-flawless arcade port",
+      "system": "dreamcast",
+      "rom": "soul_calibur"
+    },
+    {
+      "id": "con_388",
+      "text": "Viewtiful Joe on GameCube used slow-motion and fast-forward mechanics tied to VFX filters on screen",
+      "system": "nintendo_gamecube",
+      "rom": "viewtiful_joe"
+    },
+    {
+      "id": "con_389",
+      "text": "Star Fox 64 introduced the Rumble Pak and used analog stick aiming in an on-rails shooter for the first time",
+      "system": "n64",
+      "rom": "star_fox_64"
+    },
+    {
+      "id": "con_390",
+      "text": "Pokemon Snap on N64 was a rail photography game where the goal was capturing the best photo of each species",
+      "system": "n64",
+      "rom": "pokemon_snap"
+    },
+    {
+      "id": "con_391",
+      "text": "Diddy Kong Racing on N64 offered a full adventure mode with boss races — a feature Mario Kart 64 lacked",
+      "system": "n64",
+      "rom": "diddy_kong_racing"
+    },
+    {
+      "id": "con_392",
+      "text": "Mega Man X on SNES introduced the dash, wall-climb, and charged shot that defined the X sub-series",
+      "system": "snes",
+      "rom": "mega_man_x"
+    },
+    {
+      "id": "con_393",
+      "text": "Rondo of Blood on PC Engine is considered the finest classic Castlevania before Symphony of the Night",
+      "system": "pcengine",
+      "rom": "rondo_of_blood"
+    },
+    {
+      "id": "con_394",
+      "text": "Donkey Kong Country 2 is regarded by many as better than the original with its pirate ship world theme",
+      "system": "snes",
+      "rom": "donkey_kong_country2"
+    },
+    {
+      "id": "con_395",
+      "text": "EarthBound's anti-piracy code spawned endless enemies on pirated carts and crashed near the final boss",
+      "system": "snes",
+      "rom": "earthbound"
+    },
+    {
+      "id": "con_396",
+      "text": "Yoshi's Island required players to protect Baby Mario while controlling Yoshi through its platformer levels",
+      "system": "snes",
+      "rom": "yoshis_island"
+    },
+    {
+      "id": "con_397",
+      "text": "Killer Instinct on SNES used a compressed arcade soundtrack on cartridge — a technical achievement for 1995",
+      "system": "snes",
+      "rom": "killer_instinct"
+    },
+    {
+      "id": "con_398",
+      "text": "Final Fantasy VI's Kefka is widely considered the series' most effective villain — he actually succeeds",
+      "system": "snes",
+      "rom": "final_fantasy_vi"
+    },
+    {
+      "id": "con_399",
+      "text": "The original Metroid can be completed in under 5 minutes using a long jump glitch to skip most of the game",
+      "system": "nes",
+      "rom": "metroid"
+    },
+    {
+      "id": "con_400",
+      "text": "Tecmo Bowl on NES was so popular its football physics influenced NFL game design on consoles for years",
+      "system": "nes",
+      "rom": "tecmo_bowl"
+    },
+    {
+      "id": "con_401",
+      "text": "Super Mario Bros. 3 introduced the Tanooki Suit, Frog Suit, and Hammer Suit — the most diverse power-up set to date",
+      "system": "nes",
+      "rom": "super_mario_bros3"
+    },
+    {
+      "id": "con_402",
+      "text": "Ocarina of Time introduced Z-targeting, which became the standard for 3D action-adventure game design globally",
+      "system": "n64",
+      "rom": "ocarina_of_time"
+    },
+    {
+      "id": "con_403",
+      "text": "Resident Evil 4 shifted to over-the-shoulder view and redefined action game camera design for the next decade",
+      "system": "nintendo_gamecube",
+      "rom": "resident_evil_4"
+    },
+    {
+      "id": "con_404",
+      "text": "Halo: Combat Evolved defined the console FPS genre and gave Xbox a reason to exist in its first year",
+      "system": "microsoft_xbox",
+      "rom": "halo"
+    },
+    {
+      "id": "con_405",
+      "text": "GoldenEye 007 was developed by a first-time team with no prior game credits and redefined console shooters",
+      "system": "n64",
+      "rom": "goldeneye_007"
+    },
+    {
+      "id": "con_406",
+      "text": "Super Smash Bros. on N64 was originally a simple prototype Nintendo thought was too unusual to release",
+      "system": "n64",
+      "rom": "super_smash_bros"
+    },
+    {
+      "id": "con_407",
+      "text": "Twilight Princess was released simultaneously on Wii and GameCube — one of the last dual-platform Zelda launches",
+      "system": "nintendo_gamecube",
+      "rom": "twilight_princess"
+    },
+    {
+      "id": "con_408",
+      "text": "Kingdom Hearts II introduced Reaction Commands and a more complex combo tree than the original PS2 game",
+      "system": "ps2",
+      "rom": "kingdom_hearts2"
+    },
+    {
+      "id": "con_409",
+      "text": "God of War II on PS2 is widely considered the best-looking PS2 game ever, pushing the hardware to its limit",
+      "system": "ps2",
+      "rom": "god_of_war2"
+    },
+    {
+      "id": "con_410",
+      "text": "Persona 3 introduced the Social Link system — managing daily life alongside dungeon crawling simultaneously",
+      "system": "ps2",
+      "rom": "persona3"
+    },
+    {
+      "id": "con_411",
+      "text": "Persona 4 Golden on PS Vita enhanced the PS2 classic with new content and is considered the definitive version",
+      "system": "psp",
+      "rom": "persona4_golden"
+    },
+    {
+      "id": "con_412",
+      "text": "The Last of Us Part II is the most awarded game in history, recognized by over 300 publications as Game of the Year",
+      "system": "ps4",
+      "rom": "last_of_us2"
+    },
+    {
+      "id": "con_413",
+      "text": "Red Dead Redemption 2 featured over 1,200 actors — one of the largest casts in any entertainment production",
+      "system": "ps4",
+      "rom": "red_dead_redemption2"
+    },
+    {
+      "id": "con_414",
+      "text": "Undertale let players complete the entire game without harming a single enemy and tracked every choice made",
+      "system": "pc",
+      "rom": "undertale"
+    },
+    {
+      "id": "con_415",
+      "text": "Celeste was designed by its developer while battling anxiety — the mountain-climbing mirrors that experience",
+      "system": "nintendo_switch",
+      "rom": "celeste"
+    },
+    {
+      "id": "con_416",
+      "text": "Disco Elysium had players solve a mystery entirely through dialogue and skill checks, with no combat",
+      "system": "pc",
+      "rom": "disco_elysium"
+    },
+    {
+      "id": "con_417",
+      "text": "Chrono Cross had over 40 playable characters — each with a unique recruitment method and brief story arc",
+      "system": "psx",
+      "rom": "chrono_cross"
+    },
+    {
+      "id": "con_418",
+      "text": "Final Fantasy IX was designed as a love letter to the original NES and SNES Final Fantasy era",
+      "system": "psx",
+      "rom": "final_fantasy_ix"
+    },
+    {
+      "id": "con_419",
+      "text": "Ico required players to physically guide a companion — no health bar, just a glowing hand to hold",
+      "system": "ps2",
+      "rom": "ico"
+    },
+    {
+      "id": "con_420",
+      "text": "Bayonetta mounts guns on her high heels, letting her fire in all four directions while fighting simultaneously",
+      "system": "microsoft_xbox",
+      "rom": "bayonetta"
+    },
+    {
+      "id": "con_421",
+      "text": "Octopath Traveler used layered sprites called HD-2D that deliberately evoked SNES-era aesthetics on Switch",
+      "system": "nintendo_switch",
+      "rom": "octopath_traveler"
+    },
+    {
+      "id": "con_422",
+      "text": "Shenmue II moved to Hong Kong and is still awaiting a true narrative resolution despite a third game arriving",
+      "system": "dreamcast",
+      "rom": "shenmue2"
+    },
+    {
+      "id": "con_423",
+      "text": "Castlevania: Aria of Sorrow is set in 2035 and used an enemy soul system to fuel Soma Cruz's powers",
+      "system": "gba",
+      "rom": "aria_of_sorrow"
+    },
+    {
+      "id": "con_424",
+      "text": "The Witcher 3: Wild Hunt featured more voiced dialogue than any game before it when released in 2015",
+      "system": "pc",
+      "rom": "witcher3"
+    },
+    {
+      "id": "con_425",
+      "text": "Hollow Knight's 'Godhome' DLC added 45 boss fights that took average players over 20 hours to complete",
+      "system": "nintendo_switch",
+      "rom": "hollow_knight"
+    },
+    {
+      "id": "con_426",
+      "text": "Fire Emblem: Genealogy of the Holy War spans two generations — players' children fight in the second half",
+      "system": "snes",
+      "rom": "fire_emblem_genealogy"
+    },
+    {
+      "id": "con_427",
+      "text": "Super Metroid's intro cinematic set the entire atmosphere in under two minutes with almost no dialogue",
+      "system": "snes",
+      "rom": "super_metroid"
+    },
+    {
+      "id": "con_428",
+      "text": "Castlevania: Circle of the Moon was a GBA launch title using a card combination system for magic attacks",
+      "system": "gba",
+      "rom": "castlevania_cotm"
+    },
+    {
+      "id": "con_429",
+      "text": "Tony Hawk's Underground let players create a custom skater and follow them through a full narrative story mode",
+      "system": "ps2",
+      "rom": "tony_hawks_underground"
+    },
+    {
+      "id": "con_430",
+      "text": "EarthBound began without a save system — players called their dad from a phone booth to record progress",
+      "system": "snes",
+      "rom": "earthbound"
+    },
+    {
+      "id": "con_431",
+      "text": "Killer Instinct's combo breaker system let players escape multi-hit combos — a mechanic unique to the series",
+      "system": "snes",
+      "rom": "killer_instinct"
+    },
+    {
+      "id": "con_432",
+      "text": "Halo 3's multiplayer let players record and share game films — a feature many shooters still don't offer",
+      "system": "microsoft_xbox",
+      "rom": "halo3"
+    },
+    {
+      "id": "con_433",
+      "text": "Persona 5's UI design is studied in game design courses as a reference example of distinctive interface art",
+      "system": "ps4",
+      "rom": "persona5"
+    },
+    {
+      "id": "con_434",
+      "text": "Mother 3's final chapter had no enemy encounters — players walked unopposed through the game's emotional ending",
+      "system": "gba",
+      "rom": "mother3"
+    },
+    {
+      "id": "con_435",
+      "text": "Oblivion's radiant AI gave every NPC a daily schedule, making the open world feel genuinely alive",
+      "system": "microsoft_xbox",
+      "rom": "oblivion"
+    }
+  ]
+}

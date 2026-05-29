@@ -1,7 +1,2127 @@
 {
-  "version": 55,
+  "version": 56,
   "base_version": 19,
   "files": [
+    {
+      "path": "boxart/culture-aim.jpg",
+      "added": 56,
+      "hash": "1d9967b06c7b67ba1b6b218182f8211e"
+    },
+    {
+      "path": "boxart/culture-aol.jpg",
+      "added": 56,
+      "hash": "d0e5768e401a08d450e87e47754cb55a"
+    },
+    {
+      "path": "boxart/culture-computer_viruses.jpg",
+      "added": 56,
+      "hash": "af864b3d602a36fecda9dd22bdfad111"
+    },
+    {
+      "path": "boxart/culture-early_memes.jpg",
+      "added": 56,
+      "hash": "114140adcf1e789b3b6813a0f47bc966"
+    },
+    {
+      "path": "boxart/culture-facebook.jpg",
+      "added": 56,
+      "hash": "2355e71010ffa5cd53e409a4385a8d77"
+    },
+    {
+      "path": "boxart/culture-geocities.jpg",
+      "added": 56,
+      "hash": "edb2fefe9eb6f8b8fb80824e27ed9db9"
+    },
+    {
+      "path": "boxart/culture-myspace.jpg",
+      "added": 56,
+      "hash": "c146acb01f0a9179fb6bd302bdbb3a01"
+    },
+    {
+      "path": "boxart/culture-napster.jpg",
+      "added": 56,
+      "hash": "1ae6cfc3da6471472131c5416ac658c1"
+    },
+    {
+      "path": "boxart/culture-reddit.jpg",
+      "added": 56,
+      "hash": "e88ba313359c0fa6f551544631b80f1f"
+    },
+    {
+      "path": "boxart/culture-twitter.jpg",
+      "added": 56,
+      "hash": "fb1b730db4933aa5c191d16187d590b2"
+    },
+    {
+      "path": "boxart/culture-wikipedia.jpg",
+      "added": 56,
+      "hash": "d7012053eed9a35f905d04d4b11efed0"
+    },
+    {
+      "path": "boxart/culture-youtube.jpg",
+      "added": 56,
+      "hash": "ca293d911fc0bf4fd48376d097080652"
+    },
+    {
+      "path": "boxart/daphne-dle11.jpg",
+      "added": 56,
+      "hash": "a39969e037c72d181f77411fe14e9642"
+    },
+    {
+      "path": "boxart/default-amiga.jpg",
+      "added": 56,
+      "hash": "7985ccb9083613252500f3ae9f0e8c9e"
+    },
+    {
+      "path": "boxart/default-atari2600.jpg",
+      "added": 56,
+      "hash": "ff7c5f23954ccab58588b01a14b138d0"
+    },
+    {
+      "path": "boxart/default-atari5200.jpg",
+      "added": 56,
+      "hash": "deba66e1ba5fb6a2a32dd866e7a21d9e"
+    },
+    {
+      "path": "boxart/default-atari7800.jpg",
+      "added": 56,
+      "hash": "660868d2200e3c60a5c885b999f3490c"
+    },
+    {
+      "path": "boxart/default-atari800.jpg",
+      "added": 56,
+      "hash": "a6fed293474f09a8528dc462413954e0"
+    },
+    {
+      "path": "boxart/default-atarijaguar.jpg",
+      "added": 56,
+      "hash": "629a0fefeba55600601e9081f8561724"
+    },
+    {
+      "path": "boxart/default-atarilynx.jpg",
+      "added": 56,
+      "hash": "b5c5c8a5161ad82f70eebc2abab37b6f"
+    },
+    {
+      "path": "boxart/default-bally_astrocade.jpg",
+      "added": 56,
+      "hash": "34209c850acca3754a95dfcc9d5295e4"
+    },
+    {
+      "path": "boxart/default-c64.jpg",
+      "added": 56,
+      "hash": "47f1a683a55544445ee01f7c772ccd6b"
+    },
+    {
+      "path": "boxart/default-capcom_play_system.jpg",
+      "added": 56,
+      "hash": "e407c042f8674e81a91fb48647fa89d9"
+    },
+    {
+      "path": "boxart/default-capcom_play_system_ii.jpg",
+      "added": 56,
+      "hash": "c32ca7457ce4c41ec7f9fcb8d3555e79"
+    },
+    {
+      "path": "boxart/default-capcom_play_system_iii.jpg",
+      "added": 56,
+      "hash": "b713875502ee71b1ca1f5bfb7c0a6be7"
+    },
+    {
+      "path": "boxart/default-coleco.jpg",
+      "added": 56,
+      "hash": "a1d2790fdd8c5d822854b6432602c658"
+    },
+    {
+      "path": "boxart/default-console.jpg",
+      "added": 56,
+      "hash": "6c7f22f4ba8d0719f0c33e516b189606"
+    },
+    {
+      "path": "boxart/default-consoles.jpg",
+      "added": 56,
+      "hash": "6c7f22f4ba8d0719f0c33e516b189606"
+    },
+    {
+      "path": "boxart/default-culture.jpg",
+      "added": 56,
+      "hash": "009a41b93b2bc29717491aefbd2775cc"
+    },
+    {
+      "path": "boxart/default-dreamcast.jpg",
+      "added": 56,
+      "hash": "4e8c6d39165f1f2af70c941ebe1ea72b"
+    },
+    {
+      "path": "boxart/default-fairchild_channel_f.jpg",
+      "added": 56,
+      "hash": "ab461ca57010d6a27cec677e9620e75c"
+    },
+    {
+      "path": "boxart/default-gamecube.jpg",
+      "added": 56,
+      "hash": "41901dc3fa20949186f0589ec9048d03"
+    },
+    {
+      "path": "boxart/default-gamegear.jpg",
+      "added": 56,
+      "hash": "511c4869f5dcd15ddd69cb663a0a0024"
+    },
+    {
+      "path": "boxart/default-gb.jpg",
+      "added": 56,
+      "hash": "6ae15312dc640be567d717b32052c9c7"
+    },
+    {
+      "path": "boxart/default-gba.jpg",
+      "added": 56,
+      "hash": "f64fac9939541902be267cef096ab308"
+    },
+    {
+      "path": "boxart/default-gbc.jpg",
+      "added": 56,
+      "hash": "74cea42614dd8b43baababdbe687b2c5"
+    },
+    {
+      "path": "boxart/default-genesis.jpg",
+      "added": 56,
+      "hash": "c8f6b93846d865b0804e1fe1a8a409b8"
+    },
+    {
+      "path": "boxart/default-handhelds.jpg",
+      "added": 56,
+      "hash": "fefb40b463a38dc3779ad22da2747b28"
+    },
+    {
+      "path": "boxart/default-intellivision.jpg",
+      "added": 56,
+      "hash": "552b22bbacda9047cbb12d5ec42a5161"
+    },
+    {
+      "path": "boxart/default-magnavox_odyssey.jpg",
+      "added": 56,
+      "hash": "041569f57533c393314e506d9b7db71c"
+    },
+    {
+      "path": "boxart/default-mame.jpg",
+      "added": 56,
+      "hash": "76d38d02951504ff48a9727054545b9c"
+    },
+    {
+      "path": "boxart/default-mastersystem.jpg",
+      "added": 56,
+      "hash": "88225ae4ddcf80a8f401f064cbc0fdaf"
+    },
+    {
+      "path": "boxart/default-movies.jpg",
+      "added": 56,
+      "hash": "aa1403c5d3c0bb2fa230eb5a5fbf3ea6"
+    },
+    {
+      "path": "boxart/default-msx.jpg",
+      "added": 56,
+      "hash": "f50f160cb2864b619cc9755ce819b9ab"
+    },
+    {
+      "path": "boxart/default-n64.jpg",
+      "added": 56,
+      "hash": "37ebe6d3ce5b809f9120c6c633541696"
+    },
+    {
+      "path": "boxart/default-neogeo.jpg",
+      "added": 56,
+      "hash": "8bbdf19e895a28c06cbad2b987c43afb"
+    },
+    {
+      "path": "boxart/default-nes.jpg",
+      "added": 56,
+      "hash": "27960b31037ab6e39d2a4e617a9b7183"
+    },
+    {
+      "path": "boxart/default-ngp.jpg",
+      "added": 56,
+      "hash": "9de534cd71fc6e14084a7adb4321a3d5"
+    },
+    {
+      "path": "boxart/default-ngpc.jpg",
+      "added": 56,
+      "hash": "8d6ca10c9b9f7d9d94daea3489f481e1"
+    },
+    {
+      "path": "boxart/default-nintendo_3ds.jpg",
+      "added": 56,
+      "hash": "2b0a19c98eba4b5e530083044f7739af"
+    },
+    {
+      "path": "boxart/default-nintendo_ds.jpg",
+      "added": 56,
+      "hash": "7de7c3e58e7aae828688fcf7d9607a0c"
+    },
+    {
+      "path": "boxart/default-nintendo_switch.jpg",
+      "added": 56,
+      "hash": "bff0b7f1a372ca454c4423a51c1df597"
+    },
+    {
+      "path": "boxart/default-pcengine.jpg",
+      "added": 56,
+      "hash": "0436503349f9c0521dea8fb2d0d86660"
+    },
+    {
+      "path": "boxart/default-philips_cd-i.jpg",
+      "added": 56,
+      "hash": "af64dd387f2f8b4c8db9faf0201cb5f3"
+    },
+    {
+      "path": "boxart/default-pixelcade.jpg",
+      "added": 56,
+      "hash": "8525a3aec379f167119b73aafbc6cdf3"
+    },
+    {
+      "path": "boxart/default-ps2.jpg",
+      "added": 56,
+      "hash": "fd5a7bb6a2e4027d06a2653652aad60f"
+    },
+    {
+      "path": "boxart/default-ps3.jpg",
+      "added": 56,
+      "hash": "35e95c81f269b51eadc5786410d140f4"
+    },
+    {
+      "path": "boxart/default-ps4.jpg",
+      "added": 56,
+      "hash": "7383a1219d39271df9b6d1f19ef6b82b"
+    },
+    {
+      "path": "boxart/default-ps5.jpg",
+      "added": 56,
+      "hash": "892ae0b800a6ab148981853ec6c97002"
+    },
+    {
+      "path": "boxart/default-psp.jpg",
+      "added": 56,
+      "hash": "59f3e23e9f98eeefa5eb6fe0aa20cae7"
+    },
+    {
+      "path": "boxart/default-psvita.jpg",
+      "added": 56,
+      "hash": "27841f4c3096915f7e7a057eef853718"
+    },
+    {
+      "path": "boxart/default-psx.jpg",
+      "added": 56,
+      "hash": "8ed0569b701f9c2d6e92b1da8e46cdad"
+    },
+    {
+      "path": "boxart/default-retrotech.jpg",
+      "added": 56,
+      "hash": "af69357d54d2410494972587620c8fc0"
+    },
+    {
+      "path": "boxart/default-sammy_atomiswave.jpg",
+      "added": 56,
+      "hash": "c4b33f98b129e9e43521524ea862e701"
+    },
+    {
+      "path": "boxart/default-saturn.jpg",
+      "added": 56,
+      "hash": "3667f9a7a1e1ee949a7d2e07f9c92b44"
+    },
+    {
+      "path": "boxart/default-sega32x.jpg",
+      "added": 56,
+      "hash": "7cbf1b64233e601f70dd8ab18e594b83"
+    },
+    {
+      "path": "boxart/default-sega_model_2.jpg",
+      "added": 56,
+      "hash": "55c569b4ff0bea971dbb54946b776c5e"
+    },
+    {
+      "path": "boxart/default-sega_model_3.jpg",
+      "added": 56,
+      "hash": "b5caf8960378ef37612780f515b6ce8a"
+    },
+    {
+      "path": "boxart/default-sega_naomi.jpg",
+      "added": 56,
+      "hash": "ef9084aa84b16d3c892f209181e9e0b8"
+    },
+    {
+      "path": "boxart/default-segacd.jpg",
+      "added": 56,
+      "hash": "986bb0f6d9998726fcbeb0f3b2b72990"
+    },
+    {
+      "path": "boxart/default-snes.jpg",
+      "added": 56,
+      "hash": "e1cf28ab7578ca47fb9ad64c8fdf3b18"
+    },
+    {
+      "path": "boxart/default-taito_type_x.jpg",
+      "added": 56,
+      "hash": "9f8ae34713d00df7205f5211e2162886"
+    },
+    {
+      "path": "boxart/default-toys.jpg",
+      "added": 56,
+      "hash": "e9bad4d73f3549729cd2d05d8e6b5828"
+    },
+    {
+      "path": "boxart/default-tvshows.jpg",
+      "added": 56,
+      "hash": "9989158db4e31cac84f8be00163c20fa"
+    },
+    {
+      "path": "boxart/default-vectrex.jpg",
+      "added": 56,
+      "hash": "4026b7361eab9973941fcf6402f25791"
+    },
+    {
+      "path": "boxart/default-virtualboy.jpg",
+      "added": 56,
+      "hash": "5bcf1f046272677cd5c47b4b28021257"
+    },
+    {
+      "path": "boxart/default-wii.jpg",
+      "added": 56,
+      "hash": "eec42d66e55f147b41a5fe1ec3fcda4b"
+    },
+    {
+      "path": "boxart/default-wii_u.jpg",
+      "added": 56,
+      "hash": "7dc62c4e630ce17f67e9252495ad4c6a"
+    },
+    {
+      "path": "boxart/default-wonderswan.jpg",
+      "added": 56,
+      "hash": "37d0ffceca62d97ff1b4674c29326afe"
+    },
+    {
+      "path": "boxart/default-xbox.jpg",
+      "added": 56,
+      "hash": "14aebbe2badf20cf9e8df8374e411b17"
+    },
+    {
+      "path": "boxart/default-xbox360.jpg",
+      "added": 56,
+      "hash": "1806aa0ec49a7fe10e5dbe8a0a111dca"
+    },
+    {
+      "path": "boxart/default-xboxone.jpg",
+      "added": 56,
+      "hash": "fa2aa4e7d6ad8a7ad150d8b825f39118"
+    },
+    {
+      "path": "boxart/default-xboxseriesx.jpg",
+      "added": 56,
+      "hash": "f8cf7eadfb80fae454c1202423b1930d"
+    },
+    {
+      "path": "boxart/default-zxspectrum.jpg",
+      "added": 56,
+      "hash": "3fbc0e5618a46e49f750c9f246db81c2"
+    },
+    {
+      "path": "boxart/mame-1942.jpg",
+      "added": 56,
+      "hash": "b37a96a2a41e0d359f7c1c03c5f94c60"
+    },
+    {
+      "path": "boxart/mame-1943.jpg",
+      "added": 56,
+      "hash": "60965935501efee4bb64ca1b49b94a8b"
+    },
+    {
+      "path": "boxart/mame-19xx.jpg",
+      "added": 56,
+      "hash": "39befa76566de367a5fc62fb4981f403"
+    },
+    {
+      "path": "boxart/mame-aburner.jpg",
+      "added": 56,
+      "hash": "350891b8c7e2f9dde2354f2acf38abef"
+    },
+    {
+      "path": "boxart/mame-ace.jpg",
+      "added": 56,
+      "hash": "e91d373a17cbed0e9b72dfd7bb5b18cf"
+    },
+    {
+      "path": "boxart/mame-aliens.jpg",
+      "added": 56,
+      "hash": "e3551e7ccfde84fbbd44b96344a6876b"
+    },
+    {
+      "path": "boxart/mame-aliensyn.jpg",
+      "added": 56,
+      "hash": "f5cb5e05b44a8fa8c2790b3f92331438"
+    },
+    {
+      "path": "boxart/mame-altbeast.jpg",
+      "added": 56,
+      "hash": "4108cdcd305f927e14f7a2cacea57807"
+    },
+    {
+      "path": "boxart/mame-aof.jpg",
+      "added": 56,
+      "hash": "9a6dfd6c7ac280ada765c147cccbef99"
+    },
+    {
+      "path": "boxart/mame-arabian.jpg",
+      "added": 56,
+      "hash": "3b5aaf21fd2ab5a71de1ac6acf89e002"
+    },
+    {
+      "path": "boxart/mame-archrivl.jpg",
+      "added": 56,
+      "hash": "e795f157a1daf74db657a4fc16f4382a"
+    },
+    {
+      "path": "boxart/mame-area51.jpg",
+      "added": 56,
+      "hash": "67e9207e8ef7f0e4813fb8e1e9928ca1"
+    },
+    {
+      "path": "boxart/mame-arkanoid.jpg",
+      "added": 56,
+      "hash": "6b30f076860b26d5eb158bf32e1f368c"
+    },
+    {
+      "path": "boxart/mame-armwar.jpg",
+      "added": 56,
+      "hash": "70881dd0e0877dc02aeee5fae27de356"
+    },
+    {
+      "path": "boxart/mame-armwrest.jpg",
+      "added": 56,
+      "hash": "cc19d98c463fd3381d3286b8e4080f70"
+    },
+    {
+      "path": "boxart/mame-astdelux.jpg",
+      "added": 56,
+      "hash": "3871f06d6b753a1fcdc96b64f0324022"
+    },
+    {
+      "path": "boxart/mame-asterix.jpg",
+      "added": 56,
+      "hash": "c5cee7f53ca9325c81c3bc4458ade95f"
+    },
+    {
+      "path": "boxart/mame-asteroid.jpg",
+      "added": 56,
+      "hash": "04a22ececf8fa346db0b12c0b0c3eaa0"
+    },
+    {
+      "path": "boxart/mame-avp.jpg",
+      "added": 56,
+      "hash": "d9fd9bbdc6838a64b96e713c2462284b"
+    },
+    {
+      "path": "boxart/mame-avsp.jpg",
+      "added": 56,
+      "hash": "d9fd9bbdc6838a64b96e713c2462284b"
+    },
+    {
+      "path": "boxart/mame-batcir.jpg",
+      "added": 56,
+      "hash": "10a4ad043439c9246c4aac9e273e98cb"
+    },
+    {
+      "path": "boxart/mame-batsugun.jpg",
+      "added": 56,
+      "hash": "9a82e3458feef747b5dc023aba6c42b1"
+    },
+    {
+      "path": "boxart/mame-berzerk.jpg",
+      "added": 56,
+      "hash": "a880ab6e746d23bc7f9ce7b726a2c71f"
+    },
+    {
+      "path": "boxart/mame-bm2ndmix.jpg",
+      "added": 56,
+      "hash": "758f6c0c65365b2a75f887ef320194a0"
+    },
+    {
+      "path": "boxart/mame-breakout.jpg",
+      "added": 56,
+      "hash": "c5507012464176cbb815a107c46fb84c"
+    },
+    {
+      "path": "boxart/mame-btime.jpg",
+      "added": 56,
+      "hash": "da64bb78d3421fb6192f960a55dee088"
+    },
+    {
+      "path": "boxart/mame-bublbobl.jpg",
+      "added": 56,
+      "hash": "b6b4148378c28b0c994882c5ecbc9e57"
+    },
+    {
+      "path": "boxart/mame-bucky.jpg",
+      "added": 56,
+      "hash": "ada9177229c6d4abfea4b4bcc3f8cce2"
+    },
+    {
+      "path": "boxart/mame-bwidow.jpg",
+      "added": 56,
+      "hash": "cb0f3c3c8ec5d3b3a4a8dd2d1b08e8d7"
+    },
+    {
+      "path": "boxart/mame-bzone.jpg",
+      "added": 56,
+      "hash": "02e37dbdf76c34b75237b97a280666d3"
+    },
+    {
+      "path": "boxart/mame-capsnk.jpg",
+      "added": 56,
+      "hash": "dc41d7ebd757fb27d63d1f27fce7ef90"
+    },
+    {
+      "path": "boxart/mame-captaven.jpg",
+      "added": 56,
+      "hash": "1f5e77ceb8691a01fa5e4ecac39d25e4"
+    },
+    {
+      "path": "boxart/mame-captcomm.jpg",
+      "added": 56,
+      "hash": "161fc8a715d322755555f6d2f0a4a0e1"
+    },
+    {
+      "path": "boxart/mame-centiped.jpg",
+      "added": 56,
+      "hash": "e8420d525fa9767fe1fdfa1957dea066"
+    },
+    {
+      "path": "boxart/mame-chasehq.jpg",
+      "added": 56,
+      "hash": "c63269e65290a225113941b14c4db5eb"
+    },
+    {
+      "path": "boxart/mame-circus.jpg",
+      "added": 56,
+      "hash": "63a66844fb30ec3bdc4340c7996ae7e1"
+    },
+    {
+      "path": "boxart/mame-columns.jpg",
+      "added": 56,
+      "hash": "a9d2a537dcd2d0a4cc674518780bb8f1"
+    },
+    {
+      "path": "boxart/mame-commando.jpg",
+      "added": 56,
+      "hash": "a32f622e55ef04340437fb05fa733ef1"
+    },
+    {
+      "path": "boxart/mame-congo.jpg",
+      "added": 56,
+      "hash": "72ff89e0190c87376e56367e75b09dff"
+    },
+    {
+      "path": "boxart/mame-crusnusa.jpg",
+      "added": 56,
+      "hash": "a77e276e732c606907208549d2cceda9"
+    },
+    {
+      "path": "boxart/mame-crusnwld.jpg",
+      "added": 56,
+      "hash": "6d602eb81c5a9986a57f03e4904daf1b"
+    },
+    {
+      "path": "boxart/mame-crzytaxi.jpg",
+      "added": 56,
+      "hash": "e8010dc26a22ff3e1a8bd4882c98ff56"
+    },
+    {
+      "path": "boxart/mame-cyberbal.jpg",
+      "added": 56,
+      "hash": "0b7211de4d78118216aadba6b65a6ab4"
+    },
+    {
+      "path": "boxart/mame-cybsled.jpg",
+      "added": 56,
+      "hash": "eaaa0919c32268adb0adf38084c018ae"
+    },
+    {
+      "path": "boxart/mame-darius.jpg",
+      "added": 56,
+      "hash": "b4a0b9918a5d1d3c2e6f10a175616ab0"
+    },
+    {
+      "path": "boxart/mame-dariusg.jpg",
+      "added": 56,
+      "hash": "8e011385f3a649b2c584b701a429e693"
+    },
+    {
+      "path": "boxart/mame-daytona.jpg",
+      "added": 56,
+      "hash": "8deb5d1acf0c0009ee3535786f4f181c"
+    },
+    {
+      "path": "boxart/mame-daytona2.jpg",
+      "added": 56,
+      "hash": "495925efbacfd37468196d733b48d329"
+    },
+    {
+      "path": "boxart/mame-ddragon.jpg",
+      "added": 56,
+      "hash": "ac49d086f7ee44704f26ae5acb706d05"
+    },
+    {
+      "path": "boxart/mame-ddrmax.jpg",
+      "added": 56,
+      "hash": "60da806519ea30ce211efa94e0674125"
+    },
+    {
+      "path": "boxart/mame-ddsom.jpg",
+      "added": 56,
+      "hash": "56e73b3b7e7a7504d476f1682c41b3b7"
+    },
+    {
+      "path": "boxart/mame-ddtod.jpg",
+      "added": 56,
+      "hash": "414f9620c168f641193d825d3e873a94"
+    },
+    {
+      "path": "boxart/mame-defender.jpg",
+      "added": 56,
+      "hash": "56fb7fabc2454f0a7daa925ef4c0d040"
+    },
+    {
+      "path": "boxart/mame-depthch.jpg",
+      "added": 56,
+      "hash": "9d99a267a818fad383b2bc45cc29bc7d"
+    },
+    {
+      "path": "boxart/mame-digdug.jpg",
+      "added": 56,
+      "hash": "5353d25f7be030ba7f55d1ce423a9875"
+    },
+    {
+      "path": "boxart/mame-dimahoo.jpg",
+      "added": 56,
+      "hash": "84cf066346651fe8e29c26022cb15184"
+    },
+    {
+      "path": "boxart/mame-dino.jpg",
+      "added": 56,
+      "hash": "c0655b98eb649cdb63b766dec933b5e6"
+    },
+    {
+      "path": "boxart/mame-dkong.jpg",
+      "added": 56,
+      "hash": "1b9e009fa238eba39eef309a0d2774e9"
+    },
+    {
+      "path": "boxart/mame-dkong3.jpg",
+      "added": 56,
+      "hash": "4c52c8a5b323207ebcb4736c55c63016"
+    },
+    {
+      "path": "boxart/mame-dkongjr.jpg",
+      "added": 56,
+      "hash": "172f64e2068bed4ac2f633189510d8f7"
+    },
+    {
+      "path": "boxart/mame-dokidoki.jpg",
+      "added": 56,
+      "hash": "0d1572c4f9abfccdb2ffcfd5d96cfa10"
+    },
+    {
+      "path": "boxart/mame-dotron.jpg",
+      "added": 56,
+      "hash": "c67790c533e37c2c786ccfa4b0dbf083"
+    },
+    {
+      "path": "boxart/mame-dspirit.jpg",
+      "added": 56,
+      "hash": "21dff1e798ca269a271a4d57a8412587"
+    },
+    {
+      "path": "boxart/mame-dstlk.jpg",
+      "added": 56,
+      "hash": "68fd5acb53531b80fed3989fb0d18e09"
+    },
+    {
+      "path": "boxart/mame-espgal.jpg",
+      "added": 56,
+      "hash": "707103793b82b5d33a2f12c65e3a3832"
+    },
+    {
+      "path": "boxart/mame-exerion.jpg",
+      "added": 56,
+      "hash": "d133e45af393e04fef79d9fdd3414011"
+    },
+    {
+      "path": "boxart/mame-fatfury1.jpg",
+      "added": 56,
+      "hash": "b840755bbfb190cdada19733a07ec35c"
+    },
+    {
+      "path": "boxart/mame-ffight.jpg",
+      "added": 56,
+      "hash": "ceef84ef0a8cdb57e85b4403147664c5"
+    },
+    {
+      "path": "boxart/mame-ffight2.jpg",
+      "added": 56,
+      "hash": "c0612fa18d869c15bdc9b589353dd222"
+    },
+    {
+      "path": "boxart/mame-foodf.jpg",
+      "added": 56,
+      "hash": "b64728f77b23c4d4897086889cb6318d"
+    },
+    {
+      "path": "boxart/mame-forgottn.jpg",
+      "added": 56,
+      "hash": "85845f9a38162d21549b338e9d8ab2fc"
+    },
+    {
+      "path": "boxart/mame-frogger.jpg",
+      "added": 56,
+      "hash": "1f301fc7fe71b851c9315f44a19a2996"
+    },
+    {
+      "path": "boxart/mame-galaga.jpg",
+      "added": 56,
+      "hash": "0ec97d877db13875ec7c5795fcab4b14"
+    },
+    {
+      "path": "boxart/mame-galaga88.jpg",
+      "added": 56,
+      "hash": "aa4938624a683b57e400c62fc288ce91"
+    },
+    {
+      "path": "boxart/mame-galaxian.jpg",
+      "added": 56,
+      "hash": "ce3cba1cb297c842baab4a153334cc29"
+    },
+    {
+      "path": "boxart/mame-gaplus.jpg",
+      "added": 56,
+      "hash": "7e89551aeb01ef526322578de3a4c409"
+    },
+    {
+      "path": "boxart/mame-garou.jpg",
+      "added": 56,
+      "hash": "5d6f3da00db9cc3f4950ff33a05c5e9f"
+    },
+    {
+      "path": "boxart/mame-gaunt2.jpg",
+      "added": 56,
+      "hash": "4532c50dc9e628bdf2113481ba8417ca"
+    },
+    {
+      "path": "boxart/mame-gauntlet.jpg",
+      "added": 56,
+      "hash": "b806a5456522708088405fbf09296d6d"
+    },
+    {
+      "path": "boxart/mame-gforce2.jpg",
+      "added": 56,
+      "hash": "e27084900b7496de3c2d8707110bd3c5"
+    },
+    {
+      "path": "boxart/mame-ggx.jpg",
+      "added": 56,
+      "hash": "30f22ad0111dfc65668a353350f2a5ee"
+    },
+    {
+      "path": "boxart/mame-ghouls.jpg",
+      "added": 56,
+      "hash": "425b555378bfc94d88dba6e277ac6419"
+    },
+    {
+      "path": "boxart/mame-gigawing.jpg",
+      "added": 56,
+      "hash": "73292381e752d30e07250651a36c8a9e"
+    },
+    {
+      "path": "boxart/mame-goldnaxe.jpg",
+      "added": 56,
+      "hash": "aa2f4aa4f8cf4f641a13617aa58ecf1b"
+    },
+    {
+      "path": "boxart/mame-gorf.jpg",
+      "added": 56,
+      "hash": "c700115be43fd4b9800366f1c1849612"
+    },
+    {
+      "path": "boxart/mame-gradius.jpg",
+      "added": 56,
+      "hash": "15498e6bb023dd692d10f7a502fe40cb"
+    },
+    {
+      "path": "boxart/mame-gradius2.jpg",
+      "added": 56,
+      "hash": "6a994ec16e5f594716fc9aaf84289314"
+    },
+    {
+      "path": "boxart/mame-gradius3.jpg",
+      "added": 56,
+      "hash": "f456592feb457e075639c0a2cb7548a4"
+    },
+    {
+      "path": "boxart/mame-gravitar.jpg",
+      "added": 56,
+      "hash": "bd8f55123e24cce829d437cd49533ff2"
+    },
+    {
+      "path": "boxart/mame-gtfrk.jpg",
+      "added": 56,
+      "hash": "ddcba9736ad4cb65d6c05e33de1fdf73"
+    },
+    {
+      "path": "boxart/mame-gunbird.jpg",
+      "added": 56,
+      "hash": "6c852fc6468480d39c269f484b9dbf5e"
+    },
+    {
+      "path": "boxart/mame-gunfight.jpg",
+      "added": 56,
+      "hash": "415083c40b6fcb571e56a45cd93716e6"
+    },
+    {
+      "path": "boxart/mame-gunsmoke.jpg",
+      "added": 56,
+      "hash": "6bc777bec42c03bf179320c5f1c831be"
+    },
+    {
+      "path": "boxart/mame-gyruss.jpg",
+      "added": 56,
+      "hash": "82124a0e4c93e6d6dfcd848e1bfdf043"
+    },
+    {
+      "path": "boxart/mame-hangon.jpg",
+      "added": 56,
+      "hash": "c9e364a025cc303b10a06d372678103f"
+    },
+    {
+      "path": "boxart/mame-harddriv.jpg",
+      "added": 56,
+      "hash": "be1909862e4980ff66012f56cf09b583"
+    },
+    {
+      "path": "boxart/mame-hotd.jpg",
+      "added": 56,
+      "hash": "4c8f51314df5c3d2c758f5e3f1e1aa7c"
+    },
+    {
+      "path": "boxart/mame-hotd2.jpg",
+      "added": 56,
+      "hash": "39b3d669c206240751c92a8fd85aee18"
+    },
+    {
+      "path": "boxart/mame-hotd3.jpg",
+      "added": 56,
+      "hash": "dc0cf6f1b9bdc3967454beeaea9e1a6a"
+    },
+    {
+      "path": "boxart/mame-hsf2.jpg",
+      "added": 56,
+      "hash": "53a07aafd827842f4904dbc07b040cbc"
+    },
+    {
+      "path": "boxart/mame-hyperspt.jpg",
+      "added": 56,
+      "hash": "63c2c496720fb4760115400f0e72129e"
+    },
+    {
+      "path": "boxart/mame-hyprdriv.jpg",
+      "added": 56,
+      "hash": "f1a784a2e215547a880d3d1f464189ec"
+    },
+    {
+      "path": "boxart/mame-ikari.jpg",
+      "added": 56,
+      "hash": "0440ef1ff2c773fbb0ecb70ce7f4fc7a"
+    },
+    {
+      "path": "boxart/mame-ikaruga.jpg",
+      "added": 56,
+      "hash": "081c10785dfc7a28602b570d6dbec71a"
+    },
+    {
+      "path": "boxart/mame-invaders.jpg",
+      "added": 56,
+      "hash": "bfb3d804ca5d6e59a586f6c5f213ac27"
+    },
+    {
+      "path": "boxart/mame-irobot.jpg",
+      "added": 56,
+      "hash": "f65112d1753165c9b0218d36d37e9473"
+    },
+    {
+      "path": "boxart/mame-jedi.jpg",
+      "added": 56,
+      "hash": "cc497f710c114b3dbc9ba247555d3cd3"
+    },
+    {
+      "path": "boxart/mame-joust.jpg",
+      "added": 56,
+      "hash": "a9033ce2cc045ad6cef77ae36364cde9"
+    },
+    {
+      "path": "boxart/mame-kangaroo.jpg",
+      "added": 56,
+      "hash": "3e55b3ce5ba2961da63ce676aecad0de"
+    },
+    {
+      "path": "boxart/mame-karnov.jpg",
+      "added": 56,
+      "hash": "c584c07272ba76188442368f14ed6c9a"
+    },
+    {
+      "path": "boxart/mame-kchamp.jpg",
+      "added": 56,
+      "hash": "e6f7e0a59f40a6cdcb515ae7442e12a2"
+    },
+    {
+      "path": "boxart/mame-kinst.jpg",
+      "added": 56,
+      "hash": "ad99a48320c22021dcae99e9239ca54c"
+    },
+    {
+      "path": "boxart/mame-klax.jpg",
+      "added": 56,
+      "hash": "95bc52156feb753a6797ef813da38ffc"
+    },
+    {
+      "path": "boxart/mame-knights.jpg",
+      "added": 56,
+      "hash": "920b538b6ab4954c3cd0e9c40d402aef"
+    },
+    {
+      "path": "boxart/mame-kod.jpg",
+      "added": 56,
+      "hash": "1da9b3bb297c024f49bb17b816e13171"
+    },
+    {
+      "path": "boxart/mame-kof94.jpg",
+      "added": 56,
+      "hash": "846cab8f45142b8b402ce8ec847a72e7"
+    },
+    {
+      "path": "boxart/mame-kof96.jpg",
+      "added": 56,
+      "hash": "666f44390c603805f528c46243ffa35a"
+    },
+    {
+      "path": "boxart/mame-kof97.jpg",
+      "added": 56,
+      "hash": "771d849a5220540145f0ee670337d613"
+    },
+    {
+      "path": "boxart/mame-kof98.jpg",
+      "added": 56,
+      "hash": "7fd60e099ddebec20cc569fda1284567"
+    },
+    {
+      "path": "boxart/mame-kof99.jpg",
+      "added": 56,
+      "hash": "0070be4aaa4ebb5e6620d66ddffb22e9"
+    },
+    {
+      "path": "boxart/mame-kungfum.jpg",
+      "added": 56,
+      "hash": "fa24b9849a363b8d5f87eb1d5e936b2d"
+    },
+    {
+      "path": "boxart/mame-lastbld2.jpg",
+      "added": 56,
+      "hash": "d890546e863c7d64ca9688a68b1cb6bb"
+    },
+    {
+      "path": "boxart/mame-lifefrce.jpg",
+      "added": 56,
+      "hash": "61aeefc9c536bce2c311b733a1c51a20"
+    },
+    {
+      "path": "boxart/mame-llander.jpg",
+      "added": 56,
+      "hash": "98ce55a2022a3d8a00a88a5f4c6d43a3"
+    },
+    {
+      "path": "boxart/mame-machbrkr.jpg",
+      "added": 56,
+      "hash": "07019a09d240adfe94dc6bc5221cd6ee"
+    },
+    {
+      "path": "boxart/mame-macross.jpg",
+      "added": 56,
+      "hash": "f09f942a70afe251386219ec429b8431"
+    },
+    {
+      "path": "boxart/mame-mappy.jpg",
+      "added": 56,
+      "hash": "d26046e920bdca071cd9a65858b0dfd4"
+    },
+    {
+      "path": "boxart/mame-mercs.jpg",
+      "added": 56,
+      "hash": "f3e8a57aa365ee398e305226c86b67f3"
+    },
+    {
+      "path": "boxart/mame-midres.jpg",
+      "added": 56,
+      "hash": "59ed0945b28cc46bb4239e7a6964bbc2"
+    },
+    {
+      "path": "boxart/mame-milliped.jpg",
+      "added": 56,
+      "hash": "6bb70a324c4f90ff814d2de5117307d7"
+    },
+    {
+      "path": "boxart/mame-missile.jpg",
+      "added": 56,
+      "hash": "4a74b80f63f6e3be195f6d7710693e7b"
+    },
+    {
+      "path": "boxart/mame-mk.jpg",
+      "added": 56,
+      "hash": "61b424ce7b318f2dd9860fd34eda5a54"
+    },
+    {
+      "path": "boxart/mame-mk2.jpg",
+      "added": 56,
+      "hash": "8624c2c01945b0760c5e237c604999c9"
+    },
+    {
+      "path": "boxart/mame-mk3.jpg",
+      "added": 56,
+      "hash": "4a07f77d973160011a4325557b7e7a51"
+    },
+    {
+      "path": "boxart/mame-moomesa.jpg",
+      "added": 56,
+      "hash": "4a55ee6e280353ef99d44fc24ed7f8ff"
+    },
+    {
+      "path": "boxart/mame-mrdo.jpg",
+      "added": 56,
+      "hash": "972383af6de3eee12e4c9737a3d28cb3"
+    },
+    {
+      "path": "boxart/mame-msh.jpg",
+      "added": 56,
+      "hash": "c470c80c33d0e962df05db3266c797c7"
+    },
+    {
+      "path": "boxart/mame-mslug.jpg",
+      "added": 56,
+      "hash": "dc16c16d3c64f1f6376ed1595bd24a12"
+    },
+    {
+      "path": "boxart/mame-mslug2.jpg",
+      "added": 56,
+      "hash": "5b0862e0d91df0d3ae8a9fcfbb821843"
+    },
+    {
+      "path": "boxart/mame-mslug3.jpg",
+      "added": 56,
+      "hash": "5ecad66c70b1240ac698fcf8ab81c0ce"
+    },
+    {
+      "path": "boxart/mame-mslugx.jpg",
+      "added": 56,
+      "hash": "b30fdda40a50a84dd31ce6d53c820176"
+    },
+    {
+      "path": "boxart/mame-mspacman.jpg",
+      "added": 56,
+      "hash": "f39175a7a3976b40658b216d98c5234e"
+    },
+    {
+      "path": "boxart/mame-mvsc.jpg",
+      "added": 56,
+      "hash": "2eaf4f2f7b152942e7e95672749bdd33"
+    },
+    {
+      "path": "boxart/mame-mvsc2.jpg",
+      "added": 56,
+      "hash": "66fd29e9d4ceefeeabd9b57c7342a48d"
+    },
+    {
+      "path": "boxart/mame-narc.jpg",
+      "added": 56,
+      "hash": "5c019873d483d77765297f00bc5db44f"
+    },
+    {
+      "path": "boxart/mame-nbajam.jpg",
+      "added": 56,
+      "hash": "13c7af171808451d7b4f5f5f90424590"
+    },
+    {
+      "path": "boxart/mame-nbajamte.jpg",
+      "added": 56,
+      "hash": "04422b9ea950471c356c0aee95deb38f"
+    },
+    {
+      "path": "boxart/mame-nitedrvr.jpg",
+      "added": 56,
+      "hash": "6155682551ba2e7b4f53e16f7ee02dd1"
+    },
+    {
+      "path": "boxart/mame-nslasher.jpg",
+      "added": 56,
+      "hash": "8626d9bf946013c145edeb778c0830f3"
+    },
+    {
+      "path": "boxart/mame-nwarr.jpg",
+      "added": 56,
+      "hash": "4399c0ea314467f2d8906b231360eefb"
+    },
+    {
+      "path": "boxart/mame-offroad.jpg",
+      "added": 56,
+      "hash": "54eaba41b92d65cd00654e9052868873"
+    },
+    {
+      "path": "boxart/mame-opwolf.jpg",
+      "added": 56,
+      "hash": "8c582c58d1f0779d9f2389291e6de8ce"
+    },
+    {
+      "path": "boxart/mame-outrun.jpg",
+      "added": 56,
+      "hash": "5c45b7ff8960df29eca79d40da460d11"
+    },
+    {
+      "path": "boxart/mame-pacland.jpg",
+      "added": 56,
+      "hash": "e26e45a030febe9c4a31ebbde175e4f8"
+    },
+    {
+      "path": "boxart/mame-pacman.jpg",
+      "added": 56,
+      "hash": "233202cba47e75605f22c058ccdd8d79"
+    },
+    {
+      "path": "boxart/mame-pacnpal.jpg",
+      "added": 56,
+      "hash": "7fe177d7fb6ee430ff21e97b43f61b3d"
+    },
+    {
+      "path": "boxart/mame-pang.jpg",
+      "added": 56,
+      "hash": "9e7dcfbee1620b0a4937d4acd61ef174"
+    },
+    {
+      "path": "boxart/mame-paperboy.jpg",
+      "added": 56,
+      "hash": "d2477dfdbdc5408cde74913da740bde0"
+    },
+    {
+      "path": "boxart/mame-pbobble.jpg",
+      "added": 56,
+      "hash": "3498fa2d75adb060749d93ad1d3f663a"
+    },
+    {
+      "path": "boxart/mame-pbobble2.jpg",
+      "added": 56,
+      "hash": "19a4c2035dc76d3e5080ba5006e831f1"
+    },
+    {
+      "path": "boxart/mame-pdrift.jpg",
+      "added": 56,
+      "hash": "0a36a86dace74ca4dcc42d8d55ae8473"
+    },
+    {
+      "path": "boxart/mame-pengo.jpg",
+      "added": 56,
+      "hash": "b57dbde0f23a76f73388a0b1f179f13a"
+    },
+    {
+      "path": "boxart/mame-phoenix.jpg",
+      "added": 56,
+      "hash": "94ceb45984479021d8cfa61a8546de61"
+    },
+    {
+      "path": "boxart/mame-polepos.jpg",
+      "added": 56,
+      "hash": "5fd6e689162606541ba20f19bbb2eef7"
+    },
+    {
+      "path": "boxart/mame-polepos2.jpg",
+      "added": 56,
+      "hash": "a2de8fe5b20759fd7deffe316acf44ce"
+    },
+    {
+      "path": "boxart/mame-pong.jpg",
+      "added": 56,
+      "hash": "50b27d72c05268e8c439a5675c7729fa"
+    },
+    {
+      "path": "boxart/mame-popeye.jpg",
+      "added": 56,
+      "hash": "681a2f67a613077e601dc09a50e1568f"
+    },
+    {
+      "path": "boxart/mame-pow.jpg",
+      "added": 56,
+      "hash": "4624429a55706b8ba9319abd766be180"
+    },
+    {
+      "path": "boxart/mame-primrage.jpg",
+      "added": 56,
+      "hash": "81d17c9043d860ed0814a881e8a2e782"
+    },
+    {
+      "path": "boxart/mame-princess_bride.jpg",
+      "added": 56,
+      "hash": "21c0886b1f8a83d20bfbd755b745798b"
+    },
+    {
+      "path": "boxart/mame-progear.jpg",
+      "added": 56,
+      "hash": "91c5270c04680d0d78057902a2c632f8"
+    },
+    {
+      "path": "boxart/mame-propcycl.jpg",
+      "added": 56,
+      "hash": "a0dd7c5a6ca33f5417e81e649d37eaf7"
+    },
+    {
+      "path": "boxart/mame-ptblank.jpg",
+      "added": 56,
+      "hash": "2afd893bba7ac166c4426be13fb4d2be"
+    },
+    {
+      "path": "boxart/mame-punchout.jpg",
+      "added": 56,
+      "hash": "f3ed803571a9600020264f66f1a031f8"
+    },
+    {
+      "path": "boxart/mame-punisher.jpg",
+      "added": 56,
+      "hash": "26690b4648c07f45439833bbf2b098e9"
+    },
+    {
+      "path": "boxart/mame-qbert.jpg",
+      "added": 56,
+      "hash": "e260d61aa51a06a8526e475c2af57932"
+    },
+    {
+      "path": "boxart/mame-qix.jpg",
+      "added": 56,
+      "hash": "a95f73bd461c54d9e6ef0620d026818a"
+    },
+    {
+      "path": "boxart/mame-radm.jpg",
+      "added": 56,
+      "hash": "b11464e4d3cdf4b5e2e88521f91bc20d"
+    },
+    {
+      "path": "boxart/mame-raiden2.jpg",
+      "added": 56,
+      "hash": "a92a15ea38859dc74f3d4970b0e64378"
+    },
+    {
+      "path": "boxart/mame-rbff2.jpg",
+      "added": 56,
+      "hash": "0cf92984f7fe2e436743349a8a7e88b8"
+    },
+    {
+      "path": "boxart/mame-ridgerac.jpg",
+      "added": 56,
+      "hash": "77848fb529219927a9c0b179147a706f"
+    },
+    {
+      "path": "boxart/mame-robotron.jpg",
+      "added": 56,
+      "hash": "afd9b2680a9868adedd5273b878f8c23"
+    },
+    {
+      "path": "boxart/mame-rthunder.jpg",
+      "added": 56,
+      "hash": "a8a9672d3df671a0291ef04ebe59d019"
+    },
+    {
+      "path": "boxart/mame-rtype.jpg",
+      "added": 56,
+      "hash": "05f86796506538a609b38c508066fa9f"
+    },
+    {
+      "path": "boxart/mame-rtype2.jpg",
+      "added": 56,
+      "hash": "5661df97a4fe886baef3355cefe5538b"
+    },
+    {
+      "path": "boxart/mame-s1945.jpg",
+      "added": 56,
+      "hash": "5e34361f31bfa47b29bde0a68da2f8e9"
+    },
+    {
+      "path": "boxart/mame-samsho.jpg",
+      "added": 56,
+      "hash": "6838e45cdc8fd3a17af665cc37f4f8fc"
+    },
+    {
+      "path": "boxart/mame-samsho2.jpg",
+      "added": 56,
+      "hash": "d2b8fe1a8978e28d1c9072534b65c185"
+    },
+    {
+      "path": "boxart/mame-scramble.jpg",
+      "added": 56,
+      "hash": "eaad0bfc884a5716dec9b682f3ba457b"
+    },
+    {
+      "path": "boxart/mame-seawolf.jpg",
+      "added": 56,
+      "hash": "3a2c31855e9ec41abe82f49167eb48d9"
+    },
+    {
+      "path": "boxart/mame-sectionz.jpg",
+      "added": 56,
+      "hash": "5b9c0be109192477e5a4213c27eb2d35"
+    },
+    {
+      "path": "boxart/mame-sengoku.jpg",
+      "added": 56,
+      "hash": "49c4180f59f780369cc38c2227a3aa84"
+    },
+    {
+      "path": "boxart/mame-sf2.jpg",
+      "added": 56,
+      "hash": "f74dd64476facd279d038f0537992d9d"
+    },
+    {
+      "path": "boxart/mame-sf2ce.jpg",
+      "added": 56,
+      "hash": "4119c0e8e4f7bc2b4ac8e4727c7bc7d7"
+    },
+    {
+      "path": "boxart/mame-sf2hf.jpg",
+      "added": 56,
+      "hash": "8d07a01f2a00b878b3f2609d4aebe3a1"
+    },
+    {
+      "path": "boxart/mame-sfa2.jpg",
+      "added": 56,
+      "hash": "46d43b7916692353e44856751e18481c"
+    },
+    {
+      "path": "boxart/mame-sfa3.jpg",
+      "added": 56,
+      "hash": "ee1d57cbf6ae40bd2e4581cbabf25642"
+    },
+    {
+      "path": "boxart/mame-sfiii3.jpg",
+      "added": 56,
+      "hash": "82f71805087c6bb24aca78216a65690e"
+    },
+    {
+      "path": "boxart/mame-sfz.jpg",
+      "added": 56,
+      "hash": "d85b1ebcd1b28ff4b8f605b0e7fd0978"
+    },
+    {
+      "path": "boxart/mame-shangon.jpg",
+      "added": 56,
+      "hash": "ef5bf78a45181e2aef3f2c27d2fe4529"
+    },
+    {
+      "path": "boxart/mame-sharrier.jpg",
+      "added": 56,
+      "hash": "9aa0c031906b00e276bb2c091ab7cffc"
+    },
+    {
+      "path": "boxart/mame-shocktro.jpg",
+      "added": 56,
+      "hash": "f59047a989716ec5d8821ce189b1e648"
+    },
+    {
+      "path": "boxart/mame-simpbowl.jpg",
+      "added": 56,
+      "hash": "083a8f10d2160c9b734aaa2197d5dfa4"
+    },
+    {
+      "path": "boxart/mame-simpsons.jpg",
+      "added": 56,
+      "hash": "db9ddfaa82d5afbae2f0b1a46c181660"
+    },
+    {
+      "path": "boxart/mame-sinistar.jpg",
+      "added": 56,
+      "hash": "e4ccb56fd1d095ac7c18c2ac5f96906a"
+    },
+    {
+      "path": "boxart/mame-smashtv.jpg",
+      "added": 56,
+      "hash": "c9987335a7033b20c6fab103c3e83f7c"
+    },
+    {
+      "path": "boxart/mame-soulclbr.jpg",
+      "added": 56,
+      "hash": "4b2aeeacedcc5fdc7bb925c3de70b3e8"
+    },
+    {
+      "path": "boxart/mame-souledge.jpg",
+      "added": 56,
+      "hash": "710329637edc2a19a01076607c613a18"
+    },
+    {
+      "path": "boxart/mame-splatter.jpg",
+      "added": 56,
+      "hash": "7210f17086bc7ebe1542c841b0f9a563"
+    },
+    {
+      "path": "boxart/mame-sprint2.jpg",
+      "added": 56,
+      "hash": "8b57e56d660f55a08c8fe1d528600c99"
+    },
+    {
+      "path": "boxart/mame-spyhunt.jpg",
+      "added": 56,
+      "hash": "d7fd6cfd3a55211582999fa107fd94d1"
+    },
+    {
+      "path": "boxart/mame-sscope.jpg",
+      "added": 56,
+      "hash": "e4da68b028144363520fd0ad20695e87"
+    },
+    {
+      "path": "boxart/mame-ssf2t.jpg",
+      "added": 56,
+      "hash": "aa56147ec791240d9c71265e09a2c99f"
+    },
+    {
+      "path": "boxart/mame-ssprint.jpg",
+      "added": 56,
+      "hash": "714183eb54958ecbabfff0831cc9b6b1"
+    },
+    {
+      "path": "boxart/mame-starwars.jpg",
+      "added": 56,
+      "hash": "c55b2f1996b9cb64ebac45957d9fd4f2"
+    },
+    {
+      "path": "boxart/mame-strider.jpg",
+      "added": 56,
+      "hash": "024cef8049ea142f59cb1be6fa318bf5"
+    },
+    {
+      "path": "boxart/mame-stunrun.jpg",
+      "added": 56,
+      "hash": "a55941edac456d52bce6bff9d085f5ea"
+    },
+    {
+      "path": "boxart/mame-tapper.jpg",
+      "added": 56,
+      "hash": "0eae9ff5e913c62ce01d62a02c1b3f00"
+    },
+    {
+      "path": "boxart/mame-tdragon.jpg",
+      "added": 56,
+      "hash": "43c2ebeea71053eb0dc18d7e84a5f76c"
+    },
+    {
+      "path": "boxart/mame-tekken.jpg",
+      "added": 56,
+      "hash": "9328afe6cf15a7339483367949d6de33"
+    },
+    {
+      "path": "boxart/mame-tekken3.jpg",
+      "added": 56,
+      "hash": "ae10ccd8c51e3db5494edbf14ba04404"
+    },
+    {
+      "path": "boxart/mame-tempest.jpg",
+      "added": 56,
+      "hash": "9ac75751d910f1ff9884bcc132a04489"
+    },
+    {
+      "path": "boxart/mame-tetris.jpg",
+      "added": 56,
+      "hash": "e2d2dbeb6ffb7b1f68c77016670634be"
+    },
+    {
+      "path": "boxart/mame-thndrbld.jpg",
+      "added": 56,
+      "hash": "bb3f70ef5137d60561e60959f8d4b4d8"
+    },
+    {
+      "path": "boxart/mame-timecris.jpg",
+      "added": 56,
+      "hash": "c3d1c9c7a14e2224b6884f8aaef7fc5f"
+    },
+    {
+      "path": "boxart/mame-tmnt.jpg",
+      "added": 56,
+      "hash": "06689a736a1ec1c8a8143ed2832e991e"
+    },
+    {
+      "path": "boxart/mame-tmnt2.jpg",
+      "added": 56,
+      "hash": "127d79c499e1564b76f462d791fcd4f3"
+    },
+    {
+      "path": "boxart/mame-todruaga.jpg",
+      "added": 56,
+      "hash": "58ecaa8c8ea7de01a5b9988aea635c78"
+    },
+    {
+      "path": "boxart/mame-toobin.jpg",
+      "added": 56,
+      "hash": "bda6f804dacfdb4d34887781a9044578"
+    },
+    {
+      "path": "boxart/mame-totcarn.jpg",
+      "added": 56,
+      "hash": "21eb04a681b1d1dedd494fd59296a521"
+    },
+    {
+      "path": "boxart/mame-trackfld.jpg",
+      "added": 56,
+      "hash": "5453c5db8712a32246b06f8827eb5d83"
+    },
+    {
+      "path": "boxart/mame-tron.jpg",
+      "added": 56,
+      "hash": "37f95ca8d21f8c6d8a11fda099692eb8"
+    },
+    {
+      "path": "boxart/mame-truxton.jpg",
+      "added": 56,
+      "hash": "326ff9a72bc0cb05693d639040450764"
+    },
+    {
+      "path": "boxart/mame-vanguard.jpg",
+      "added": 56,
+      "hash": "042afcba6dc0f25bbd72e0c8646488e4"
+    },
+    {
+      "path": "boxart/mame-vcop.jpg",
+      "added": 56,
+      "hash": "561fad763e44d3db3118f238bd45320e"
+    },
+    {
+      "path": "boxart/mame-vendetta.jpg",
+      "added": 56,
+      "hash": "58ac362140c659b3290f5d73dcf88922"
+    },
+    {
+      "path": "boxart/mame-vf2.jpg",
+      "added": 56,
+      "hash": "30af56842be0ae666269c4389454fbb2"
+    },
+    {
+      "path": "boxart/mame-vrracing.jpg",
+      "added": 56,
+      "hash": "4d2b15cd554b567d5fcd47678d4af87e"
+    },
+    {
+      "path": "boxart/mame-vsav.jpg",
+      "added": 56,
+      "hash": "fd3de4b149c93db0abe12db47b5689a2"
+    },
+    {
+      "path": "boxart/mame-wh1.jpg",
+      "added": 56,
+      "hash": "c9d8aa620708046c5d2cacd5f972ef56"
+    },
+    {
+      "path": "boxart/mame-wjammers.jpg",
+      "added": 56,
+      "hash": "d9d3c3858ef5bbf7b563637514e890dd"
+    },
+    {
+      "path": "boxart/mame-wof.jpg",
+      "added": 56,
+      "hash": "623a7c348f507eeed536454bcacdfc9d"
+    },
+    {
+      "path": "boxart/mame-xevious.jpg",
+      "added": 56,
+      "hash": "c31d2c6d2e9ae613009ff8913a078555"
+    },
+    {
+      "path": "boxart/mame-xexex.jpg",
+      "added": 56,
+      "hash": "e537d621a2fcd6597c4afd35e3897b63"
+    },
+    {
+      "path": "boxart/mame-xmen.jpg",
+      "added": 56,
+      "hash": "bebd541ca83a9d64507c8acc47cd66f3"
+    },
+    {
+      "path": "boxart/mame-xybots.jpg",
+      "added": 56,
+      "hash": "7b2691f1760e962b4442fbb373726755"
+    },
+    {
+      "path": "boxart/mame-yiear.jpg",
+      "added": 56,
+      "hash": "4a41f7badeddb66b4f1a50bcf1a2d6cd"
+    },
+    {
+      "path": "boxart/mame-zaxxon.jpg",
+      "added": 56,
+      "hash": "5cac3f5626c4d1b37f2ba09c7471698d"
+    },
+    {
+      "path": "boxart/mame-zookeep.jpg",
+      "added": 56,
+      "hash": "db5a35f22eb3551fdf166a9519a578dd"
+    },
+    {
+      "path": "boxart/movies-back_to_the_future.jpg",
+      "added": 56,
+      "hash": "be51c414bee29619d47a80eca8a4a6b5"
+    },
+    {
+      "path": "boxart/movies-blade_runner.jpg",
+      "added": 56,
+      "hash": "87624cf481a543d5330b00049b030c21"
+    },
+    {
+      "path": "boxart/movies-breakfast_club.jpg",
+      "added": 56,
+      "hash": "48db7686c25261f5b00fe91f428a96f8"
+    },
+    {
+      "path": "boxart/movies-dark_crystal.jpg",
+      "added": 56,
+      "hash": "f7ad158c043afd2e6caf82d108e4779b"
+    },
+    {
+      "path": "boxart/movies-die_hard.jpg",
+      "added": 56,
+      "hash": "c3a51aa0f1a4ba230cf073bab9e6c7bf"
+    },
+    {
+      "path": "boxart/movies-empire_strikes_back.jpg",
+      "added": 56,
+      "hash": "1bbd46f903ec9de7be9e2d153996852a"
+    },
+    {
+      "path": "boxart/movies-et.jpg",
+      "added": 56,
+      "hash": "812880380efc5d113f775fdaf5527446"
+    },
+    {
+      "path": "boxart/movies-forrest_gump.jpg",
+      "added": 56,
+      "hash": "e163c6537e8d12c6671922de20942497"
+    },
+    {
+      "path": "boxart/movies-ghostbusters.jpg",
+      "added": 56,
+      "hash": "3c4d370366d98d0350e68e737de4ccc1"
+    },
+    {
+      "path": "boxart/movies-gremlins.jpg",
+      "added": 56,
+      "hash": "9908b4d7e9bee21e452f5cf0589fabff"
+    },
+    {
+      "path": "boxart/movies-last_starfighter.jpg",
+      "added": 56,
+      "hash": "afb0545b6f5cd0a299dae7c28e4e9727"
+    },
+    {
+      "path": "boxart/movies-major_league.jpg",
+      "added": 56,
+      "hash": "58a629a7e02f44d422741dfd7b728c43"
+    },
+    {
+      "path": "boxart/movies-princess_bride.jpg",
+      "added": 56,
+      "hash": "21c0886b1f8a83d20bfbd755b745798b"
+    },
+    {
+      "path": "boxart/movies-pulp_fiction.jpg",
+      "added": 56,
+      "hash": "ae13aa396e6adccd533abcebf9cca2c8"
+    },
+    {
+      "path": "boxart/movies-raiders_of_the_lost_ark.jpg",
+      "added": 56,
+      "hash": "1eab382edf65f4d33a6bc947681d8cfb"
+    },
+    {
+      "path": "boxart/movies-return_of_the_jedi.jpg",
+      "added": 56,
+      "hash": "1bbd46f903ec9de7be9e2d153996852a"
+    },
+    {
+      "path": "boxart/movies-rocky_horror.jpg",
+      "added": 56,
+      "hash": "55ebb9ef3cc60cccc60ae26e5a17de8b"
+    },
+    {
+      "path": "boxart/movies-secret_of_nimh.jpg",
+      "added": 56,
+      "hash": "2d8510de88934c8c1c8c9879a56b837b"
+    },
+    {
+      "path": "boxart/movies-spaceballs.jpg",
+      "added": 56,
+      "hash": "695c867833d577d010a2a06d833897ac"
+    },
+    {
+      "path": "boxart/movies-star_wars.jpg",
+      "added": 56,
+      "hash": "1bbd46f903ec9de7be9e2d153996852a"
+    },
+    {
+      "path": "boxart/movies-terminator.jpg",
+      "added": 56,
+      "hash": "048951ff67b530de5309402aa8d14750"
+    },
+    {
+      "path": "boxart/movies-the_breakfast_club.jpg",
+      "added": 56,
+      "hash": "48db7686c25261f5b00fe91f428a96f8"
+    },
+    {
+      "path": "boxart/movies-the_princess_bride.jpg",
+      "added": 56,
+      "hash": "21c0886b1f8a83d20bfbd755b745798b"
+    },
+    {
+      "path": "boxart/movies-the_shining.jpg",
+      "added": 56,
+      "hash": "e9b044d5c9886d503307bdf673adc5fe"
+    },
+    {
+      "path": "boxart/movies-the_terminator.jpg",
+      "added": 56,
+      "hash": "7fd092741f2e578528bbbcdff1b947ef"
+    },
+    {
+      "path": "boxart/movies-they_live.jpg",
+      "added": 56,
+      "hash": "7c0aca7092f415bb82787a58ce519146"
+    },
+    {
+      "path": "boxart/movies-top_gun.jpg",
+      "added": 56,
+      "hash": "03161e0349a595de26cc73980bce3f72"
+    },
+    {
+      "path": "boxart/movies-tron.jpg",
+      "added": 56,
+      "hash": "7d14ad939be25f5726d9c5eb0b41ec7f"
+    },
+    {
+      "path": "boxart/movies-wargames.jpg",
+      "added": 56,
+      "hash": "a64afc7efa8f88f7d746800ffa93012e"
+    },
+    {
+      "path": "boxart/namco_system_12-soulclbr.jpg",
+      "added": 56,
+      "hash": "4b2aeeacedcc5fdc7bb925c3de70b3e8"
+    },
+    {
+      "path": "boxart/neogeo-kof.jpg",
+      "added": 56,
+      "hash": "771d849a5220540145f0ee670337d613"
+    },
+    {
+      "path": "boxart/neogeo-mslug.jpg",
+      "added": 56,
+      "hash": "dc16c16d3c64f1f6376ed1595bd24a12"
+    },
+    {
+      "path": "boxart/neogeo-wjammers.jpg",
+      "added": 56,
+      "hash": "d9d3c3858ef5bbf7b563637514e890dd"
+    },
+    {
+      "path": "boxart/retrotech-amiga.jpg",
+      "added": 56,
+      "hash": "7985ccb9083613252500f3ae9f0e8c9e"
+    },
+    {
+      "path": "boxart/retrotech-aol.jpg",
+      "added": 56,
+      "hash": "f9720d58b6b92e3f0d0cdb69e8243dad"
+    },
+    {
+      "path": "boxart/retrotech-cassette_tape.jpg",
+      "added": 56,
+      "hash": "77afd9619a7726607aa1a2d24a98ee82"
+    },
+    {
+      "path": "boxart/retrotech-commodore_64.jpg",
+      "added": 56,
+      "hash": "c7448272b603926c4c4ae371554cb6fa"
+    },
+    {
+      "path": "boxart/retrotech-compact_disc.jpg",
+      "added": 56,
+      "hash": "67cdd95935d4b3b52c1cb20fcfd1d8a1"
+    },
+    {
+      "path": "boxart/retrotech-crt_tv.jpg",
+      "added": 56,
+      "hash": "d6de6b7096fa9a080f61f5b1e03db69e"
+    },
+    {
+      "path": "boxart/retrotech-dial_up.jpg",
+      "added": 56,
+      "hash": "00e07c4c19e31e4443807146772e3dec"
+    },
+    {
+      "path": "boxart/retrotech-dvd.jpg",
+      "added": 56,
+      "hash": "3508d0cfbb7f38b5fa666f21c6b2f935"
+    },
+    {
+      "path": "boxart/retrotech-floppy_disk.jpg",
+      "added": 56,
+      "hash": "85504beed1937b00ecc534a0b22b47dc"
+    },
+    {
+      "path": "boxart/retrotech-game_boy.jpg",
+      "added": 56,
+      "hash": "6ae15312dc640be567d717b32052c9c7"
+    },
+    {
+      "path": "boxart/retrotech-game_gear.jpg",
+      "added": 56,
+      "hash": "511c4869f5dcd15ddd69cb663a0a0024"
+    },
+    {
+      "path": "boxart/retrotech-laserdisc.jpg",
+      "added": 56,
+      "hash": "64ffe9d7c7cdac047348e8911dc49f57"
+    },
+    {
+      "path": "boxart/retrotech-neo_geo.jpg",
+      "added": 56,
+      "hash": "8bbdf19e895a28c06cbad2b987c43afb"
+    },
+    {
+      "path": "boxart/retrotech-pager.jpg",
+      "added": 56,
+      "hash": "3c8f4f5e7ff9679c27672f3555c1b6b0"
+    },
+    {
+      "path": "boxart/retrotech-personal_computer.jpg",
+      "added": 56,
+      "hash": "cd8c025377f220e96d3a42aaf763da21"
+    },
+    {
+      "path": "boxart/retrotech-power_glove.jpg",
+      "added": 56,
+      "hash": "3e5e634370109b2b892dd9d3c8d24d0e"
+    },
+    {
+      "path": "boxart/retrotech-razor.jpg",
+      "added": 56,
+      "hash": "742fa42d68928d18faa351b11018e973"
+    },
+    {
+      "path": "boxart/retrotech-razr_phone.jpg",
+      "added": 56,
+      "hash": "a37ea1279db4ec0a5c23ede089d53aeb"
+    },
+    {
+      "path": "boxart/retrotech-sega_genesis.jpg",
+      "added": 56,
+      "hash": "c8f6b93846d865b0804e1fe1a8a409b8"
+    },
+    {
+      "path": "boxart/retrotech-super_nintendo.jpg",
+      "added": 56,
+      "hash": "e1cf28ab7578ca47fb9ad64c8fdf3b18"
+    },
+    {
+      "path": "boxart/retrotech-turbografx.jpg",
+      "added": 56,
+      "hash": "0436503349f9c0521dea8fb2d0d86660"
+    },
+    {
+      "path": "boxart/retrotech-vhs.jpg",
+      "added": 56,
+      "hash": "1110f5ba271a769597f73ef44a060969"
+    },
+    {
+      "path": "boxart/retrotech-walkman.jpg",
+      "added": 56,
+      "hash": "c829830ef3f53baa2337de21143d1c92"
+    },
+    {
+      "path": "boxart/retrotech-zx_spectrum.jpg",
+      "added": 56,
+      "hash": "3fbc0e5618a46e49f750c9f246db81c2"
+    },
+    {
+      "path": "boxart/sega_model_2-daytona.jpg",
+      "added": 56,
+      "hash": "8deb5d1acf0c0009ee3535786f4f181c"
+    },
+    {
+      "path": "boxart/sega_model_2-vf2.jpg",
+      "added": 56,
+      "hash": "30af56842be0ae666269c4389454fbb2"
+    },
+    {
+      "path": "boxart/sega_model_3-daytona2.jpg",
+      "added": 56,
+      "hash": "495925efbacfd37468196d733b48d329"
+    },
+    {
+      "path": "boxart/sega_naomi-crzytaxi.jpg",
+      "added": 56,
+      "hash": "e8010dc26a22ff3e1a8bd4882c98ff56"
+    },
+    {
+      "path": "boxart/sega_naomi-vtennis.jpg",
+      "added": 56,
+      "hash": "f37c636e47c6580371c1bb833ea6a63d"
+    },
+    {
+      "path": "boxart/toys-barbie.jpg",
+      "added": 56,
+      "hash": "5b672f1337020f4f891cb2182b17fa0f"
+    },
+    {
+      "path": "boxart/toys-cabbage_patch_kids.jpg",
+      "added": 56,
+      "hash": "ebd887389e5fbd6c09a8e6593e9a01f2"
+    },
+    {
+      "path": "boxart/toys-furby.jpg",
+      "added": 56,
+      "hash": "7ea76702f0c123a02035b8ea68c8351a"
+    },
+    {
+      "path": "boxart/toys-gi_joe.jpg",
+      "added": 56,
+      "hash": "d10fc8fe09655f2b417d574113e12b48"
+    },
+    {
+      "path": "boxart/toys-he_man.jpg",
+      "added": 56,
+      "hash": "6edffde9f74e0d138ee72dcd86e19709"
+    },
+    {
+      "path": "boxart/toys-heman.jpg",
+      "added": 56,
+      "hash": "6edffde9f74e0d138ee72dcd86e19709"
+    },
+    {
+      "path": "boxart/toys-hot_wheels.jpg",
+      "added": 56,
+      "hash": "c52cb34829ecb7f8ca576f543c33448c"
+    },
+    {
+      "path": "boxart/toys-lego.jpg",
+      "added": 56,
+      "hash": "a170e0374e22947536f03de80719010e"
+    },
+    {
+      "path": "boxart/toys-my_little_pony.jpg",
+      "added": 56,
+      "hash": "896e526bd43ca5dcc909677ab3c82776"
+    },
+    {
+      "path": "boxart/toys-nerf.jpg",
+      "added": 56,
+      "hash": "9c958aff9a5531ddb9fe3b669b814a9a"
+    },
+    {
+      "path": "boxart/toys-power_rangers.jpg",
+      "added": 56,
+      "hash": "fd4ecc231bfd8b2d79f8b7394a52cd6e"
+    },
+    {
+      "path": "boxart/toys-rubiks_cube.jpg",
+      "added": 56,
+      "hash": "401ffcd029df522c32d925797d55bd74"
+    },
+    {
+      "path": "boxart/toys-speak_spell.jpg",
+      "added": 56,
+      "hash": "69839195e50fd9f65553754840ce9be0"
+    },
+    {
+      "path": "boxart/toys-spirograph.jpg",
+      "added": 56,
+      "hash": "6aac9a9c04e2a168d06d2fe9b25a30f8"
+    },
+    {
+      "path": "boxart/toys-star_wars_toys.jpg",
+      "added": 56,
+      "hash": "b72c0997ebe6c621a67779a0cccad5f4"
+    },
+    {
+      "path": "boxart/toys-tamagotchi.jpg",
+      "added": 56,
+      "hash": "8cb1f6ba91ba14acba24f125fc67d812"
+    },
+    {
+      "path": "boxart/toys-tmnt.jpg",
+      "added": 56,
+      "hash": "0396681ce994a3dbdab08c5fe77a0caf"
+    },
+    {
+      "path": "boxart/toys-transformers.jpg",
+      "added": 56,
+      "hash": "ee72aff515f47f48077a658fd46bf80f"
+    },
+    {
+      "path": "boxart/tvshows-alf.jpg",
+      "added": 56,
+      "hash": "c7e24f39ff209bd41cc41e2650aaa301"
+    },
+    {
+      "path": "boxart/tvshows-battlestar_galactica.jpg",
+      "added": 56,
+      "hash": "c3c58eeb4fc602d905a7fd4cafa04ee2"
+    },
+    {
+      "path": "boxart/tvshows-cheers.jpg",
+      "added": 56,
+      "hash": "542da9134c66d1a2b08ac707a387f71d"
+    },
+    {
+      "path": "boxart/tvshows-family_ties.jpg",
+      "added": 56,
+      "hash": "cc598a5271b4efa7f63fccd8fdacb16f"
+    },
+    {
+      "path": "boxart/tvshows-golden_girls.jpg",
+      "added": 56,
+      "hash": "dbbad1673bfc5c2f775b2cd0ea751264"
+    },
+    {
+      "path": "boxart/tvshows-knight_rider.jpg",
+      "added": 56,
+      "hash": "05ca1c710a2a0abf9b085a3a9a133ddb"
+    },
+    {
+      "path": "boxart/tvshows-macgyver.jpg",
+      "added": 56,
+      "hash": "2e93b7b774e6303f6c23d79e956443e6"
+    },
+    {
+      "path": "boxart/tvshows-magnum_pi.jpg",
+      "added": 56,
+      "hash": "6b4e73dd844c13ca710bde944309eaee"
+    },
+    {
+      "path": "boxart/tvshows-miami_vice.jpg",
+      "added": 56,
+      "hash": "b71ff6d9a1e799cdaa2fe77c518f1bf2"
+    },
+    {
+      "path": "boxart/tvshows-star_trek_tng.jpg",
+      "added": 56,
+      "hash": "a92c37a2ea6610fc292f7324dad4f86a"
+    },
+    {
+      "path": "boxart/tvshows-the_a_team.jpg",
+      "added": 56,
+      "hash": "98ad880a5ea87f1411d37df59f32291a"
+    },
     {
       "path": "lcdmarquees/arcadeonetheme-3do.jpg",
       "added": 54,
@@ -54086,6 +56206,51 @@
       "path": "lcdmarquees/thumbnails/teknoparrot_patreon-virtua tennis 3-tmb.jpg",
       "added": 54,
       "hash": "59f7e97c0546e3ff323b0494aeb26e2c"
+    },
+    {
+      "path": "metadata/trivia_arcade.json",
+      "added": 56,
+      "hash": "f46c3185f02ec06dcbf10abfe9e93f60"
+    },
+    {
+      "path": "metadata/trivia_consoles.json",
+      "added": 56,
+      "hash": "7fab74698b6ac0acf7eb709e579422c4"
+    },
+    {
+      "path": "metadata/trivia_culture.json",
+      "added": 56,
+      "hash": "c6fc0db6f70cd000ed60221cc6a8c675"
+    },
+    {
+      "path": "metadata/trivia_handhelds.json",
+      "added": 56,
+      "hash": "837ea0a55aba3260108c6d4973b8e2d8"
+    },
+    {
+      "path": "metadata/trivia_hardware.json",
+      "added": 56,
+      "hash": "2326f906bcb87e0fbaed19e15187e4a2"
+    },
+    {
+      "path": "metadata/trivia_movies.json",
+      "added": 56,
+      "hash": "5e1134437120e7f00f8eae80ad453e7d"
+    },
+    {
+      "path": "metadata/trivia_retrotech.json",
+      "added": 56,
+      "hash": "766af035a02e00efd25f76f594acaa18"
+    },
+    {
+      "path": "metadata/trivia_toys.json",
+      "added": 56,
+      "hash": "01f6abfa41d4631ab582d96e3aff18f2"
+    },
+    {
+      "path": "metadata/trivia_tvshows.json",
+      "added": 56,
+      "hash": "10f4629c0d7e676b5e1d664b95c4730b"
     }
   ]
 }
