@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "base_version": 19,
   "files": [
     {
@@ -21558,9 +21558,19 @@
       "hash": "6d3080de0b68c1108556982ec9153ad3"
     },
     {
+      "path": "lcdmarquees/mame-1943kai.jpg",
+      "added": 57,
+      "hash": "069459fbbb43c8a5e120d6d5ea1561e9"
+    },
+    {
       "path": "lcdmarquees/mame-omegrace.jpg",
       "added": 54,
       "hash": "20fad4f3a5593178f2548f000486b805"
+    },
+    {
+      "path": "lcdmarquees/mame-woodpeck.jpg",
+      "added": 57,
+      "hash": "0f14be4c0ee31a0ac6262cc1351b4a93"
     },
     {
       "path": "lcdmarquees/pc-contra operation galuga.jpg",
@@ -48593,9 +48603,19 @@
       "hash": "3e00778760fbb7f6917c36f8780ae125"
     },
     {
+      "path": "lcdmarquees/thumbnails/mame-1943kai-tmb.jpg",
+      "added": 57,
+      "hash": "b340fce781e3410f2c227ebd4b8b816a"
+    },
+    {
       "path": "lcdmarquees/thumbnails/mame-omegrace-tmb.jpg",
       "added": 54,
       "hash": "607b91518abf8a2cfdf4519b32832181"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/mame-woodpeck-tmb.jpg",
+      "added": 57,
+      "hash": "4c95e48a759c85c09139dc582585cde0"
     },
     {
       "path": "lcdmarquees/thumbnails/pc-contra operation galuga-tmb.jpg",
