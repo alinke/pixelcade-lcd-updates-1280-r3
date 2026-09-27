@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "base_version": 19,
   "files": [
     {
@@ -4191,6 +4191,11 @@
       "path": "lcdmarquees/default-fbneo.jpg",
       "added": 54,
       "hash": "7c84fcbe3fcae415d49f990585bfdc2c"
+    },
+    {
+      "path": "lcdmarquees/default-grs.jpg",
+      "added": 58,
+      "hash": "4849fea4c9fcaa7f309879af1dc8a1f3"
     },
     {
       "path": "lcdmarquees/default-n2fun.jpg",
@@ -31251,6 +31256,11 @@
       "path": "lcdmarquees/thumbnails/default-fbneo-tmb.jpg",
       "added": 54,
       "hash": "8b279c0ae2976fd8c672d885a1d0864a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/default-grs-tmb.jpg",
+      "added": 58,
+      "hash": "b651bac10d746306ea4fbc81421a333d"
     },
     {
       "path": "lcdmarquees/thumbnails/default-n2fun-tmb.jpg",
