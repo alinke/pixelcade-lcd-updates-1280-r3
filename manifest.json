@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "base_version": 19,
   "files": [
     {
@@ -56236,6 +56236,1016 @@
       "path": "lcdmarquees/thumbnails/teknoparrot_patreon-virtua tennis 3-tmb.jpg",
       "added": 54,
       "hash": "59f7e97c0546e3ff323b0494aeb26e2c"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-1942.jpg",
+      "added": 59,
+      "hash": "6404d485264a968b85ca234184c5fee5"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-BStars2.jpg",
+      "added": 59,
+      "hash": "ba1b7e3453577d7c7c19737f30c52aec"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-alpinr2b.jpg",
+      "added": 59,
+      "hash": "3968dc6caef388675b7c660b3ea58c39"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-arkanoid.jpg",
+      "added": 59,
+      "hash": "1e293244f194bdbeffb9d6cca6073361"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-asteroid.jpg",
+      "added": 59,
+      "hash": "eb213cbf298cec7da84a152143408dd4"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-atetris.jpg",
+      "added": 59,
+      "hash": "a2329125aaa3f89745d5030403b3f8da"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-athena.jpg",
+      "added": 59,
+      "hash": "d5e22e4687bf8cbae7894bde12a35c96"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-blitz2k.jpg",
+      "added": 59,
+      "hash": "b52c0bc9f1226fbb2b7dc4bc399748ed"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-btime.jpg",
+      "added": 59,
+      "hash": "c6d10ab087b16d36dbdbd3fb55f41eb9"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-btoads.jpg",
+      "added": 59,
+      "hash": "f22664bc19fad96a7c8c74c54ef01976"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-bzone.jpg",
+      "added": 59,
+      "hash": "5f611f25327dff9a2c7f929d738a6f22"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-centiped.jpg",
+      "added": 59,
+      "hash": "a164c64b90b876be28a7b8570593c57f"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-chasehq.jpg",
+      "added": 59,
+      "hash": "7c1d1fa13b7ac333cdeaace3ddb4d6cc"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-cobracom.jpg",
+      "added": 59,
+      "hash": "2bb2c921aa758cca1a362fa3e7fb7643"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-commando.jpg",
+      "added": 59,
+      "hash": "bf8bbf4b6d7ec2804cf5c18851ecaa0d"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-ddragon.jpg",
+      "added": 59,
+      "hash": "62eeca234ebc420e5866a721b374bcdc"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-ddsom.jpg",
+      "added": 59,
+      "hash": "6ea6d25ffb72b241bfc240f713fe99a3"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-defender.jpg",
+      "added": 59,
+      "hash": "e9fc797d900dc64fec2c5428d7445f8b"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-digdug.jpg",
+      "added": 59,
+      "hash": "fc6bf01db2ebdbc27321a6b882dba588"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-docastle.jpg",
+      "added": 59,
+      "hash": "76f6fde280a995398f36204907f3debb"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-elevator.jpg",
+      "added": 59,
+      "hash": "2b4f364fd3f8591a288e5c56fb1930db"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-fatfury3.jpg",
+      "added": 59,
+      "hash": "a2279768893ab130d5c93e948d91020e"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-frogger.jpg",
+      "added": 59,
+      "hash": "af24114d6ed777fe9170ce781c7d24ce"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-gaiden.jpg",
+      "added": 59,
+      "hash": "ca1d3304698f5b84ed11b38e460fb659"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-galagamf.jpg",
+      "added": 59,
+      "hash": "a749091ebfaf1741b35e72a54e25f95b"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-galaxian.jpg",
+      "added": 59,
+      "hash": "3d7b6eb466973b37874047b20fc4b38c"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-gaunt2.jpg",
+      "added": 59,
+      "hash": "1f613555ca65a07ab31e9a317f34fc74"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-gauntlet.jpg",
+      "added": 59,
+      "hash": "9168b133aa3d94f6d7b2f6cca7768d10"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-ghouls.jpg",
+      "added": 59,
+      "hash": "373ed88678ae1125380faeb4f560e689"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-gigawing.jpg",
+      "added": 59,
+      "hash": "dc2be083e7ffbe27f6a07b9a774cf762"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-gngt.jpg",
+      "added": 59,
+      "hash": "6a45213350727b20919af477f221c211"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-goldnaxe.jpg",
+      "added": 59,
+      "hash": "ef2131f2d946670112b6524ab153c717"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-gt2k.jpg",
+      "added": 59,
+      "hash": "b35c6148d3b9a9b1bc97cc57522c2519"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-gtfore06.jpg",
+      "added": 59,
+      "hash": "017add3a80e4497fc863d886f048a948"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-gunforc2.jpg",
+      "added": 59,
+      "hash": "a296b072fdeffb23533c17771f6ee529"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-hangon.jpg",
+      "added": 59,
+      "hash": "a8f1bf8b434318a8f428d3b532917a56"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-hyperspt.jpg",
+      "added": 59,
+      "hash": "385da83e24a799c467efa6a1cab302d0"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-ikarijpb.jpg",
+      "added": 59,
+      "hash": "d408cfa2dc78db33830ba5fef4b85e04"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-indytemp.jpg",
+      "added": 59,
+      "hash": "7220e1cc35b861eadc80f96281ba124c"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-invaders.jpg",
+      "added": 59,
+      "hash": "7bc907c37fabfe356d80fe683db077b4"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-joust.jpg",
+      "added": 59,
+      "hash": "f4e16daae80bee3a9a09713cf00c6a08"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-joust2.jpg",
+      "added": 59,
+      "hash": "ccaa0f562b4d214e16790f0a4d2387fa"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-kchamp.jpg",
+      "added": 59,
+      "hash": "0dbec469b179abbc7430f46d532543b6"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-kinst.jpg",
+      "added": 59,
+      "hash": "27ba45ca3d602ad7f9d59ce121c4ce8d"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-knights.jpg",
+      "added": 59,
+      "hash": "b370f1936dffb1c14faa0b2b8c15ede0"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-kotm2.jpg",
+      "added": 59,
+      "hash": "9c5dfeb33341bed0c35356cc682d33e9"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-krull.jpg",
+      "added": 59,
+      "hash": "194af9d256ddd927d048fd69da7279b2"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-kungfum.jpg",
+      "added": 59,
+      "hash": "dccfe9269f46133ab921ea5e123e3cb3"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-lbowling.jpg",
+      "added": 59,
+      "hash": "ad3735089d8df039c36e678e7fdc117b"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-maniach.jpg",
+      "added": 59,
+      "hash": "685d6d4fb39868c2cd8b89a3ac17f1dd"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-marble.jpg",
+      "added": 59,
+      "hash": "c19c3b31a63040b887244468683faa11"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-matmania.jpg",
+      "added": 59,
+      "hash": "b97963b604faec0166d6a79a810d0bbe"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-megaman.jpg",
+      "added": 59,
+      "hash": "08ed2aa0ac4edf35563d5437d122a5e1"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-megaman2.jpg",
+      "added": 59,
+      "hash": "8e3b474cbcd746e77e8ac9f6d8ca7f1f"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-milliped.jpg",
+      "added": 59,
+      "hash": "a71b9eff006107e8e9fc0e39a065d80a"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-missile.jpg",
+      "added": 59,
+      "hash": "fbac325a00dbe5269abb0be6dde71eec"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-mpatrol.jpg",
+      "added": 59,
+      "hash": "bf8eb75b7955d0f48311927c026c4159"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-mspacman.jpg",
+      "added": 59,
+      "hash": "ecd825d250c603d83783ab40c95d7ccc"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-nbahangt.jpg",
+      "added": 59,
+      "hash": "a59ec60b35671eaf508c4fecb3636de1"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-nbajam.jpg",
+      "added": 59,
+      "hash": "668d3bfb85f93ba57e8303a214dc2074"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-offroadt.jpg",
+      "added": 59,
+      "hash": "242db161470830104de04351f896fd89"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-omegrace.jpg",
+      "added": 59,
+      "hash": "28adcd9afec81caacaea8316be45109b"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-outrun.jpg",
+      "added": 59,
+      "hash": "c008df9c7d46e4f84896caea1f84c928"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-pacman.jpg",
+      "added": 59,
+      "hash": "51811981f325da1332465c942381255d"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-paperboy.jpg",
+      "added": 59,
+      "hash": "acf7c508060764733bee4e8d0605f14d"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-pleiades.jpg",
+      "added": 59,
+      "hash": "4e7fb6524105c1a26acd937599a861ac"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-polepos.jpg",
+      "added": 59,
+      "hash": "d9128218f3bf269af114376d0f0e24b6"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-popeye.jpg",
+      "added": 59,
+      "hash": "ae1bac92cb1f0040ff058d78438de227"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-punchout.jpg",
+      "added": 59,
+      "hash": "510b61c93b439191c5f56ea2b7d72c45"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-qbert.jpg",
+      "added": 59,
+      "hash": "80d797095623f6f48e61ab78f0e52312"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-qix.jpg",
+      "added": 59,
+      "hash": "172dd851a3b33e56cfae3e88930ad440"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-ridgera2.jpg",
+      "added": 59,
+      "hash": "833568b935cceba93697c9a5f5e2fd20"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-rmpgwt.jpg",
+      "added": 59,
+      "hash": "8b24fadd57a13d6e81f3d5636115def8"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-robotron.jpg",
+      "added": 59,
+      "hash": "321af91154aab4681c5e4b4081e72c02"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-rygar.jpg",
+      "added": 59,
+      "hash": "9e1cb242847e78ae121c3bc36c846bc9"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-samsho3.jpg",
+      "added": 59,
+      "hash": "3d8d5e1176cefe09f13c998f189be645"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-sbrkout.jpg",
+      "added": 59,
+      "hash": "8941df9ace57f395dc04026944fe6cb4"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-scobra.jpg",
+      "added": 59,
+      "hash": "3bf8faa7387433bec9877cefa729fa86"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-scramble.jpg",
+      "added": 59,
+      "hash": "2560f9aa6d9adb9b560bfe8ef25e592d"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-shinobi.jpg",
+      "added": 59,
+      "hash": "790ccf0f305ecd64be1043d4b6c25b95"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-sinistar.jpg",
+      "added": 59,
+      "hash": "25bc7c5132e652e44630076ec52f8e8f"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-slammast.jpg",
+      "added": 59,
+      "hash": "13526e97c79c0907d5350e78faec97a1"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-smashtv.jpg",
+      "added": 59,
+      "hash": "8ce5ef43c0f680dc44a36bae65d07f12"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-spdodgeb.jpg",
+      "added": 59,
+      "hash": "ac8e4fc421455d98b135a7fe3f275adf"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-spnchout.jpg",
+      "added": 59,
+      "hash": "1161fd4c4374be9c51a5d6ec18faa701"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-spyhunt.jpg",
+      "added": 59,
+      "hash": "dd0bd0e39c366aa774fb607ac1f5adc6"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-ssf2.jpg",
+      "added": 59,
+      "hash": "36ff3c79f95c28feb35b162a2f17be05"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-ssriders.jpg",
+      "added": 59,
+      "hash": "a14199f6ef43c01942af666e796e4dd6"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-startrek.jpg",
+      "added": 59,
+      "hash": "69ebb3df5e73b74a5a7e2a87797f9651"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-suprmrio.jpg",
+      "added": 59,
+      "hash": "8d3ce305f620df6b04667ab216bfc578"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-szaxxon.jpg",
+      "added": 59,
+      "hash": "c14a322b0bf94b2b89899ef32d95dd3c"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-tapper.jpg",
+      "added": 59,
+      "hash": "140e74f6ca2c9bfac63ccb7182ae71da"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-tcobra2.jpg",
+      "added": 59,
+      "hash": "8d7290c96b8daa29d9594c57ecf9fc94"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-tempest.jpg",
+      "added": 59,
+      "hash": "b75881afd90a1a05c82644774f008236"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-tetris.jpg",
+      "added": 59,
+      "hash": "9354409032e6ab9e69276986cc5d4448"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-tmht2p.jpg",
+      "added": 59,
+      "hash": "9b0eed4b23f716ccd5712d27cdd2f274"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-trackfld.jpg",
+      "added": 59,
+      "hash": "480030f567364543ccb2e169fb17e2d8"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-turfmast.jpg",
+      "added": 59,
+      "hash": "385f98725464c35d1b22aedadeff6698"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-wboy.jpg",
+      "added": 59,
+      "hash": "ea53e034a897db4922f81d6c6c25d67b"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-wow.jpg",
+      "added": 59,
+      "hash": "c0b841ec871406c4ec97292f32a9f34b"
+    },
+    {
+      "path": "lcdmarqueesalt/mame-zaxxon.jpg",
+      "added": 59,
+      "hash": "ed40ca9948fb09204bd900f4f206cc94"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-1942-tmb.jpg",
+      "added": 59,
+      "hash": "6c391553bfdef78529a2a316ef863667"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-BStars2-tmb.jpg",
+      "added": 59,
+      "hash": "25db233885ad2b47dcb1d509ada2bbf3"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-alpinr2b-tmb.jpg",
+      "added": 59,
+      "hash": "7395035783e7fb29c3b9921df32da357"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-arkanoid-tmb.jpg",
+      "added": 59,
+      "hash": "b9fe5ca1f129323db234da0453febf50"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-asteroid-tmb.jpg",
+      "added": 59,
+      "hash": "235326e12fdf320b6d7272b939a8c073"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-atetris-tmb.jpg",
+      "added": 59,
+      "hash": "b44f03fd0235dd23cfffce01815259d5"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-athena-tmb.jpg",
+      "added": 59,
+      "hash": "4af42ea947e2265cdc2e9d0f46aa5844"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-blitz2k-tmb.jpg",
+      "added": 59,
+      "hash": "0456ddff0bd826f52c66ddc4f38b8305"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-btime-tmb.jpg",
+      "added": 59,
+      "hash": "ee68efe9f2ee32c69b53ef4827f389ed"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-btoads-tmb.jpg",
+      "added": 59,
+      "hash": "27e52355dc18ee4aa20db259ede062e1"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-bzone-tmb.jpg",
+      "added": 59,
+      "hash": "9b4a48dd066d06d46bf186040cf0c564"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-centiped-tmb.jpg",
+      "added": 59,
+      "hash": "b56e7c2964ebc90fb374729cd601dc2f"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-chasehq-tmb.jpg",
+      "added": 59,
+      "hash": "e3722d26caf0c96aeab30444f7bb350a"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-cobracom-tmb.jpg",
+      "added": 59,
+      "hash": "8bbf52aa86f05b839b58f430ca66d735"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-commando-tmb.jpg",
+      "added": 59,
+      "hash": "9e79ceb6fb90f1bdd4ddfa615803d0ea"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-ddragon-tmb.jpg",
+      "added": 59,
+      "hash": "cec469572a90516de45fb7770cfb571c"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-ddsom-tmb.jpg",
+      "added": 59,
+      "hash": "2a47dbb4e55fcc18734954764ff1cdb0"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-defender-tmb.jpg",
+      "added": 59,
+      "hash": "3dfb6d26cac1f6da1df9b540dc327111"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-digdug-tmb.jpg",
+      "added": 59,
+      "hash": "59258e3d49aea9d932033e3a131b214d"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-docastle-tmb.jpg",
+      "added": 59,
+      "hash": "1e3ceb69f582bdf4f9eeca7b06b1e53e"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-elevator-tmb.jpg",
+      "added": 59,
+      "hash": "950203e3686333e16aabf6cddde44b92"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-fatfury3-tmb.jpg",
+      "added": 59,
+      "hash": "5f9904b22b225820c7a2ee1784380e18"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-frogger-tmb.jpg",
+      "added": 59,
+      "hash": "8de1e1fcf7de6626b411bfd107ff6f4e"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-gaiden-tmb.jpg",
+      "added": 59,
+      "hash": "ccbac111628585f247c718857ba3bf45"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-galagamf-tmb.jpg",
+      "added": 59,
+      "hash": "4baac372b7cac31b390efa4b8c3386f4"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-galaxian-tmb.jpg",
+      "added": 59,
+      "hash": "6ddb8949c5d9e42ddf2838335b16ef38"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-gaunt2-tmb.jpg",
+      "added": 59,
+      "hash": "fc89ab69a43d41e6ddcd8d4744979af3"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-gauntlet-tmb.jpg",
+      "added": 59,
+      "hash": "54e75fdaebe2c50d872cf0aed3df2dc7"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-ghouls-tmb.jpg",
+      "added": 59,
+      "hash": "5c96756e7e47eb428a311c4128522ae5"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-gigawing-tmb.jpg",
+      "added": 59,
+      "hash": "6532aca6de3d098e00d2f23aa323b0e7"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-gngt-tmb.jpg",
+      "added": 59,
+      "hash": "436f2acdfed08ca754fab7a9b9d45e33"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-goldnaxe-tmb.jpg",
+      "added": 59,
+      "hash": "cd6ba37bc3538ac66ba0e4c016d8548e"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-gt2k-tmb.jpg",
+      "added": 59,
+      "hash": "4123b11e56c568805a336f9330faeae8"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-gtfore06-tmb.jpg",
+      "added": 59,
+      "hash": "944aca6163bd253cc954ffc574836662"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-gunforc2-tmb.jpg",
+      "added": 59,
+      "hash": "b750fecfd98d66e554e654ee5d8cc665"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-hangon-tmb.jpg",
+      "added": 59,
+      "hash": "0c81c1f2823f8a8257cb898a05ac670a"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-hyperspt-tmb.jpg",
+      "added": 59,
+      "hash": "7cbd3fe87f995a8ac7a717dc5e43e6d9"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-ikarijpb-tmb.jpg",
+      "added": 59,
+      "hash": "ca82a8b28491d7c490e66253b2b13e95"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-indytemp-tmb.jpg",
+      "added": 59,
+      "hash": "0ee24eb5e4ff78f8d7585c85f5c41295"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-invaders-tmb.jpg",
+      "added": 59,
+      "hash": "6952e4cf081602efaab342381dc74448"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-joust-tmb.jpg",
+      "added": 59,
+      "hash": "9bfc9b4052910c17673ab278d99d35d4"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-joust2-tmb.jpg",
+      "added": 59,
+      "hash": "d57f10a9472b0875117502e09e30d2c6"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-kchamp-tmb.jpg",
+      "added": 59,
+      "hash": "48dc366138fa93663b6ffd54884dcfbc"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-kinst-tmb.jpg",
+      "added": 59,
+      "hash": "3eda276c5e1dcca012bb54b89ebeecb0"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-knights-tmb.jpg",
+      "added": 59,
+      "hash": "645bd515b881edc8e3666bb2bee92cbe"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-kotm2-tmb.jpg",
+      "added": 59,
+      "hash": "884e517f0929b58cf610b5655c0f55a4"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-krull-tmb.jpg",
+      "added": 59,
+      "hash": "1c40658a35559866d641c5a9426eee7a"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-kungfum-tmb.jpg",
+      "added": 59,
+      "hash": "9d18b5d90405cb3470b5fcfbc5340c10"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-lbowling-tmb.jpg",
+      "added": 59,
+      "hash": "3c3e29a6fd0c85c4c946a738e0367fbb"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-maniach-tmb.jpg",
+      "added": 59,
+      "hash": "fc918cfe7053d300265e2dc9f643ecea"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-marble-tmb.jpg",
+      "added": 59,
+      "hash": "783727a22b73292b2c7b8b2f688c1ce8"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-matmania-tmb.jpg",
+      "added": 59,
+      "hash": "0c0d5a564f57db8114a25dd433b5f7ad"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-megaman-tmb.jpg",
+      "added": 59,
+      "hash": "9f338d539ff8d04afc0d254119b8e5da"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-megaman2-tmb.jpg",
+      "added": 59,
+      "hash": "9456643eabc2642d63336759b27a6702"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-milliped-tmb.jpg",
+      "added": 59,
+      "hash": "c582ead6b08b5e6b45fee436a037f3ec"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-missile-tmb.jpg",
+      "added": 59,
+      "hash": "672a9416aa78f7e508a780ab21035de7"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-mpatrol-tmb.jpg",
+      "added": 59,
+      "hash": "158c68eab47aea386ed49fa4d6fbd7b7"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-mspacman-tmb.jpg",
+      "added": 59,
+      "hash": "a819d889cb05278064ce38ac17600550"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-nbahangt-tmb.jpg",
+      "added": 59,
+      "hash": "82f2950fcbdeeffcb723bafd31dc73c9"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-nbajam-tmb.jpg",
+      "added": 59,
+      "hash": "2fea66669354727eb4dfda4f30f9b3d4"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-offroadt-tmb.jpg",
+      "added": 59,
+      "hash": "5455332687713002b9e46580e6bc9606"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-omegrace-tmb.jpg",
+      "added": 59,
+      "hash": "0eea901e5c85d774ce927aaa915e12b6"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-outrun-tmb.jpg",
+      "added": 59,
+      "hash": "d7511612be41e3eba208302323861515"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-pacman-tmb.jpg",
+      "added": 59,
+      "hash": "eef64ee7fa5b3eb206298fe0cd3abc5d"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-paperboy-tmb.jpg",
+      "added": 59,
+      "hash": "7b2acb588ae9b42155d1dc5a391f0101"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-pleiades-tmb.jpg",
+      "added": 59,
+      "hash": "4eaa4b8d66adea6ecc859b89979b51e7"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-polepos-tmb.jpg",
+      "added": 59,
+      "hash": "c7962c32a64e4282c4764714c5e7cec7"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-popeye-tmb.jpg",
+      "added": 59,
+      "hash": "ec5443d4e1a812d85f547d4bdc48dbc5"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-punchout-tmb.jpg",
+      "added": 59,
+      "hash": "7e937282dd717f1557d7e34d79f307ab"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-qbert-tmb.jpg",
+      "added": 59,
+      "hash": "0076bf74dce1104ae092e4f0e2ef1e6c"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-qix-tmb.jpg",
+      "added": 59,
+      "hash": "efa4fd39b4923d103ffd44df330e0475"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-ridgera2-tmb.jpg",
+      "added": 59,
+      "hash": "096ee10baac6b4db1bac6fbdb608eb34"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-rmpgwt-tmb.jpg",
+      "added": 59,
+      "hash": "1ce4d3c0b6e2070d69b4c58d6c1a608e"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-robotron-tmb.jpg",
+      "added": 59,
+      "hash": "355306eaa34d24e80b83cdc1e3ca3f9d"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-rygar-tmb.jpg",
+      "added": 59,
+      "hash": "4713040d4f527d6de498189acb6c6b8f"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-samsho3-tmb.jpg",
+      "added": 59,
+      "hash": "0cb297bdeb2113d3f0f5df5abb1bd855"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-sbrkout-tmb.jpg",
+      "added": 59,
+      "hash": "16ea12bb03596ef0040b8b2230e8d8aa"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-scobra-tmb.jpg",
+      "added": 59,
+      "hash": "225f10ea08e7ee1a84323be0003435dc"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-scramble-tmb.jpg",
+      "added": 59,
+      "hash": "c956981b5add01b82b56fc5580883c05"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-shinobi-tmb.jpg",
+      "added": 59,
+      "hash": "e34e7da8b1bae9973551e6a05b1f9b74"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-sinistar-tmb.jpg",
+      "added": 59,
+      "hash": "1e54138da4831e1bee7760302dc53a7e"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-slammast-tmb.jpg",
+      "added": 59,
+      "hash": "53fe387b9637bb89fbc2835fa19694ac"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-smashtv-tmb.jpg",
+      "added": 59,
+      "hash": "0af18cf873ce3af77b973ca84b327ed9"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-spdodgeb-tmb.jpg",
+      "added": 59,
+      "hash": "eed7f9b14497870a9c24da526248d362"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-spnchout-tmb.jpg",
+      "added": 59,
+      "hash": "24c654e9efb03af282abfabe0e7c1bf3"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-spyhunt-tmb.jpg",
+      "added": 59,
+      "hash": "048d85f004d7d7c628dc9d1f3f924521"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-ssf2-tmb.jpg",
+      "added": 59,
+      "hash": "869112f1d0319957e4fcc8adb8696e35"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-ssriders-tmb.jpg",
+      "added": 59,
+      "hash": "73ee2cbd85b7c5d798ce4b0e11da08bd"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-startrek-tmb.jpg",
+      "added": 59,
+      "hash": "8e2978ec81005ebfeb6c23810dfbbc18"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-suprmrio-tmb.jpg",
+      "added": 59,
+      "hash": "29788564df7c21a5007ac188c1132488"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-szaxxon-tmb.jpg",
+      "added": 59,
+      "hash": "693f4e2b4ef8ffe80efdccad8af9f02b"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-tapper-tmb.jpg",
+      "added": 59,
+      "hash": "852139c8d3b4037f88c2a209be0421c7"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-tcobra2-tmb.jpg",
+      "added": 59,
+      "hash": "b690e071bd4396f10cc225ca67957c4f"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-tempest-tmb.jpg",
+      "added": 59,
+      "hash": "e23c03ee239ed6a9507ddcec52315853"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-tetris-tmb.jpg",
+      "added": 59,
+      "hash": "9b6822d4489d666e89d2bd32fbf1c69b"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-tmht2p-tmb.jpg",
+      "added": 59,
+      "hash": "814dd50796a1c6d2972c30a6be2ec985"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-trackfld-tmb.jpg",
+      "added": 59,
+      "hash": "9c6c0273479b88fff7fe44d2ab2db879"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-turfmast-tmb.jpg",
+      "added": 59,
+      "hash": "4fc3a0f27fc8a5ee8ecc603bc50a7474"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-wboy-tmb.jpg",
+      "added": 59,
+      "hash": "231d282aea17f218760a2acc92be83f3"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-wow-tmb.jpg",
+      "added": 59,
+      "hash": "ec406c842f212f1344f4bf20136d9e1b"
+    },
+    {
+      "path": "lcdmarqueesalt/thumbnails/mame-zaxxon-tmb.jpg",
+      "added": 59,
+      "hash": "37a113924aa534d9bd15ac9638cd5031"
     },
     {
       "path": "metadata/trivia_arcade.json",
