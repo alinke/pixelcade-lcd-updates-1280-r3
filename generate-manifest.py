@@ -24,7 +24,7 @@ MANIFEST_PATH = REPO_ROOT / "manifest.json"
 BASE_VERSION = 19  # R3 starts at version 19
 
 # Directories to scan for artwork
-ARTWORK_DIRS = ["lcdmarquees", "metadata"]
+ARTWORK_DIRS = ["lcdmarquees", "lcdmarqueesalt", "metadata", "boxart"]
 
 # File extensions to include
 ARTWORK_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".json", ".mp4"}
