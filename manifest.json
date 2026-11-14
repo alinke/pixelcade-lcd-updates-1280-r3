@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "base_version": 19,
   "files": [
     {
@@ -4186,6 +4186,926 @@
       "path": "lcdmarquees/chromatheme-zxspectrum.jpg",
       "added": 54,
       "hash": "3c6315c87c5872675b7aa3e33927dd98"
+    },
+    {
+      "path": "lcdmarquees/comictheme-2048.jpg",
+      "added": 61,
+      "hash": "3a072be297b62319ecba35ced07b48e5"
+    },
+    {
+      "path": "lcdmarquees/comictheme-3do.jpg",
+      "added": 61,
+      "hash": "3f5bfe2225e14c115ad11312dba4768f"
+    },
+    {
+      "path": "lcdmarquees/comictheme-64dd.jpg",
+      "added": 61,
+      "hash": "a1b90cb6451837956ef133f8f3a64d70"
+    },
+    {
+      "path": "lcdmarquees/comictheme-TMNT.jpg",
+      "added": 61,
+      "hash": "1aab72551d8b346e01dc775b13c5a102"
+    },
+    {
+      "path": "lcdmarquees/comictheme-ags.jpg",
+      "added": 61,
+      "hash": "a5e70535e8ed8653ea1fb1467813d29d"
+    },
+    {
+      "path": "lcdmarquees/comictheme-amiga1200.jpg",
+      "added": 61,
+      "hash": "d620e9a01e0cb7ce81bf90e433639cad"
+    },
+    {
+      "path": "lcdmarquees/comictheme-amiga600.jpg",
+      "added": 61,
+      "hash": "b56d41e1b4454df389af3663ccd449bd"
+    },
+    {
+      "path": "lcdmarquees/comictheme-amigacd32.jpg",
+      "added": 61,
+      "hash": "55fc9c94332fb75235ebeaae0a2a0f6c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-amigacdtv.jpg",
+      "added": 61,
+      "hash": "1d6640dba266f9e922227bb687f71c0a"
+    },
+    {
+      "path": "lcdmarquees/comictheme-amstradcpc.jpg",
+      "added": 61,
+      "hash": "a20eddb2882a2dc93e874d28b1d21db6"
+    },
+    {
+      "path": "lcdmarquees/comictheme-apple2.jpg",
+      "added": 61,
+      "hash": "6e41f74eca9dd7a13673dfda1be37c4c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-apple2gs.jpg",
+      "added": 61,
+      "hash": "17c77e11171fb5a508efe21ed87225c8"
+    },
+    {
+      "path": "lcdmarquees/comictheme-arcade.jpg",
+      "added": 61,
+      "hash": "2841340089bd7355f61b960425b181f5"
+    },
+    {
+      "path": "lcdmarquees/comictheme-astrocade.jpg",
+      "added": 61,
+      "hash": "d54c717ac3d205a2df18e36d77b20051"
+    },
+    {
+      "path": "lcdmarquees/comictheme-atari2600.jpg",
+      "added": 61,
+      "hash": "0c154ecab620949a1e45b0afa47383c0"
+    },
+    {
+      "path": "lcdmarquees/comictheme-atari5200.jpg",
+      "added": 61,
+      "hash": "ae424006fd736552fcfd9ac04f4c1186"
+    },
+    {
+      "path": "lcdmarquees/comictheme-atari7800.jpg",
+      "added": 61,
+      "hash": "3e751d8921a3a81cf68219e49dbddb1c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-atari800.jpg",
+      "added": 61,
+      "hash": "54f16874034f27ec8dc0516818a212d8"
+    },
+    {
+      "path": "lcdmarquees/comictheme-atarist.jpg",
+      "added": 61,
+      "hash": "1a37b0d253da7930da623b3c6c01f710"
+    },
+    {
+      "path": "lcdmarquees/comictheme-atomiswave.jpg",
+      "added": 61,
+      "hash": "600a86a2cbff1b02cdf2deef7a88b33b"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-adult.jpg",
+      "added": 61,
+      "hash": "ddfeaca8cbd5be1d485a0b5c0a06b270"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-allgames.jpg",
+      "added": 61,
+      "hash": "b65416f0b6b20d47bc3dd09d24df5e6b"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-arcade.jpg",
+      "added": 61,
+      "hash": "d4104abeeb1717b3d60b60e184860b0c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-at2players.jpg",
+      "added": 61,
+      "hash": "7391afdfa2f06d5d8bc317c301098682"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-at4players.jpg",
+      "added": 61,
+      "hash": "a6e10626fad0f74a6d33640c4d70be65"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-favorites.jpg",
+      "added": 61,
+      "hash": "136f7237c720a399f01f4a73b1fb7206"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-lastplayed.jpg",
+      "added": 61,
+      "hash": "4e61352c8a484f83c0bf73effb228d8a"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-lightgun.jpg",
+      "added": 61,
+      "hash": "e008c3e705386877064de89174c14625"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-neverplayed.jpg",
+      "added": 61,
+      "hash": "e0c2e6377334ceaa2ef13f6c95d73857"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-pc.jpg",
+      "added": 61,
+      "hash": "462590ad85624ed03f172afeb2053054"
+    },
+    {
+      "path": "lcdmarquees/comictheme-auto-pinball.jpg",
+      "added": 61,
+      "hash": "53d3048a336c70b32037b25a88567dbc"
+    },
+    {
+      "path": "lcdmarquees/comictheme-batman.jpg",
+      "added": 61,
+      "hash": "1a3b970930a7f25fe9f3cd3fdc59c587"
+    },
+    {
+      "path": "lcdmarquees/comictheme-bbcmicro.jpg",
+      "added": 61,
+      "hash": "3a72dd690c243c807d64293d27852deb"
+    },
+    {
+      "path": "lcdmarquees/comictheme-btmups.jpg",
+      "added": 61,
+      "hash": "cb4afdd0290abbdade60a3c7a732b065"
+    },
+    {
+      "path": "lcdmarquees/comictheme-c128.jpg",
+      "added": 61,
+      "hash": "abf0417c62647dba62b1f019d430b839"
+    },
+    {
+      "path": "lcdmarquees/comictheme-c20.jpg",
+      "added": 61,
+      "hash": "7a1cf3fcbd60efffc984d35bc62ec776"
+    },
+    {
+      "path": "lcdmarquees/comictheme-c64.jpg",
+      "added": 61,
+      "hash": "4fed1c8d95190b92bb5dad1a5b19be9b"
+    },
+    {
+      "path": "lcdmarquees/comictheme-capcom.jpg",
+      "added": 61,
+      "hash": "5ef3e5e96b2c1fa813200e39d28901d0"
+    },
+    {
+      "path": "lcdmarquees/comictheme-cavestory.jpg",
+      "added": 61,
+      "hash": "cb9082e13064dd4f57719443ba9e925f"
+    },
+    {
+      "path": "lcdmarquees/comictheme-ccbm.jpg",
+      "added": 61,
+      "hash": "e24d5cf6c263e3713558731b8862ba25"
+    },
+    {
+      "path": "lcdmarquees/comictheme-channelf.jpg",
+      "added": 61,
+      "hash": "8bcb958154068ec241060b2fec1f8433"
+    },
+    {
+      "path": "lcdmarquees/comictheme-coco.jpg",
+      "added": 61,
+      "hash": "1e4b5f888eeb38218983fc48d76a81bc"
+    },
+    {
+      "path": "lcdmarquees/comictheme-colecovision.jpg",
+      "added": 61,
+      "hash": "0e39236124dc69748e173b9b65935b21"
+    },
+    {
+      "path": "lcdmarquees/comictheme-collections.jpg",
+      "added": 61,
+      "hash": "48f51f47b7796abe5aef440429dd47cf"
+    },
+    {
+      "path": "lcdmarquees/comictheme-cpet.jpg",
+      "added": 61,
+      "hash": "91c0e808e8b9be8ed61eff6efcb6ce7d"
+    },
+    {
+      "path": "lcdmarquees/comictheme-cplus.jpg",
+      "added": 61,
+      "hash": "9f884fb4701900038ef388cc049433f1"
+    },
+    {
+      "path": "lcdmarquees/comictheme-cps1.jpg",
+      "added": 61,
+      "hash": "c2cf27b5e4830066a37c9e5667f349b9"
+    },
+    {
+      "path": "lcdmarquees/comictheme-cps2.jpg",
+      "added": 61,
+      "hash": "c7e696181876439b45171f1b2f4baa52"
+    },
+    {
+      "path": "lcdmarquees/comictheme-cps3.jpg",
+      "added": 61,
+      "hash": "fb3a2d3dcc2bd04dbfd1ad8e77587f17"
+    },
+    {
+      "path": "lcdmarquees/comictheme-custom-collections.jpg",
+      "added": 61,
+      "hash": "48f51f47b7796abe5aef440429dd47cf"
+    },
+    {
+      "path": "lcdmarquees/comictheme-daphne.jpg",
+      "added": 61,
+      "hash": "01e643469a6c5304a9b712858e1f36a6"
+    },
+    {
+      "path": "lcdmarquees/comictheme-desktop.jpg",
+      "added": 61,
+      "hash": "56704266cfbfd48bbba2e32050f265c8"
+    },
+    {
+      "path": "lcdmarquees/comictheme-dinothawr.jpg",
+      "added": 61,
+      "hash": "af5388a7dd97af94e52b1b4a91521d18"
+    },
+    {
+      "path": "lcdmarquees/comictheme-doom.jpg",
+      "added": 61,
+      "hash": "b350dd994939e5de43ad274ac3ef1826"
+    },
+    {
+      "path": "lcdmarquees/comictheme-doom2.jpg",
+      "added": 61,
+      "hash": "297cc03878b040069228d88659ce88e0"
+    },
+    {
+      "path": "lcdmarquees/comictheme-doom3.jpg",
+      "added": 61,
+      "hash": "e03ff1c217414fc003ff91a28066cd43"
+    },
+    {
+      "path": "lcdmarquees/comictheme-dos.jpg",
+      "added": 61,
+      "hash": "c7abaccf54237fc9cd5be571b4386522"
+    },
+    {
+      "path": "lcdmarquees/comictheme-dragon32.jpg",
+      "added": 61,
+      "hash": "e6f7ba2c67c050b2f85125252ec5e641"
+    },
+    {
+      "path": "lcdmarquees/comictheme-dreamcast.jpg",
+      "added": 61,
+      "hash": "e29da6b842265bf487332427746740b3"
+    },
+    {
+      "path": "lcdmarquees/comictheme-duke3d.jpg",
+      "added": 61,
+      "hash": "f5808751d5ddf5e5319f88580f597484"
+    },
+    {
+      "path": "lcdmarquees/comictheme-famicom.jpg",
+      "added": 61,
+      "hash": "2f2baab6b1da5c81e7a696ebabb23fda"
+    },
+    {
+      "path": "lcdmarquees/comictheme-fba.jpg",
+      "added": 61,
+      "hash": "7c034b5465966e3deb8416db0ff7fad9"
+    },
+    {
+      "path": "lcdmarquees/comictheme-fbneo.jpg",
+      "added": 61,
+      "hash": "0e75cfe9c77b5b910eefb121bb75057e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-fds.jpg",
+      "added": 61,
+      "hash": "5f0f48d25a186fbcf0a47e015a0e5e4b"
+    },
+    {
+      "path": "lcdmarquees/comictheme-fighting.jpg",
+      "added": 61,
+      "hash": "2130f1ec3e69f7762e9fb701775fa94f"
+    },
+    {
+      "path": "lcdmarquees/comictheme-flashback.jpg",
+      "added": 61,
+      "hash": "dbcb39f6ad432f59f438f8c2a5255b24"
+    },
+    {
+      "path": "lcdmarquees/comictheme-gamegear.jpg",
+      "added": 61,
+      "hash": "310adf09033b6943bfaff096e63d396e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-gb.jpg",
+      "added": 61,
+      "hash": "72b139b9ba461f07677b1d01e23f7a7a"
+    },
+    {
+      "path": "lcdmarquees/comictheme-gba.jpg",
+      "added": 61,
+      "hash": "febac296b1e9ffe2244b04c443d3032a"
+    },
+    {
+      "path": "lcdmarquees/comictheme-gbah.jpg",
+      "added": 61,
+      "hash": "77329fe6f658f21157f941129c298141"
+    },
+    {
+      "path": "lcdmarquees/comictheme-gbc.jpg",
+      "added": 61,
+      "hash": "312bdf994f32a5ae303572103c4eed5f"
+    },
+    {
+      "path": "lcdmarquees/comictheme-gbh.jpg",
+      "added": 61,
+      "hash": "542e7dc7fd2cb9e7a7d933012be60358"
+    },
+    {
+      "path": "lcdmarquees/comictheme-gc.jpg",
+      "added": 61,
+      "hash": "dc9eff6fd21d76eae0a056588c050c20"
+    },
+    {
+      "path": "lcdmarquees/comictheme-genesis.jpg",
+      "added": 61,
+      "hash": "af0f9a3908581cb950507b3afb907272"
+    },
+    {
+      "path": "lcdmarquees/comictheme-genh.jpg",
+      "added": 61,
+      "hash": "fd69e913d7bff8f2d06689c8ae8db0a2"
+    },
+    {
+      "path": "lcdmarquees/comictheme-ggh.jpg",
+      "added": 61,
+      "hash": "d44211893cc6dacca1a323bc9b8d55ae"
+    },
+    {
+      "path": "lcdmarquees/comictheme-gw.jpg",
+      "added": 61,
+      "hash": "1094a8eb307a898cb008edca71787286"
+    },
+    {
+      "path": "lcdmarquees/comictheme-gx4000.jpg",
+      "added": 61,
+      "hash": "b7b5e750a4ccbaf7b900e908f4854950"
+    },
+    {
+      "path": "lcdmarquees/comictheme-imageviewer.jpg",
+      "added": 61,
+      "hash": "a2cb3cf6b1f8cba91cce38f9340637bd"
+    },
+    {
+      "path": "lcdmarquees/comictheme-intellivision.jpg",
+      "added": 61,
+      "hash": "4bbd328300be12e7f760db2f907c8a7e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-jaguar.jpg",
+      "added": 61,
+      "hash": "59d0a15b0f3db1327d3d8af93fe42cbc"
+    },
+    {
+      "path": "lcdmarquees/comictheme-kids.jpg",
+      "added": 61,
+      "hash": "725bba5071f13627281704ecd2af06db"
+    },
+    {
+      "path": "lcdmarquees/comictheme-kodi.jpg",
+      "added": 61,
+      "hash": "51e699949c89b12d0b2d38a43c2eecc4"
+    },
+    {
+      "path": "lcdmarquees/comictheme-lightgun.jpg",
+      "added": 61,
+      "hash": "7233d6be0adec35c7de09d24abce10da"
+    },
+    {
+      "path": "lcdmarquees/comictheme-love.jpg",
+      "added": 61,
+      "hash": "315737b916680365fe79fb48acecad0d"
+    },
+    {
+      "path": "lcdmarquees/comictheme-lutro.jpg",
+      "added": 61,
+      "hash": "960d2db4dc2d90e9664118be03288920"
+    },
+    {
+      "path": "lcdmarquees/comictheme-lynx.jpg",
+      "added": 61,
+      "hash": "b4d6eaa6d8407dabcd9cca349729d876"
+    },
+    {
+      "path": "lcdmarquees/comictheme-macintosh.jpg",
+      "added": 61,
+      "hash": "e8b0341250444cb65e3440b91505e6fe"
+    },
+    {
+      "path": "lcdmarquees/comictheme-mame-advmame.jpg",
+      "added": 61,
+      "hash": "c1b7f60e41d53199862647434daac082"
+    },
+    {
+      "path": "lcdmarquees/comictheme-mame-libretro.jpg",
+      "added": 61,
+      "hash": "c1b7f60e41d53199862647434daac082"
+    },
+    {
+      "path": "lcdmarquees/comictheme-mame-mame4all.jpg",
+      "added": 61,
+      "hash": "c1b7f60e41d53199862647434daac082"
+    },
+    {
+      "path": "lcdmarquees/comictheme-mame.jpg",
+      "added": 61,
+      "hash": "c1b7f60e41d53199862647434daac082"
+    },
+    {
+      "path": "lcdmarquees/comictheme-mamerow.jpg",
+      "added": 61,
+      "hash": "f35b9e04d0bfd51429ff69de01ddaad4"
+    },
+    {
+      "path": "lcdmarquees/comictheme-mario.jpg",
+      "added": 61,
+      "hash": "191b9a663bf00fbb5da8fae1e0089ed3"
+    },
+    {
+      "path": "lcdmarquees/comictheme-mastersystem.jpg",
+      "added": 61,
+      "hash": "2b07f7c695f0b41d7b36630bc0eacf7f"
+    },
+    {
+      "path": "lcdmarquees/comictheme-megadrive.jpg",
+      "added": 61,
+      "hash": "200e45c85c4bca88be5ff5c5c1e6a583"
+    },
+    {
+      "path": "lcdmarquees/comictheme-megaman.jpg",
+      "added": 61,
+      "hash": "745194999114ea04ab83cae8b28fe34e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-menu.jpg",
+      "added": 61,
+      "hash": "866c57dcf96d98c00b4b14f30d729377"
+    },
+    {
+      "path": "lcdmarquees/comictheme-moonlight.jpg",
+      "added": 61,
+      "hash": "a31ca3808153d0bc8c362900b94a5bd4"
+    },
+    {
+      "path": "lcdmarquees/comictheme-movies.jpg",
+      "added": 61,
+      "hash": "bfe1fde7c277902e90317a2f815a9f98"
+    },
+    {
+      "path": "lcdmarquees/comictheme-mrboom.jpg",
+      "added": 61,
+      "hash": "7ceca09522afcf74c458e78d04b776d4"
+    },
+    {
+      "path": "lcdmarquees/comictheme-msx1.jpg",
+      "added": 61,
+      "hash": "5da75bc88f6e614aa87b118ad819760e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-msx2.jpg",
+      "added": 61,
+      "hash": "5c5e80b29cf1a9940ec0be9c807fecb1"
+    },
+    {
+      "path": "lcdmarquees/comictheme-msxturbor.jpg",
+      "added": 61,
+      "hash": "76f78fd49d733313b9e3d590e19e43fd"
+    },
+    {
+      "path": "lcdmarquees/comictheme-multivision.jpg",
+      "added": 61,
+      "hash": "5d11f552ddfb656a1ef8cf4c5d6d0f7d"
+    },
+    {
+      "path": "lcdmarquees/comictheme-music.jpg",
+      "added": 61,
+      "hash": "646c3647546c7df2f2d179443bbac1da"
+    },
+    {
+      "path": "lcdmarquees/comictheme-n64.jpg",
+      "added": 61,
+      "hash": "6c4ed5b58608d72389734a065997c51c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-n64dd.jpg",
+      "added": 61,
+      "hash": "a1b90cb6451837956ef133f8f3a64d70"
+    },
+    {
+      "path": "lcdmarquees/comictheme-naomi.jpg",
+      "added": 61,
+      "hash": "22a0597521d571bd9cd85dfa145f5d8b"
+    },
+    {
+      "path": "lcdmarquees/comictheme-naomigd.jpg",
+      "added": 61,
+      "hash": "66ab7e41a4d1da9d0a6646ffc9fbc11d"
+    },
+    {
+      "path": "lcdmarquees/comictheme-nds.jpg",
+      "added": 61,
+      "hash": "efe08c4e8b2dc5797df79aa9ddd7e809"
+    },
+    {
+      "path": "lcdmarquees/comictheme-neogeo.jpg",
+      "added": 61,
+      "hash": "40f816561989e849366e8f1c69b59f76"
+    },
+    {
+      "path": "lcdmarquees/comictheme-neogeocd.jpg",
+      "added": 61,
+      "hash": "160c2209491086cb1aac4cfc3e29a7c4"
+    },
+    {
+      "path": "lcdmarquees/comictheme-nes.jpg",
+      "added": 61,
+      "hash": "7395d08154cd77aef05e2dbb4ffeb271"
+    },
+    {
+      "path": "lcdmarquees/comictheme-nesh.jpg",
+      "added": 61,
+      "hash": "aef25e509f5050e2a347385448e6588c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-netsurf.jpg",
+      "added": 61,
+      "hash": "564c35c8f7cfe279266b5e976bc33386"
+    },
+    {
+      "path": "lcdmarquees/comictheme-ngp.jpg",
+      "added": 61,
+      "hash": "4392d8cdfa214a79d985f17436b819f2"
+    },
+    {
+      "path": "lcdmarquees/comictheme-ngpc.jpg",
+      "added": 61,
+      "hash": "44ed91f6cea5f6c84b788de244397c3c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-odyssey2.jpg",
+      "added": 61,
+      "hash": "123bea0799f260a9c3348d6814c1b1c3"
+    },
+    {
+      "path": "lcdmarquees/comictheme-openarena.jpg",
+      "added": 61,
+      "hash": "bf37380ad2eb78365b4e3ead3ac93314"
+    },
+    {
+      "path": "lcdmarquees/comictheme-openbor.jpg",
+      "added": 61,
+      "hash": "7bc12095c828e6aceffa1854f60255f4"
+    },
+    {
+      "path": "lcdmarquees/comictheme-oric.jpg",
+      "added": 61,
+      "hash": "8428ead3468241b6b9249bb70697d377"
+    },
+    {
+      "path": "lcdmarquees/comictheme-palm.jpg",
+      "added": 61,
+      "hash": "96e351603900d713df329ce18b5a4559"
+    },
+    {
+      "path": "lcdmarquees/comictheme-pc.jpg",
+      "added": 61,
+      "hash": "dd93ac0c31a0b009914d4cacd18b0f0e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-pc88.jpg",
+      "added": 61,
+      "hash": "72d386673008d95363b1417a8a701ce6"
+    },
+    {
+      "path": "lcdmarquees/comictheme-pc98.jpg",
+      "added": 61,
+      "hash": "ffeebdf8410a3e2bbf7eab610588c757"
+    },
+    {
+      "path": "lcdmarquees/comictheme-pcengine.jpg",
+      "added": 61,
+      "hash": "3c595a7623e0a5983e04339cc4f44316"
+    },
+    {
+      "path": "lcdmarquees/comictheme-pcenginecd.jpg",
+      "added": 61,
+      "hash": "0e7bcf5e216385ff256b88813e622af6"
+    },
+    {
+      "path": "lcdmarquees/comictheme-pcfx.jpg",
+      "added": 61,
+      "hash": "b9e43c4d064a69664445234922bb654b"
+    },
+    {
+      "path": "lcdmarquees/comictheme-pokemini.jpg",
+      "added": 61,
+      "hash": "26d6ae20e8bc5d43028b699c9a9d1c83"
+    },
+    {
+      "path": "lcdmarquees/comictheme-ports.jpg",
+      "added": 61,
+      "hash": "d50823f019f89a3bcabd8b64aa6f839d"
+    },
+    {
+      "path": "lcdmarquees/comictheme-ps2.jpg",
+      "added": 61,
+      "hash": "a06b04dc371fba8256214a38493aa71b"
+    },
+    {
+      "path": "lcdmarquees/comictheme-psp.jpg",
+      "added": 61,
+      "hash": "e56ba50db0113c31e349f7b7b5f6c449"
+    },
+    {
+      "path": "lcdmarquees/comictheme-pspminis.jpg",
+      "added": 61,
+      "hash": "6738b33fe5ee1a9d9e61bb04b2ec0a9c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-psx.jpg",
+      "added": 61,
+      "hash": "b0f504c382abe20791955b862911b8eb"
+    },
+    {
+      "path": "lcdmarquees/comictheme-quake.jpg",
+      "added": 61,
+      "hash": "880758989ae69e78a77f07c14f74a0c4"
+    },
+    {
+      "path": "lcdmarquees/comictheme-quake2.jpg",
+      "added": 61,
+      "hash": "82099ce557c1ca92b13fa48f99b41e93"
+    },
+    {
+      "path": "lcdmarquees/comictheme-quake3.jpg",
+      "added": 61,
+      "hash": "f2245f541a0143bbb16e4b68d7c2740c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-racing.jpg",
+      "added": 61,
+      "hash": "9d38c5d6822f21c6ee73e8e10c4a2e9d"
+    },
+    {
+      "path": "lcdmarquees/comictheme-residualvm.jpg",
+      "added": 61,
+      "hash": "16c9600940a2ef319746d7d53132abf7"
+    },
+    {
+      "path": "lcdmarquees/comictheme-retropie.jpg",
+      "added": 61,
+      "hash": "5c7ec0d3c60328894647f21a7b46b34f"
+    },
+    {
+      "path": "lcdmarquees/comictheme-rickdanger.jpg",
+      "added": 61,
+      "hash": "0459cf1463cb3b908fe468b451c9f923"
+    },
+    {
+      "path": "lcdmarquees/comictheme-rickdangerous.jpg",
+      "added": 61,
+      "hash": "0459cf1463cb3b908fe468b451c9f923"
+    },
+    {
+      "path": "lcdmarquees/comictheme-samcoupe.jpg",
+      "added": 61,
+      "hash": "52850029d88371fecac089c1b9ed803c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-satellaview.jpg",
+      "added": 61,
+      "hash": "97015f06a72ca563768e3ea03965d262"
+    },
+    {
+      "path": "lcdmarquees/comictheme-scummvm.jpg",
+      "added": 61,
+      "hash": "f8310b7be8a50e3414cb7afeddd9bad4"
+    },
+    {
+      "path": "lcdmarquees/comictheme-sega32x.jpg",
+      "added": 61,
+      "hash": "9f3cb4b31d9d01bd7a6f091c6df7962e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-segacd.jpg",
+      "added": 61,
+      "hash": "c45e83077d2ecef539081d162f98dfb1"
+    },
+    {
+      "path": "lcdmarquees/comictheme-segasaturn.jpg",
+      "added": 61,
+      "hash": "9d958bf13c5d7ef171c20be38e9c4dcc"
+    },
+    {
+      "path": "lcdmarquees/comictheme-sfc.jpg",
+      "added": 61,
+      "hash": "6d15c86da20d0638d5d6797a4d23c0e0"
+    },
+    {
+      "path": "lcdmarquees/comictheme-sg1000.jpg",
+      "added": 61,
+      "hash": "405c92cdd657b39d7667d2e24bf17b7c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-shmups.jpg",
+      "added": 61,
+      "hash": "e08d982498bc474f9a09afa5be8ad67d"
+    },
+    {
+      "path": "lcdmarquees/comictheme-snes.jpg",
+      "added": 61,
+      "hash": "66123e2c68f71071152e7d1b6aa4a119"
+    },
+    {
+      "path": "lcdmarquees/comictheme-snesh.jpg",
+      "added": 61,
+      "hash": "7acb242e3e83f230a3d1183842d2ad01"
+    },
+    {
+      "path": "lcdmarquees/comictheme-sonic.jpg",
+      "added": 61,
+      "hash": "3c89c539a29bdc7e52b7014d8514c2a3"
+    },
+    {
+      "path": "lcdmarquees/comictheme-spectravideo.jpg",
+      "added": 61,
+      "hash": "c6fce03ad5bd8da30b06fba105477311"
+    },
+    {
+      "path": "lcdmarquees/comictheme-sports.jpg",
+      "added": 61,
+      "hash": "035cf50a880fd8b4ee88b0e53fa30c5e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-starwars.jpg",
+      "added": 61,
+      "hash": "7f08b3187fcc2efb3ef5a09eedfa7aaf"
+    },
+    {
+      "path": "lcdmarquees/comictheme-steam.jpg",
+      "added": 61,
+      "hash": "e52a63aad2f9bc2a5ce4845618f904b3"
+    },
+    {
+      "path": "lcdmarquees/comictheme-stratagus.jpg",
+      "added": 61,
+      "hash": "ebbde4f29659cfebe4adf9c86831288e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-sufami.jpg",
+      "added": 61,
+      "hash": "91a3ce9a6ef892d21e175206ae9ea809"
+    },
+    {
+      "path": "lcdmarquees/comictheme-supergrafx.jpg",
+      "added": 61,
+      "hash": "683c091f607227619585e01177599212"
+    },
+    {
+      "path": "lcdmarquees/comictheme-tg-cd.jpg",
+      "added": 61,
+      "hash": "a86dd48dc5556f5cc3c961ee6597528e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-tg16.jpg",
+      "added": 61,
+      "hash": "7a0962e379a842fcb2d9d69aa88cb00c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-tg16cd.jpg",
+      "added": 61,
+      "hash": "a86dd48dc5556f5cc3c961ee6597528e"
+    },
+    {
+      "path": "lcdmarquees/comictheme-thomson.jpg",
+      "added": 61,
+      "hash": "4294241a4176015a030ce7df54d6d4a3"
+    },
+    {
+      "path": "lcdmarquees/comictheme-ti99.jpg",
+      "added": 61,
+      "hash": "a4771ba7b0d18fbb2e959c2d00dd1bde"
+    },
+    {
+      "path": "lcdmarquees/comictheme-tic80.jpg",
+      "added": 61,
+      "hash": "af6d8c421d4553dc7d0f1d6aa279a4dd"
+    },
+    {
+      "path": "lcdmarquees/comictheme-trackball.jpg",
+      "added": 61,
+      "hash": "ff91eb69fdf621fdb66450afa87657b0"
+    },
+    {
+      "path": "lcdmarquees/comictheme-trs-80.jpg",
+      "added": 61,
+      "hash": "647eb3e831a8bcc6e849501d083f3eda"
+    },
+    {
+      "path": "lcdmarquees/comictheme-uzebox.jpg",
+      "added": 61,
+      "hash": "9988c4ba3da0d642e02a88a698adb0ef"
+    },
+    {
+      "path": "lcdmarquees/comictheme-vectrex.jpg",
+      "added": 61,
+      "hash": "ad0651f2f28f0189322781b6d25e3586"
+    },
+    {
+      "path": "lcdmarquees/comictheme-videopac.jpg",
+      "added": 61,
+      "hash": "18aa86ce58c1389740d0830bbe79b6a9"
+    },
+    {
+      "path": "lcdmarquees/comictheme-virtualboy.jpg",
+      "added": 61,
+      "hash": "af7b9150d73d053c288c7b606f9a4c0d"
+    },
+    {
+      "path": "lcdmarquees/comictheme-wii.jpg",
+      "added": 61,
+      "hash": "f5ec6f6b4e1f726c553136012118f37c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-wiiu.jpg",
+      "added": 61,
+      "hash": "ed150b6eb7e41a795b91cf2d1da212b8"
+    },
+    {
+      "path": "lcdmarquees/comictheme-wolf3d.jpg",
+      "added": 61,
+      "hash": "40fefce899a9b908736a10379fcc521f"
+    },
+    {
+      "path": "lcdmarquees/comictheme-wolfenstein3d.jpg",
+      "added": 61,
+      "hash": "40fefce899a9b908736a10379fcc521f"
+    },
+    {
+      "path": "lcdmarquees/comictheme-wswan.jpg",
+      "added": 61,
+      "hash": "bd355c5e411fd586e50d0ce029db591d"
+    },
+    {
+      "path": "lcdmarquees/comictheme-wswanc.jpg",
+      "added": 61,
+      "hash": "0022a1407ce0122f5672c4c6fa477a8c"
+    },
+    {
+      "path": "lcdmarquees/comictheme-x1.jpg",
+      "added": 61,
+      "hash": "bf6d33240347fb7a8a9644b831a66fad"
+    },
+    {
+      "path": "lcdmarquees/comictheme-x68000.jpg",
+      "added": 61,
+      "hash": "1a175c35caf0afe3a63884d36fe7dce1"
+    },
+    {
+      "path": "lcdmarquees/comictheme-zx81.jpg",
+      "added": 61,
+      "hash": "e775f8d9d7c61d9aab582cd6012b797a"
+    },
+    {
+      "path": "lcdmarquees/comictheme-zxspectrum.jpg",
+      "added": 61,
+      "hash": "17bddea29681f7d3ea1a2228a64a3b53"
     },
     {
       "path": "lcdmarquees/default-fbneo.jpg",
@@ -31251,6 +32171,926 @@
       "path": "lcdmarquees/thumbnails/chromatheme-zxspectrum-tmb.jpg",
       "added": 60,
       "hash": "d051827691ac563a0917311079dd0b25"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-2048-tmb.jpg",
+      "added": 61,
+      "hash": "6b293c33a58ef942e524127f0f133589"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-3do-tmb.jpg",
+      "added": 61,
+      "hash": "a4840cb85a8d382c3cfed53e58d85133"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-64dd-tmb.jpg",
+      "added": 61,
+      "hash": "97e676cb9e9b2365a5791f28671981ca"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-TMNT-tmb.jpg",
+      "added": 61,
+      "hash": "26d8bc65c2113a53e0c5d1175ae286ad"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-ags-tmb.jpg",
+      "added": 61,
+      "hash": "6799994ee97f29a283301508f90e6b7c"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-amiga1200-tmb.jpg",
+      "added": 61,
+      "hash": "e678f8d139a01b152606c1c52baecb09"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-amiga600-tmb.jpg",
+      "added": 61,
+      "hash": "dd385cee96de7db78e9e827633a46a41"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-amigacd32-tmb.jpg",
+      "added": 61,
+      "hash": "c0947e9d188ac6212558048f5f12f41e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-amigacdtv-tmb.jpg",
+      "added": 61,
+      "hash": "53b95242a5b3d7c27f9d3d46c34c6b0f"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-amstradcpc-tmb.jpg",
+      "added": 61,
+      "hash": "c46cbebe94e9638a3349347ca8f42d45"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-apple2-tmb.jpg",
+      "added": 61,
+      "hash": "e0ae04b55ff554421a24bce608191d0f"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-apple2gs-tmb.jpg",
+      "added": 61,
+      "hash": "68c0277b9dfab174e5f1c841acea0e96"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-arcade-tmb.jpg",
+      "added": 61,
+      "hash": "e5eaf1abb13eb3eec05beefec90a7df0"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-astrocade-tmb.jpg",
+      "added": 61,
+      "hash": "69c379ef5fb6fe86f4240895ff71ea36"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-atari2600-tmb.jpg",
+      "added": 61,
+      "hash": "0683ecaec6058f92a7ffd770ea117c09"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-atari5200-tmb.jpg",
+      "added": 61,
+      "hash": "6ed26e98f57521a33bdce2f8bb96d2b9"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-atari7800-tmb.jpg",
+      "added": 61,
+      "hash": "396093011cce39eb9f2e63aa40fc0724"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-atari800-tmb.jpg",
+      "added": 61,
+      "hash": "4fcc07e7b888b62a532c90de17b2a590"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-atarist-tmb.jpg",
+      "added": 61,
+      "hash": "29212529571544887efdafdd4c72b3af"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-atomiswave-tmb.jpg",
+      "added": 61,
+      "hash": "004c31614ac586e5ba97c664fc5d1def"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-adult-tmb.jpg",
+      "added": 61,
+      "hash": "1df61501f0cdc4ebac0eda8a00eba505"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-allgames-tmb.jpg",
+      "added": 61,
+      "hash": "d6a43626d69fafa27417532f3e157c49"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-arcade-tmb.jpg",
+      "added": 61,
+      "hash": "8d92cb7f1ca0d93f23b510c46e392367"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-at2players-tmb.jpg",
+      "added": 61,
+      "hash": "589e247ca5ff352a9c8f2e8ad95155e7"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-at4players-tmb.jpg",
+      "added": 61,
+      "hash": "8f25ecaba8082822d2a6f3e13da07893"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-favorites-tmb.jpg",
+      "added": 61,
+      "hash": "22ee8047d86832bef658d829f7144bf8"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-lastplayed-tmb.jpg",
+      "added": 61,
+      "hash": "7f97e9eb52fe3d87bde6c465f3c70c7e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-lightgun-tmb.jpg",
+      "added": 61,
+      "hash": "b2906cff78b22c6b17a72b9c9febca6f"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-neverplayed-tmb.jpg",
+      "added": 61,
+      "hash": "158a016f29432717372b1a9af3d35f63"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-pc-tmb.jpg",
+      "added": 61,
+      "hash": "a285ac72481f0b4d883533bef7d82692"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-auto-pinball-tmb.jpg",
+      "added": 61,
+      "hash": "ccc9abeca83cc238567a4a5d30e97616"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-batman-tmb.jpg",
+      "added": 61,
+      "hash": "bc174bed49981e462c2245dc4e2fcd7a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-bbcmicro-tmb.jpg",
+      "added": 61,
+      "hash": "557a42e160418d2128c795bf887ef1db"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-btmups-tmb.jpg",
+      "added": 61,
+      "hash": "2bba51c18c1b4b63acd27f80302a103c"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-c128-tmb.jpg",
+      "added": 61,
+      "hash": "2b6af6c24729adf8877c1b5fe4010d86"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-c20-tmb.jpg",
+      "added": 61,
+      "hash": "d47caee2ff89b37035e2fdbee56694b2"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-c64-tmb.jpg",
+      "added": 61,
+      "hash": "f2d5b330f0beaa646901220860432963"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-capcom-tmb.jpg",
+      "added": 61,
+      "hash": "d1661f0cc566fd522fdaae0695631842"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-cavestory-tmb.jpg",
+      "added": 61,
+      "hash": "fc6f225e5d2895b8963480fbe1a810c6"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-ccbm-tmb.jpg",
+      "added": 61,
+      "hash": "99a4eae99927c151be6ab894cc728444"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-channelf-tmb.jpg",
+      "added": 61,
+      "hash": "21f6b3fae5191dffeacd1841742d8824"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-coco-tmb.jpg",
+      "added": 61,
+      "hash": "74f225d1d4954e2a240e12d04574644a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-colecovision-tmb.jpg",
+      "added": 61,
+      "hash": "3f5a35c7cb9808b3ed29f8d1665cab9d"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-collections-tmb.jpg",
+      "added": 61,
+      "hash": "cbb79985138549d1f76ae940959e18c9"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-cpet-tmb.jpg",
+      "added": 61,
+      "hash": "68932369f8ee753dfcb6bc1b2716b72e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-cplus-tmb.jpg",
+      "added": 61,
+      "hash": "c28b51afaa2805b7666fa4f36669c8b8"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-cps1-tmb.jpg",
+      "added": 61,
+      "hash": "e4aa3ca6d3c29118d9ae3aec2c54752e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-cps2-tmb.jpg",
+      "added": 61,
+      "hash": "6fcaa73aa95e954c26bd38ec16a1aa03"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-cps3-tmb.jpg",
+      "added": 61,
+      "hash": "7ab01e54e66870a87146c51b43d11506"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-custom-collections-tmb.jpg",
+      "added": 61,
+      "hash": "cbb79985138549d1f76ae940959e18c9"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-daphne-tmb.jpg",
+      "added": 61,
+      "hash": "5fd8149890bb686e4b6b7b85203bbea7"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-desktop-tmb.jpg",
+      "added": 61,
+      "hash": "b37c38c7bf93c4924791d7a9e1958528"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-dinothawr-tmb.jpg",
+      "added": 61,
+      "hash": "774b89a5465e4c768e6f4c7b66823297"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-doom-tmb.jpg",
+      "added": 61,
+      "hash": "58b2ee30a0932d6bd21ffb4347bc0bec"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-doom2-tmb.jpg",
+      "added": 61,
+      "hash": "b1c7da6c1144bf5198f48f4cfba29b9e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-doom3-tmb.jpg",
+      "added": 61,
+      "hash": "41824eea4e84f0a82c3b2999b86ee6c1"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-dos-tmb.jpg",
+      "added": 61,
+      "hash": "2c613938ecafa8bea30f8560abeb2a66"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-dragon32-tmb.jpg",
+      "added": 61,
+      "hash": "a1b24b5a43f5b57f2b8d3ec808ad32b2"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-dreamcast-tmb.jpg",
+      "added": 61,
+      "hash": "0164bd0fb770a32426496051f17320d9"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-duke3d-tmb.jpg",
+      "added": 61,
+      "hash": "b2e1e5108ac3bba223254be119848dc4"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-famicom-tmb.jpg",
+      "added": 61,
+      "hash": "a2a4191d39091df9c10317672fe620eb"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-fba-tmb.jpg",
+      "added": 61,
+      "hash": "c3d01b05a40e4f5e5e4fb3f728e981ae"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-fbneo-tmb.jpg",
+      "added": 61,
+      "hash": "35f1946f5cbb3f8873bc3fdf856072fc"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-fds-tmb.jpg",
+      "added": 61,
+      "hash": "88a69547ace2ea959c55649b543b4979"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-fighting-tmb.jpg",
+      "added": 61,
+      "hash": "40819f4f78842b06a49698a12c641c8d"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-flashback-tmb.jpg",
+      "added": 61,
+      "hash": "bfb75d50844d16194190d8738dd55213"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-gamegear-tmb.jpg",
+      "added": 61,
+      "hash": "942e02282c1407677becab1d156a4bb0"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-gb-tmb.jpg",
+      "added": 61,
+      "hash": "c76a1deaa5559131d60978f937bcc94c"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-gba-tmb.jpg",
+      "added": 61,
+      "hash": "7338953aaa007bf86fcdeeae09b6b5ca"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-gbah-tmb.jpg",
+      "added": 61,
+      "hash": "81104a9bf303f8f4d9a32b4ccbb95f24"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-gbc-tmb.jpg",
+      "added": 61,
+      "hash": "64163abf1dcd5c82282f5a2d347c5668"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-gbh-tmb.jpg",
+      "added": 61,
+      "hash": "ac2d34b2be5a8090580b888dec8615d1"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-gc-tmb.jpg",
+      "added": 61,
+      "hash": "e8b599aee12a5f267f108d96180f9e90"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-genesis-tmb.jpg",
+      "added": 61,
+      "hash": "ab145d2d38a50b3b43fcc7588c1b3f02"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-genh-tmb.jpg",
+      "added": 61,
+      "hash": "dcab4b3fc22901e329251b436b64d142"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-ggh-tmb.jpg",
+      "added": 61,
+      "hash": "d820b2821f8ce444bb8f1c9b198d8e7d"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-gw-tmb.jpg",
+      "added": 61,
+      "hash": "8935cf7c56e760bc013dd1a89ba3731b"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-gx4000-tmb.jpg",
+      "added": 61,
+      "hash": "48360afb7098d599e6233463c723829e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-imageviewer-tmb.jpg",
+      "added": 61,
+      "hash": "769dfbc2bad7017293c5f407b14c3259"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-intellivision-tmb.jpg",
+      "added": 61,
+      "hash": "6dfa0d1650e8237e0e31cf89aae3e25e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-jaguar-tmb.jpg",
+      "added": 61,
+      "hash": "1841f30721d6f1e1d1e284a8273299a7"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-kids-tmb.jpg",
+      "added": 61,
+      "hash": "704c4e6582e29b513e1c6128bde70cf9"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-kodi-tmb.jpg",
+      "added": 61,
+      "hash": "f68284be9c477bd42d846a1c6db5f2c4"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-lightgun-tmb.jpg",
+      "added": 61,
+      "hash": "d21cb36f5b24a0358f917a64cd763a09"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-love-tmb.jpg",
+      "added": 61,
+      "hash": "ed5d1361f5842385c065b6df48102596"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-lutro-tmb.jpg",
+      "added": 61,
+      "hash": "5a2ae4ef99155eec70deac810f327933"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-lynx-tmb.jpg",
+      "added": 61,
+      "hash": "33bc5889dc3f2cca725ef1ca0ee5ae5e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-macintosh-tmb.jpg",
+      "added": 61,
+      "hash": "ec8f88bd1a12f215a67b86275019a872"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-mame-advmame-tmb.jpg",
+      "added": 61,
+      "hash": "1434283270d4954f8041c0981e84ebf5"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-mame-libretro-tmb.jpg",
+      "added": 61,
+      "hash": "1434283270d4954f8041c0981e84ebf5"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-mame-mame4all-tmb.jpg",
+      "added": 61,
+      "hash": "1434283270d4954f8041c0981e84ebf5"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-mame-tmb.jpg",
+      "added": 61,
+      "hash": "1434283270d4954f8041c0981e84ebf5"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-mamerow-tmb.jpg",
+      "added": 61,
+      "hash": "49b53163e76a130dcf39c28cad4f0855"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-mario-tmb.jpg",
+      "added": 61,
+      "hash": "095f709a399ffb023a17c4688bc93418"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-mastersystem-tmb.jpg",
+      "added": 61,
+      "hash": "a36854a5fb44288eb897df3362c529c0"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-megadrive-tmb.jpg",
+      "added": 61,
+      "hash": "e0643bec7872a9b1c3984c6f0b82ba1c"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-megaman-tmb.jpg",
+      "added": 61,
+      "hash": "bf83ea2024c06adc7a53ed86389c3299"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-menu-tmb.jpg",
+      "added": 61,
+      "hash": "90ce6bf23bb613235f6ace9d4e4189b3"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-moonlight-tmb.jpg",
+      "added": 61,
+      "hash": "2c5be262e26e9da5ce2ac5352d9efdff"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-movies-tmb.jpg",
+      "added": 61,
+      "hash": "3c53a4bd998a7eaf13635a1e24da5a5a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-mrboom-tmb.jpg",
+      "added": 61,
+      "hash": "1c016113089a77fb54601304848625c1"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-msx1-tmb.jpg",
+      "added": 61,
+      "hash": "ea4c9c90ca8ebc665ec62fa05296cc29"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-msx2-tmb.jpg",
+      "added": 61,
+      "hash": "7decfefad78ff3cfc032c58a1cef8cdf"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-msxturbor-tmb.jpg",
+      "added": 61,
+      "hash": "c3abb03064abbce64beabdbd3d72e5ff"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-multivision-tmb.jpg",
+      "added": 61,
+      "hash": "0d052907c05ed28fac0675c0c93dc439"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-music-tmb.jpg",
+      "added": 61,
+      "hash": "6cfd6fdb25f0f503478027881458b81a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-n64-tmb.jpg",
+      "added": 61,
+      "hash": "c70cd5876a46158483742415497bba59"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-n64dd-tmb.jpg",
+      "added": 61,
+      "hash": "97e676cb9e9b2365a5791f28671981ca"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-naomi-tmb.jpg",
+      "added": 61,
+      "hash": "dfa0c70704323ec9a871bbca02ccabd6"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-naomigd-tmb.jpg",
+      "added": 61,
+      "hash": "74ef3a598d0228f9b0b3bdadae804c61"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-nds-tmb.jpg",
+      "added": 61,
+      "hash": "cdf96ece01facc0bec9770021dea9d4a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-neogeo-tmb.jpg",
+      "added": 61,
+      "hash": "803d6480bcc9bcdaec815ea42b5312b0"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-neogeocd-tmb.jpg",
+      "added": 61,
+      "hash": "84f111bde47e647fc9a205595ce4fa3d"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-nes-tmb.jpg",
+      "added": 61,
+      "hash": "e6df896438fda71f435b43e4d8217a72"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-nesh-tmb.jpg",
+      "added": 61,
+      "hash": "ce548ff6cd18b64489c714d48d37912d"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-netsurf-tmb.jpg",
+      "added": 61,
+      "hash": "434ee34a17b80a7ab50f65f7db5c0b36"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-ngp-tmb.jpg",
+      "added": 61,
+      "hash": "f3c49b763bba253297d6338a4d2426c2"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-ngpc-tmb.jpg",
+      "added": 61,
+      "hash": "9a4825ec9b2d8b221c98612afed8131d"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-odyssey2-tmb.jpg",
+      "added": 61,
+      "hash": "f35a23dfe9af161fd8bdb435eb8322cc"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-openarena-tmb.jpg",
+      "added": 61,
+      "hash": "f6b1bd1365d176ccaf0a9829c6c4fe61"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-openbor-tmb.jpg",
+      "added": 61,
+      "hash": "f8d920c7580734220eaf460e8c697d7d"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-oric-tmb.jpg",
+      "added": 61,
+      "hash": "edb41e1ac5db2e037cae94a53f916c45"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-palm-tmb.jpg",
+      "added": 61,
+      "hash": "62187e36c15e0d80e1a7225173d8ff60"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-pc-tmb.jpg",
+      "added": 61,
+      "hash": "b9f51e11624d67fbdfd8e19d0114b681"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-pc88-tmb.jpg",
+      "added": 61,
+      "hash": "a68a14caf432f80707610230860a051d"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-pc98-tmb.jpg",
+      "added": 61,
+      "hash": "bebe504dab7dc3236f5519699460834f"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-pcengine-tmb.jpg",
+      "added": 61,
+      "hash": "3f06f1b2762d4ea788371835e76d6051"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-pcenginecd-tmb.jpg",
+      "added": 61,
+      "hash": "dbd84bb9fbfdeff59363ead388373187"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-pcfx-tmb.jpg",
+      "added": 61,
+      "hash": "45f7132ee9ba8efd18157392d5494914"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-pokemini-tmb.jpg",
+      "added": 61,
+      "hash": "4db1296dd114a020c6d34f20744346e0"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-ports-tmb.jpg",
+      "added": 61,
+      "hash": "f866b21c8f9aee6c289785b4e55c57f2"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-ps2-tmb.jpg",
+      "added": 61,
+      "hash": "6532d39f0fb9f45b50b963653dd7d2d8"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-psp-tmb.jpg",
+      "added": 61,
+      "hash": "61518f7bd229516ffd3a58e9792024e3"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-pspminis-tmb.jpg",
+      "added": 61,
+      "hash": "411bdcc05fc765f0bddaeb89d2e00c17"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-psx-tmb.jpg",
+      "added": 61,
+      "hash": "aa7861ce7775b7f1166885efee87d25a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-quake-tmb.jpg",
+      "added": 61,
+      "hash": "45b5d821f09ce8c69aeabc2d8af301b2"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-quake2-tmb.jpg",
+      "added": 61,
+      "hash": "cd77acd8a8bbf80424edef53b75ef85a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-quake3-tmb.jpg",
+      "added": 61,
+      "hash": "e5af13635f57c5353a17eb1f30c9aa80"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-racing-tmb.jpg",
+      "added": 61,
+      "hash": "a9dc37f34a51425f8ed3f0f6f6268c4c"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-residualvm-tmb.jpg",
+      "added": 61,
+      "hash": "647adb4f950bda2564df3106bfb4a4d9"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-retropie-tmb.jpg",
+      "added": 61,
+      "hash": "69549b75128933dd52ab73a9e79dc0a1"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-rickdanger-tmb.jpg",
+      "added": 61,
+      "hash": "c2a879c751403374689d8ab5dd4c6a4a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-rickdangerous-tmb.jpg",
+      "added": 61,
+      "hash": "c2a879c751403374689d8ab5dd4c6a4a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-samcoupe-tmb.jpg",
+      "added": 61,
+      "hash": "170899d10ecada779a7233111b2f1338"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-satellaview-tmb.jpg",
+      "added": 61,
+      "hash": "125370fca9ce89e75f5edb0377316fa6"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-scummvm-tmb.jpg",
+      "added": 61,
+      "hash": "b8535387a1df5583278b0b32e242197e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-sega32x-tmb.jpg",
+      "added": 61,
+      "hash": "42ff656d3700c621e1ac98596d06e02b"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-segacd-tmb.jpg",
+      "added": 61,
+      "hash": "988cc9b3f3f3fdf2e70ae42fafa5c629"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-segasaturn-tmb.jpg",
+      "added": 61,
+      "hash": "f5d2b24bfd9910739f02f41c2b0e4896"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-sfc-tmb.jpg",
+      "added": 61,
+      "hash": "ef2ba9d1c8ad4c56e8101ccb76a38ea2"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-sg1000-tmb.jpg",
+      "added": 61,
+      "hash": "bc64996340cfde2c1f824d3bb3a59939"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-shmups-tmb.jpg",
+      "added": 61,
+      "hash": "be7b5df99de5388fe02de3f93d5ac933"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-snes-tmb.jpg",
+      "added": 61,
+      "hash": "5f6a7038a168a964f40201692afbc7fd"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-snesh-tmb.jpg",
+      "added": 61,
+      "hash": "f89a6de8da2068df68edbb7046dfef1e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-sonic-tmb.jpg",
+      "added": 61,
+      "hash": "3c2d9f1d80a2fc10b5997b8693e9d06e"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-spectravideo-tmb.jpg",
+      "added": 61,
+      "hash": "f8288a117ab28f87d4d0534d2d1652db"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-sports-tmb.jpg",
+      "added": 61,
+      "hash": "45860182401b0376f37724fd6dd614c7"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-starwars-tmb.jpg",
+      "added": 61,
+      "hash": "de03d4b9f9e48ce26e57a2663c8e7c4a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-steam-tmb.jpg",
+      "added": 61,
+      "hash": "305787df1ef3df03d9852d8515a3b783"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-stratagus-tmb.jpg",
+      "added": 61,
+      "hash": "3f5db09a007b16de5c619fb454b8b778"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-sufami-tmb.jpg",
+      "added": 61,
+      "hash": "77d1f03c059f71b16f486bf31d6e9458"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-supergrafx-tmb.jpg",
+      "added": 61,
+      "hash": "74bd1548301de338ecb2059753d2d96a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-tg-cd-tmb.jpg",
+      "added": 61,
+      "hash": "ca46f79137e68b02d05fa03131b86190"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-tg16-tmb.jpg",
+      "added": 61,
+      "hash": "fae063a1dcd46107a3a4ad05e871f818"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-tg16cd-tmb.jpg",
+      "added": 61,
+      "hash": "ca46f79137e68b02d05fa03131b86190"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-thomson-tmb.jpg",
+      "added": 61,
+      "hash": "af30459c5b6e92a6d3917f524c15e5f9"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-ti99-tmb.jpg",
+      "added": 61,
+      "hash": "bae3add2149ea3f97141d07f8260db98"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-tic80-tmb.jpg",
+      "added": 61,
+      "hash": "2cd324c4c14cfdef181af6d3b75d8522"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-trackball-tmb.jpg",
+      "added": 61,
+      "hash": "f8f9452dfd1ccc76693682778883275c"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-trs-80-tmb.jpg",
+      "added": 61,
+      "hash": "c3aff62b216b9ca74ffe044cae1f4b85"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-uzebox-tmb.jpg",
+      "added": 61,
+      "hash": "87326c73699e15e935a23297706be389"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-vectrex-tmb.jpg",
+      "added": 61,
+      "hash": "d78a222f5cc49aad1fc957b265a368f4"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-videopac-tmb.jpg",
+      "added": 61,
+      "hash": "ca8bee8353f414b4985e81af44531649"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-virtualboy-tmb.jpg",
+      "added": 61,
+      "hash": "553900ce5f52886b2dd722965ca2daf8"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-wii-tmb.jpg",
+      "added": 61,
+      "hash": "b82813cb469edb96f8d5c516753ed479"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-wiiu-tmb.jpg",
+      "added": 61,
+      "hash": "fac33391402a5f41f043c945f3c3a150"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-wolf3d-tmb.jpg",
+      "added": 61,
+      "hash": "e1344c8d74e39acae89703a1cd31a708"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-wolfenstein3d-tmb.jpg",
+      "added": 61,
+      "hash": "e1344c8d74e39acae89703a1cd31a708"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-wswan-tmb.jpg",
+      "added": 61,
+      "hash": "60a72fbdfe6d3c4194f3e0baa548bb88"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-wswanc-tmb.jpg",
+      "added": 61,
+      "hash": "4cbad470aa0bbb40091f8086b189a77f"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-x1-tmb.jpg",
+      "added": 61,
+      "hash": "e8a9f732927046a077420e63e57a2df3"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-x68000-tmb.jpg",
+      "added": 61,
+      "hash": "9f9ce3015f9762cdb4c9eefbfb1ae5c6"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-zx81-tmb.jpg",
+      "added": 61,
+      "hash": "5f5388d7a839d7446b34df7e11a7a93a"
+    },
+    {
+      "path": "lcdmarquees/thumbnails/comictheme-zxspectrum-tmb.jpg",
+      "added": 61,
+      "hash": "c7564305de5b620c9da2e3e63dee02e0"
     },
     {
       "path": "lcdmarquees/thumbnails/default-fbneo-tmb.jpg",
